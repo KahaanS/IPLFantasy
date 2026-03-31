@@ -1,0 +1,19 @@
+{
+    "data": {
+        "id": "a0093df7-878e-43b7-a073-8db294d9760c",
+        "name": "Brijesh Sharma",
+        "country": "India",
+        "playerImg": "https://h.cricapi.com/img/icon512.png"
+    },
+    "status": "success",
+    "info": {
+        "hitsToday": 24,
+        "hitsUsed": 1,
+        "hitsLimit": 100,
+        "credits": 0,
+        "server": 5,
+        "queryTime": 25.5881,
+        "s": 0,
+        "cache": 0
+    }
+}
