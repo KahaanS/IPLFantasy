@@ -1,5 +1,5 @@
 {
-  "match_id": "55fe0f15-6eb0-4ad5-835b-5564be4f6a21",
+  "match_id": "547b47e3-b2d9-4f51-8a49-8e7e4c946a6e",
   "match_name": "Royal Challengers Bengaluru vs Sunrisers Hyderabad, 1st Match, Indian Premier League 2026",
   "player_points": {
     "d6720897-e81d-4703-bf33-d2b60c973d30": {
@@ -223,6 +223,19 @@
         "total": -2
       }
     },
+    "6db25d60-ff96-4d8d-8d22-dedeeb5ffa29": {
+      "name": "Philip Salt",
+      "role": "WK-Batsman",
+      "points": {
+        "batting_points": 16,
+        "sr_points": 0,
+        "bowling_points": 0,
+        "economy_points": 0,
+        "fielding_points": 28,
+        "lineup_bonus": 4,
+        "total": 48
+      }
+    },
     "e28de73b-f5df-49eb-bdf6-c50471319404": {
       "name": "Jitesh Sharma",
       "role": "WK-Batsman",
@@ -260,19 +273,6 @@
         "fielding_points": 8,
         "lineup_bonus": 4,
         "total": 145
-      }
-    },
-    "6db25d60-ff96-4d8d-8d22-dedeeb5ffa29": {
-      "name": "Philip Salt",
-      "role": "WK-Batsman",
-      "points": {
-        "batting_points": 16,
-        "sr_points": 0,
-        "bowling_points": 0,
-        "economy_points": 0,
-        "fielding_points": 0,
-        "lineup_bonus": 4,
-        "total": 20
       }
     },
     "88215ee9-ca67-48af-a3f0-6b38718bd830": {

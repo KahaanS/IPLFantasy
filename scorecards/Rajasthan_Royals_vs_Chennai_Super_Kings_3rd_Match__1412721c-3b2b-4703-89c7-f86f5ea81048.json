@@ -1,12 +1,12 @@
 {
     "data": {
-        "id": "d788e9f9-99bf-4650-a035-92a7e21b3d08",
+        "id": "1412721c-3b2b-4703-89c7-f86f5ea81048",
         "name": "Rajasthan Royals vs Chennai Super Kings, 3rd Match, Indian Premier League 2026",
         "matchType": "t20",
         "status": "Rajasthan Royals won by 8 wkts",
         "venue": "Barsapara Cricket Stadium, Guwahati",
         "date": "2026-03-30",
-        "dateTimeGMT": "2026-03-30T14:00:00",
+        "dateTimeGMT": "2026-03-30T00:00:00",
         "teams": [
             "Rajasthan Royals",
             "Chennai Super Kings"
@@ -614,12 +614,12 @@
     },
     "status": "success",
     "info": {
-        "hitsToday": 10,
+        "hitsToday": 76,
         "hitsUsed": 10,
         "hitsLimit": 100,
         "credits": 0,
-        "server": 9,
-        "queryTime": 34.0837,
+        "server": 5,
+        "queryTime": 20.6975,
         "s": 0,
         "cache": 0
     }

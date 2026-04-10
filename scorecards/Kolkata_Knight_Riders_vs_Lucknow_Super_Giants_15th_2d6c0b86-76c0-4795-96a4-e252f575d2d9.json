@@ -1,0 +1,628 @@
+{
+    "data": {
+        "id": "2d6c0b86-76c0-4795-96a4-e252f575d2d9",
+        "name": "Kolkata Knight Riders vs Lucknow Super Giants, 15th Match, Indian Premier League 2026",
+        "matchType": "t20",
+        "status": "Lucknow Super Giants won by 3 wkts",
+        "venue": "Eden Gardens, Kolkata",
+        "date": "2026-04-09",
+        "dateTimeGMT": "2026-04-09T14:00:00",
+        "teams": [
+            "Kolkata Knight Riders",
+            "Lucknow Super Giants"
+        ],
+        "teamInfo": [
+            {
+                "name": "Kolkata Knight Riders",
+                "shortname": "KKR",
+                "img": "https://g.cricapi.com/iapi/206-637852958714346149.png?w=48"
+            },
+            {
+                "name": "Lucknow Super Giants",
+                "shortname": "LSG",
+                "img": "https://g.cricapi.com/iapi/215-637876059669009476.png?w=48"
+            }
+        ],
+        "score": [
+            {
+                "r": 181,
+                "w": 4,
+                "o": 20,
+                "inning": "Kolkata Knight Riders Inning 1"
+            },
+            {
+                "r": 182,
+                "w": 7,
+                "o": 20,
+                "inning": "Lucknow Super Giants Inning 1"
+            }
+        ],
+        "tossWinner": "lucknow super giants",
+        "tossChoice": "bowl",
+        "matchWinner": "Lucknow Super Giants",
+        "series_id": "87c62aac-bc3c-4738-ab93-19da0690488f",
+        "scorecard": [
+            {
+                "batting": [
+                    {
+                        "batsman": {
+                            "id": "cdc2646c-1fe7-4bc2-b26e-42453f45a212",
+                            "name": "Ajinkya Rahane"
+                        },
+                        "dismissal": "catch",
+                        "bowler": {
+                            "id": "93eaaabd-7529-44cb-a8c7-52acd30ea54e",
+                            "name": "Digvesh Singh Rathi"
+                        },
+                        "catcher": {
+                            "id": "11d06633-aa20-469c-8fbb-676a1ae33eed",
+                            "name": "Mohammed Shami",
+                            "altnames": [
+                                "shami"
+                            ]
+                        },
+                        "dismissal-text": "c Mohammed Shami b Digvesh Singh Rathi",
+                        "r": 41,
+                        "b": 24,
+                        "4s": 4,
+                        "6s": 2,
+                        "sr": 170.83
+                    },
+                    {
+                        "batsman": {
+                            "id": "08924d57-b4d3-4ed0-903d-087a8384be12",
+                            "name": "Finn Allen"
+                        },
+                        "dismissal": "catch",
+                        "bowler": {
+                            "id": "a67a5fef-c1d6-4264-a6a6-c1984489bd36",
+                            "name": "Prince Yadav"
+                        },
+                        "catcher": {
+                            "id": "93eaaabd-7529-44cb-a8c7-52acd30ea54e",
+                            "name": "Digvesh Singh Rathi"
+                        },
+                        "dismissal-text": "c Digvesh Singh Rathi b Prince Yadav",
+                        "r": 9,
+                        "b": 8,
+                        "4s": 2,
+                        "6s": 0,
+                        "sr": 112.5
+                    },
+                    {
+                        "batsman": {
+                            "id": "3c89df94-f39c-4c51-8e64-441c73c32c78",
+                            "name": "Angkrish Raghuvanshi"
+                        },
+                        "dismissal": "catch",
+                        "bowler": {
+                            "id": "63075eff-1f66-4bf7-923f-5f92ee123283",
+                            "name": "Manimaran Siddharth"
+                        },
+                        "catcher": {
+                            "id": "3fef81b0-c1e9-45eb-954f-519f3b33d640",
+                            "name": "Aiden Markram"
+                        },
+                        "dismissal-text": "c Aiden Markram b Manimaran Siddharth",
+                        "r": 45,
+                        "b": 33,
+                        "4s": 5,
+                        "6s": 2,
+                        "sr": 136.36
+                    },
+                    {
+                        "batsman": {
+                            "id": "abe58090-e933-4888-8538-64f4611ee259",
+                            "name": "Cameron Green"
+                        },
+                        "dismissal-text": "not out",
+                        "r": 32,
+                        "b": 24,
+                        "4s": 3,
+                        "6s": 1,
+                        "sr": 133.33
+                    },
+                    {
+                        "batsman": {
+                            "id": "11864f31-b766-4766-9cbc-5026015ace48",
+                            "name": "Rinku Singh"
+                        },
+                        "dismissal": "bowled",
+                        "bowler": {
+                            "id": "332200ad-d1f8-4035-95c5-b33bd1c9a939",
+                            "name": "Avesh Khan"
+                        },
+                        "dismissal-text": "b Avesh Khan",
+                        "r": 4,
+                        "b": 7,
+                        "4s": 0,
+                        "6s": 0,
+                        "sr": 57.14
+                    },
+                    {
+                        "batsman": {
+                            "id": "c699ec2b-a5f6-4ee0-a42d-79391b65b293",
+                            "name": "Rovman Powell"
+                        },
+                        "dismissal-text": "not out",
+                        "r": 39,
+                        "b": 24,
+                        "4s": 4,
+                        "6s": 2,
+                        "sr": 162.5
+                    }
+                ],
+                "bowling": [
+                    {
+                        "bowler": {
+                            "id": "11d06633-aa20-469c-8fbb-676a1ae33eed",
+                            "name": "Mohammed Shami",
+                            "altnames": [
+                                "shami"
+                            ]
+                        },
+                        "o": 4,
+                        "m": 0,
+                        "r": 27,
+                        "w": 0,
+                        "nb": 0,
+                        "wd": 1,
+                        "eco": 6.8
+                    },
+                    {
+                        "bowler": {
+                            "id": "a67a5fef-c1d6-4264-a6a6-c1984489bd36",
+                            "name": "Prince Yadav"
+                        },
+                        "o": 4,
+                        "m": 0,
+                        "r": 47,
+                        "w": 1,
+                        "nb": 0,
+                        "wd": 3,
+                        "eco": 11.8
+                    },
+                    {
+                        "bowler": {
+                            "id": "63075eff-1f66-4bf7-923f-5f92ee123283",
+                            "name": "Manimaran Siddharth"
+                        },
+                        "o": 4,
+                        "m": 0,
+                        "r": 34,
+                        "w": 1,
+                        "nb": 0,
+                        "wd": 2,
+                        "eco": 8.5
+                    },
+                    {
+                        "bowler": {
+                            "id": "93eaaabd-7529-44cb-a8c7-52acd30ea54e",
+                            "name": "Digvesh Singh Rathi"
+                        },
+                        "o": 4,
+                        "m": 0,
+                        "r": 25,
+                        "w": 1,
+                        "nb": 0,
+                        "wd": 0,
+                        "eco": 6.2
+                    },
+                    {
+                        "bowler": {
+                            "id": "332200ad-d1f8-4035-95c5-b33bd1c9a939",
+                            "name": "Avesh Khan"
+                        },
+                        "o": 4,
+                        "m": 0,
+                        "r": 44,
+                        "w": 1,
+                        "nb": 0,
+                        "wd": 1,
+                        "eco": 11
+                    }
+                ],
+                "catching": [
+                    {
+                        "catcher": {
+                            "id": "11d06633-aa20-469c-8fbb-676a1ae33eed",
+                            "name": "Mohammed Shami",
+                            "altnames": [
+                                "shami"
+                            ]
+                        },
+                        "stumped": 0,
+                        "runout": 0,
+                        "catch": 1,
+                        "cb": 0,
+                        "lbw": 0,
+                        "bowled": 0
+                    },
+                    {
+                        "catcher": {
+                            "id": "93eaaabd-7529-44cb-a8c7-52acd30ea54e",
+                            "name": "Digvesh Singh Rathi"
+                        },
+                        "stumped": 0,
+                        "runout": 0,
+                        "catch": 1,
+                        "cb": 0,
+                        "lbw": 0,
+                        "bowled": 0
+                    },
+                    {
+                        "catcher": {
+                            "id": "3fef81b0-c1e9-45eb-954f-519f3b33d640",
+                            "name": "Aiden Markram"
+                        },
+                        "stumped": 0,
+                        "runout": 0,
+                        "catch": 1,
+                        "cb": 0,
+                        "lbw": 0,
+                        "bowled": 0
+                    },
+                    {
+                        "stumped": 0,
+                        "runout": 0,
+                        "catch": 0,
+                        "cb": 0,
+                        "lbw": 0,
+                        "bowled": 1,
+                        "catcher": {
+                            "id": "332200ad-d1f8-4035-95c5-b33bd1c9a939",
+                            "name": "Avesh Khan"
+                        }
+                    }
+                ],
+                "extras": {},
+                "totals": {},
+                "inning": "Kolkata Knight Riders Inning 1"
+            },
+            {
+                "batting": [
+                    {
+                        "batsman": {
+                            "id": "6eaac800-13e7-4a07-8ee2-14acd04cc53f",
+                            "name": "Mitchell Marsh"
+                        },
+                        "dismissal": "catch",
+                        "bowler": {
+                            "id": "82de5824-b29b-4737-9e9d-44f5796ef227",
+                            "name": "Vaibhav Arora"
+                        },
+                        "catcher": {
+                            "id": "3c89df94-f39c-4c51-8e64-441c73c32c78",
+                            "name": "Angkrish Raghuvanshi"
+                        },
+                        "dismissal-text": "c Angkrish Raghuvanshi b Vaibhav Arora",
+                        "r": 15,
+                        "b": 11,
+                        "4s": 1,
+                        "6s": 1,
+                        "sr": 136.36
+                    },
+                    {
+                        "batsman": {
+                            "id": "3fef81b0-c1e9-45eb-954f-519f3b33d640",
+                            "name": "Aiden Markram"
+                        },
+                        "dismissal": "catch",
+                        "bowler": {
+                            "id": "82de5824-b29b-4737-9e9d-44f5796ef227",
+                            "name": "Vaibhav Arora"
+                        },
+                        "catcher": {
+                            "id": "c699ec2b-a5f6-4ee0-a42d-79391b65b293",
+                            "name": "Rovman Powell"
+                        },
+                        "dismissal-text": "c Rovman Powell b Vaibhav Arora",
+                        "r": 22,
+                        "b": 15,
+                        "4s": 2,
+                        "6s": 1,
+                        "sr": 146.67
+                    },
+                    {
+                        "batsman": {
+                            "id": "a52b2d20-7c98-4238-9ba4-ec78419a5cc2",
+                            "name": "Rishabh Pant"
+                        },
+                        "dismissal": "catch",
+                        "bowler": {
+                            "id": "abe58090-e933-4888-8538-64f4611ee259",
+                            "name": "Cameron Green"
+                        },
+                        "catcher": {
+                            "id": "ff17824f-0e1c-4eb7-acd3-8b5d116934bc",
+                            "name": "Kartik Tyagi"
+                        },
+                        "dismissal-text": "c Kartik Tyagi b Cameron Green",
+                        "r": 10,
+                        "b": 9,
+                        "4s": 1,
+                        "6s": 0,
+                        "sr": 111.11
+                    },
+                    {
+                        "batsman": {
+                            "id": "151d6979-05d3-4c1f-ae30-0e58af0e8613",
+                            "name": "Ayush Badoni"
+                        },
+                        "dismissal": "catch",
+                        "bowler": {
+                            "id": "2958faf6-f7d1-4150-aa9e-e261a629ba0d",
+                            "name": "Anukul Roy"
+                        },
+                        "catcher": {
+                            "id": "11864f31-b766-4766-9cbc-5026015ace48",
+                            "name": "Rinku Singh"
+                        },
+                        "dismissal-text": "c Rinku Singh b Anukul Roy",
+                        "r": 54,
+                        "b": 34,
+                        "4s": 7,
+                        "6s": 2,
+                        "sr": 158.82
+                    },
+                    {
+                        "batsman": {
+                            "id": "4e8ab9cd-c5af-430e-887b-d22bf74ad052",
+                            "name": "Nicholas Pooran"
+                        },
+                        "dismissal": "catch",
+                        "bowler": {
+                            "id": "ff17824f-0e1c-4eb7-acd3-8b5d116934bc",
+                            "name": "Kartik Tyagi"
+                        },
+                        "catcher": {
+                            "id": "3187d301-269d-4823-b895-66d652ddefca",
+                            "name": "Ramandeep Singh"
+                        },
+                        "dismissal-text": "c Ramandeep Singh b Kartik Tyagi",
+                        "r": 13,
+                        "b": 15,
+                        "4s": 0,
+                        "6s": 1,
+                        "sr": 86.67
+                    },
+                    {
+                        "batsman": {
+                            "id": "dd665f5d-04e8-436b-b376-8fd2a9b8bf8a",
+                            "name": "Abdul Samad"
+                        },
+                        "dismissal": "bowled",
+                        "bowler": {
+                            "id": "2958faf6-f7d1-4150-aa9e-e261a629ba0d",
+                            "name": "Anukul Roy"
+                        },
+                        "dismissal-text": "b Anukul Roy",
+                        "r": 2,
+                        "b": 4,
+                        "4s": 0,
+                        "6s": 0,
+                        "sr": 50
+                    },
+                    {
+                        "batsman": {
+                            "id": "5f2406ef-f96e-4f60-8529-71d2987ff4e3",
+                            "name": "Mukul Choudhary"
+                        },
+                        "dismissal-text": "not out",
+                        "r": 54,
+                        "b": 27,
+                        "4s": 2,
+                        "6s": 7,
+                        "sr": 200
+                    },
+                    {
+                        "batsman": {
+                            "id": "11d06633-aa20-469c-8fbb-676a1ae33eed",
+                            "name": "Mohammed Shami",
+                            "altnames": [
+                                "shami"
+                            ]
+                        },
+                        "dismissal": "catch",
+                        "bowler": {
+                            "id": "ef2e9c01-41f2-4349-a945-45d8b11dbd19",
+                            "name": "Sunil Narine"
+                        },
+                        "catcher": {
+                            "id": "2958faf6-f7d1-4150-aa9e-e261a629ba0d",
+                            "name": "Anukul Roy"
+                        },
+                        "dismissal-text": "c Anukul Roy b Sunil Narine",
+                        "r": 1,
+                        "b": 3,
+                        "4s": 0,
+                        "6s": 0,
+                        "sr": 33.33
+                    },
+                    {
+                        "batsman": {
+                            "id": "332200ad-d1f8-4035-95c5-b33bd1c9a939",
+                            "name": "Avesh Khan"
+                        },
+                        "dismissal-text": "not out",
+                        "r": 1,
+                        "b": 3,
+                        "4s": 0,
+                        "6s": 0,
+                        "sr": 33.33
+                    }
+                ],
+                "bowling": [
+                    {
+                        "bowler": {
+                            "id": "82de5824-b29b-4737-9e9d-44f5796ef227",
+                            "name": "Vaibhav Arora"
+                        },
+                        "o": 4,
+                        "m": 0,
+                        "r": 38,
+                        "w": 2,
+                        "nb": 0,
+                        "wd": 0,
+                        "eco": 9.5
+                    },
+                    {
+                        "bowler": {
+                            "id": "2958faf6-f7d1-4150-aa9e-e261a629ba0d",
+                            "name": "Anukul Roy"
+                        },
+                        "o": 4,
+                        "m": 0,
+                        "r": 32,
+                        "w": 2,
+                        "nb": 0,
+                        "wd": 4,
+                        "eco": 8
+                    },
+                    {
+                        "bowler": {
+                            "id": "80193c8f-687d-47c3-a7e9-b098a83c7812",
+                            "name": "Navdeep Saini"
+                        },
+                        "o": 3,
+                        "m": 0,
+                        "r": 37,
+                        "w": 0,
+                        "nb": 0,
+                        "wd": 1,
+                        "eco": 12.3
+                    },
+                    {
+                        "bowler": {
+                            "id": "ef2e9c01-41f2-4349-a945-45d8b11dbd19",
+                            "name": "Sunil Narine"
+                        },
+                        "o": 4,
+                        "m": 0,
+                        "r": 13,
+                        "w": 1,
+                        "nb": 0,
+                        "wd": 0,
+                        "eco": 3.2
+                    },
+                    {
+                        "bowler": {
+                            "id": "ff17824f-0e1c-4eb7-acd3-8b5d116934bc",
+                            "name": "Kartik Tyagi"
+                        },
+                        "o": 3,
+                        "m": 0,
+                        "r": 31,
+                        "w": 1,
+                        "nb": 0,
+                        "wd": 0,
+                        "eco": 10.3
+                    },
+                    {
+                        "bowler": {
+                            "id": "abe58090-e933-4888-8538-64f4611ee259",
+                            "name": "Cameron Green"
+                        },
+                        "o": 2,
+                        "m": 0,
+                        "r": 28,
+                        "w": 1,
+                        "nb": 1,
+                        "wd": 1,
+                        "eco": 14
+                    }
+                ],
+                "catching": [
+                    {
+                        "catcher": {
+                            "id": "3c89df94-f39c-4c51-8e64-441c73c32c78",
+                            "name": "Angkrish Raghuvanshi"
+                        },
+                        "stumped": 0,
+                        "runout": 0,
+                        "catch": 1,
+                        "cb": 0,
+                        "lbw": 0,
+                        "bowled": 0
+                    },
+                    {
+                        "catcher": {
+                            "id": "c699ec2b-a5f6-4ee0-a42d-79391b65b293",
+                            "name": "Rovman Powell"
+                        },
+                        "stumped": 0,
+                        "runout": 0,
+                        "catch": 1,
+                        "cb": 0,
+                        "lbw": 0,
+                        "bowled": 0
+                    },
+                    {
+                        "catcher": {
+                            "id": "ff17824f-0e1c-4eb7-acd3-8b5d116934bc",
+                            "name": "Kartik Tyagi"
+                        },
+                        "stumped": 0,
+                        "runout": 0,
+                        "catch": 1,
+                        "cb": 0,
+                        "lbw": 0,
+                        "bowled": 0
+                    },
+                    {
+                        "catcher": {
+                            "id": "11864f31-b766-4766-9cbc-5026015ace48",
+                            "name": "Rinku Singh"
+                        },
+                        "stumped": 0,
+                        "runout": 0,
+                        "catch": 1,
+                        "cb": 0,
+                        "lbw": 0,
+                        "bowled": 0
+                    },
+                    {
+                        "catcher": {
+                            "id": "3187d301-269d-4823-b895-66d652ddefca",
+                            "name": "Ramandeep Singh"
+                        },
+                        "stumped": 0,
+                        "runout": 0,
+                        "catch": 1,
+                        "cb": 0,
+                        "lbw": 0,
+                        "bowled": 0
+                    },
+                    {
+                        "catcher": {
+                            "id": "2958faf6-f7d1-4150-aa9e-e261a629ba0d",
+                            "name": "Anukul Roy"
+                        },
+                        "stumped": 0,
+                        "runout": 0,
+                        "catch": 1,
+                        "cb": 0,
+                        "lbw": 0,
+                        "bowled": 1
+                    }
+                ],
+                "extras": {},
+                "totals": {},
+                "inning": "Lucknow Super Giants Inning 1"
+            }
+        ],
+        "matchStarted": true,
+        "matchEnded": true
+    },
+    "status": "success",
+    "info": {
+        "hitsToday": 24,
+        "hitsUsed": 10,
+        "hitsLimit": 100,
+        "credits": 0,
+        "server": 6,
+        "queryTime": 70.3283,
+        "s": 0,
+        "cache": 0
+    }
+}

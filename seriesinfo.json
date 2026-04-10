@@ -8,159 +8,39 @@
             "odi": 0,
             "squads": 10,
             "startdate": "2026-03-28",
-            "t20": 20,
+            "t20": 70,
             "test": 0
         },
         "matchList": [
             {
                 "bbbEnabled": false,
-                "date": "2026-04-21",
-                "dateTimeGMT": "2026-04-21T14:00:00",
+                "date": "2026-04-11",
+                "dateTimeGMT": "2026-04-11T14:00:00",
                 "fantasyEnabled": false,
                 "hasSquad": true,
-                "id": "771739a7-564d-412d-a181-05722657e8f6",
+                "id": "d8d0937a-8bd7-47b0-acbc-00d381578f85",
                 "matchEnded": false,
                 "matchStarted": false,
                 "matchType": "t20",
-                "name": "Sunrisers Hyderabad vs Delhi Capitals, 31st Match, Indian Premier League 2026",
-                "status": "Match starts at Apr 21, 14:00 GMT",
+                "name": "Chennai Super Kings vs Delhi Capitals, 18th Match, Indian Premier League 2026",
+                "status": "Match starts at Apr 11, 14:00 GMT",
                 "teamInfo": [
+                    {
+                        "img": "https://g.cricapi.com/iapi/135-637852956181378533.png?w=48",
+                        "name": "Chennai Super Kings",
+                        "shortname": "CSK"
+                    },
                     {
                         "img": "https://g.cricapi.com/iapi/148-637874596301457910.png?w=48",
                         "name": "Delhi Capitals",
                         "shortname": "DC"
-                    },
-                    {
-                        "img": "https://g.cricapi.com/iapi/279-637852957609490368.png?w=48",
-                        "name": "Sunrisers Hyderabad",
-                        "shortname": "SRH"
                     }
                 ],
                 "teams": [
-                    "Sunrisers Hyderabad",
+                    "Chennai Super Kings",
                     "Delhi Capitals"
                 ],
-                "venue": "Rajiv Gandhi International Stadium, Hyderabad"
-            },
-            {
-                "bbbEnabled": false,
-                "date": "2026-04-04",
-                "dateTimeGMT": "2026-04-04T10:00:00",
-                "fantasyEnabled": false,
-                "hasSquad": true,
-                "id": "736f3e02-212a-49bc-8b3b-08a106312702",
-                "matchEnded": false,
-                "matchStarted": false,
-                "matchType": "t20",
-                "name": "Delhi Capitals vs Mumbai Indians, 8th Match, Indian Premier League 2026",
-                "status": "Match starts at Apr 04, 10:00 GMT",
-                "teamInfo": [
-                    {
-                        "img": "https://g.cricapi.com/iapi/148-637874596301457910.png?w=48",
-                        "name": "Delhi Capitals",
-                        "shortname": "DC"
-                    },
-                    {
-                        "img": "https://g.cricapi.com/iapi/226-637852956375593901.png?w=48",
-                        "name": "Mumbai Indians",
-                        "shortname": "MI"
-                    }
-                ],
-                "teams": [
-                    "Delhi Capitals",
-                    "Mumbai Indians"
-                ],
-                "venue": "Arun Jaitley Stadium, Delhi"
-            },
-            {
-                "bbbEnabled": false,
-                "date": "2026-04-22",
-                "dateTimeGMT": "2026-04-22T14:00:00",
-                "fantasyEnabled": false,
-                "hasSquad": true,
-                "id": "0d462688-8d5b-4aef-936c-094c7b664bb3",
-                "matchEnded": false,
-                "matchStarted": false,
-                "matchType": "t20",
-                "name": "Lucknow Super Giants vs Rajasthan Royals, 32nd Match, Indian Premier League 2026",
-                "status": "Match starts at Apr 22, 14:00 GMT",
-                "teamInfo": [
-                    {
-                        "img": "https://g.cricapi.com/iapi/215-637876059669009476.png?w=48",
-                        "name": "Lucknow Super Giants",
-                        "shortname": "LSG"
-                    },
-                    {
-                        "img": "https://g.cricapi.com/iapi/251-637852956607161886.png?w=48",
-                        "name": "Rajasthan Royals",
-                        "shortname": "RR"
-                    }
-                ],
-                "teams": [
-                    "Lucknow Super Giants",
-                    "Rajasthan Royals"
-                ],
-                "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow"
-            },
-            {
-                "bbbEnabled": false,
-                "date": "2026-05-01",
-                "dateTimeGMT": "2026-05-01T14:00:00",
-                "fantasyEnabled": false,
-                "hasSquad": true,
-                "id": "f2c8b750-3dcd-41c0-acbf-0e9c179eddaf",
-                "matchEnded": false,
-                "matchStarted": false,
-                "matchType": "t20",
-                "name": "Rajasthan Royals vs Delhi Capitals, 43rd Match, Indian Premier League 2026",
-                "status": "Match starts at May 01, 14:00 GMT",
-                "teamInfo": [
-                    {
-                        "img": "https://g.cricapi.com/iapi/148-637874596301457910.png?w=48",
-                        "name": "Delhi Capitals",
-                        "shortname": "DC"
-                    },
-                    {
-                        "img": "https://g.cricapi.com/iapi/251-637852956607161886.png?w=48",
-                        "name": "Rajasthan Royals",
-                        "shortname": "RR"
-                    }
-                ],
-                "teams": [
-                    "Rajasthan Royals",
-                    "Delhi Capitals"
-                ],
-                "venue": "Sawai Mansingh Stadium, Jaipur"
-            },
-            {
-                "bbbEnabled": false,
-                "date": "2026-04-10",
-                "dateTimeGMT": "2026-04-10T14:00:00",
-                "fantasyEnabled": false,
-                "hasSquad": true,
-                "id": "05a88a74-0e68-47d9-996b-257b3b1ebf8d",
-                "matchEnded": false,
-                "matchStarted": false,
-                "matchType": "t20",
-                "name": "Rajasthan Royals vs Royal Challengers Bengaluru, 16th Match, Indian Premier League 2026",
-                "status": "Match starts at Apr 10, 14:00 GMT",
-                "teamInfo": [
-                    {
-                        "img": "https://g.cricapi.com/iapi/251-637852956607161886.png?w=48",
-                        "name": "Rajasthan Royals",
-                        "shortname": "RR"
-                    },
-                    {
-                        "img": "https://g.cricapi.com/iapi/21439-638468478038395955.jpg?w=48",
-                        "name": "Royal Challengers Bengaluru",
-                        "shortname": "RCBW"
-                    }
-                ],
-                "teams": [
-                    "Rajasthan Royals",
-                    "Royal Challengers Bengaluru"
-                ],
-                "venue": "Barsapara Cricket Stadium, Guwahati"
+                "venue": "MA Chidambaram Stadium, Chennai"
             },
             {
                 "bbbEnabled": false,
@@ -168,7 +48,7 @@
                 "dateTimeGMT": "2026-05-03T10:00:00",
                 "fantasyEnabled": false,
                 "hasSquad": true,
-                "id": "178d76ff-214e-46a7-8fe2-27ab7afb75d3",
+                "id": "1153edf6-3ae1-4722-be1e-0256495b49cb",
                 "matchEnded": false,
                 "matchStarted": false,
                 "matchType": "t20",
@@ -194,341 +74,11 @@
             },
             {
                 "bbbEnabled": false,
-                "date": "2026-05-17",
-                "dateTimeGMT": "2026-05-17T10:00:00",
-                "fantasyEnabled": false,
-                "hasSquad": true,
-                "id": "26e1c31e-1033-4d72-887e-2c6ccb09b82f",
-                "matchEnded": false,
-                "matchStarted": false,
-                "matchType": "t20",
-                "name": "Punjab Kings vs Royal Challengers Bengaluru, 61st Match, Indian Premier League 2026",
-                "status": "Match starts at May 17, 10:00 GMT",
-                "teamInfo": [
-                    {
-                        "img": "https://g.cricapi.com/iapi/247-637852956959778791.png?w=48",
-                        "name": "Punjab Kings",
-                        "shortname": "PBKS"
-                    },
-                    {
-                        "img": "https://g.cricapi.com/iapi/21439-638468478038395955.jpg?w=48",
-                        "name": "Royal Challengers Bengaluru",
-                        "shortname": "RCBW"
-                    }
-                ],
-                "teams": [
-                    "Punjab Kings",
-                    "Royal Challengers Bengaluru"
-                ],
-                "venue": "Himachal Pradesh Cricket Association Stadium, Dharamsala"
-            },
-            {
-                "bbbEnabled": false,
-                "date": "2026-04-06",
-                "dateTimeGMT": "2026-04-06T14:00:00",
-                "fantasyEnabled": false,
-                "hasSquad": true,
-                "id": "adeebb28-bc39-439b-99ed-2daef5106232",
-                "matchEnded": false,
-                "matchStarted": false,
-                "matchType": "t20",
-                "name": "Kolkata Knight Riders vs Punjab Kings, 12th Match, Indian Premier League 2026",
-                "status": "Match starts at Apr 06, 14:00 GMT",
-                "teamInfo": [
-                    {
-                        "img": "https://g.cricapi.com/iapi/206-637852958714346149.png?w=48",
-                        "name": "Kolkata Knight Riders",
-                        "shortname": "KKR"
-                    },
-                    {
-                        "img": "https://g.cricapi.com/iapi/247-637852956959778791.png?w=48",
-                        "name": "Punjab Kings",
-                        "shortname": "PBKS"
-                    }
-                ],
-                "teams": [
-                    "Kolkata Knight Riders",
-                    "Punjab Kings"
-                ],
-                "venue": "Eden Gardens, Kolkata"
-            },
-            {
-                "bbbEnabled": false,
-                "date": "2026-05-09",
-                "dateTimeGMT": "2026-05-09T14:00:00",
-                "fantasyEnabled": false,
-                "hasSquad": true,
-                "id": "1511024c-7c43-453d-b3db-2ee6d6ee6c6e",
-                "matchEnded": false,
-                "matchStarted": false,
-                "matchType": "t20",
-                "name": "Rajasthan Royals vs Gujarat Titans, 52nd Match, Indian Premier League 2026",
-                "status": "Match starts at May 09, 14:00 GMT",
-                "teamInfo": [
-                    {
-                        "img": "https://g.cricapi.com/iapi/172-637852957798476823.png?w=48",
-                        "name": "Gujarat Titans",
-                        "shortname": "GT"
-                    },
-                    {
-                        "img": "https://g.cricapi.com/iapi/251-637852956607161886.png?w=48",
-                        "name": "Rajasthan Royals",
-                        "shortname": "RR"
-                    }
-                ],
-                "teams": [
-                    "Rajasthan Royals",
-                    "Gujarat Titans"
-                ],
-                "venue": "Sawai Mansingh Stadium, Jaipur"
-            },
-            {
-                "bbbEnabled": false,
-                "date": "2026-04-25",
-                "dateTimeGMT": "2026-04-25T10:00:00",
-                "fantasyEnabled": false,
-                "hasSquad": true,
-                "id": "0a8f942f-d951-4dd4-9543-3077af3c91eb",
-                "matchEnded": false,
-                "matchStarted": false,
-                "matchType": "t20",
-                "name": "Delhi Capitals vs Punjab Kings, 35th Match, Indian Premier League 2026",
-                "status": "Match starts at Apr 25, 10:00 GMT",
-                "teamInfo": [
-                    {
-                        "img": "https://g.cricapi.com/iapi/148-637874596301457910.png?w=48",
-                        "name": "Delhi Capitals",
-                        "shortname": "DC"
-                    },
-                    {
-                        "img": "https://g.cricapi.com/iapi/247-637852956959778791.png?w=48",
-                        "name": "Punjab Kings",
-                        "shortname": "PBKS"
-                    }
-                ],
-                "teams": [
-                    "Delhi Capitals",
-                    "Punjab Kings"
-                ],
-                "venue": "Arun Jaitley Stadium, Delhi"
-            },
-            {
-                "bbbEnabled": false,
-                "date": "2026-04-04",
-                "dateTimeGMT": "2026-04-04T14:00:00",
-                "fantasyEnabled": false,
-                "hasSquad": true,
-                "id": "ea4d01bf-bf47-4f7d-a4f8-32eade678141",
-                "matchEnded": false,
-                "matchStarted": false,
-                "matchType": "t20",
-                "name": "Gujarat Titans vs Rajasthan Royals, 9th Match, Indian Premier League 2026",
-                "status": "Match starts at Apr 04, 14:00 GMT",
-                "teamInfo": [
-                    {
-                        "img": "https://g.cricapi.com/iapi/172-637852957798476823.png?w=48",
-                        "name": "Gujarat Titans",
-                        "shortname": "GT"
-                    },
-                    {
-                        "img": "https://g.cricapi.com/iapi/251-637852956607161886.png?w=48",
-                        "name": "Rajasthan Royals",
-                        "shortname": "RR"
-                    }
-                ],
-                "teams": [
-                    "Gujarat Titans",
-                    "Rajasthan Royals"
-                ],
-                "venue": "Narendra Modi Stadium, Ahmedabad"
-            },
-            {
-                "bbbEnabled": false,
-                "date": "2026-05-06",
-                "dateTimeGMT": "2026-05-06T14:00:00",
-                "fantasyEnabled": false,
-                "hasSquad": true,
-                "id": "d9c104ce-83e8-4342-97d5-33d7ece256b4",
-                "matchEnded": false,
-                "matchStarted": false,
-                "matchType": "t20",
-                "name": "Sunrisers Hyderabad vs Punjab Kings, 49th Match, Indian Premier League 2026",
-                "status": "Match starts at May 06, 14:00 GMT",
-                "teamInfo": [
-                    {
-                        "img": "https://g.cricapi.com/iapi/247-637852956959778791.png?w=48",
-                        "name": "Punjab Kings",
-                        "shortname": "PBKS"
-                    },
-                    {
-                        "img": "https://g.cricapi.com/iapi/279-637852957609490368.png?w=48",
-                        "name": "Sunrisers Hyderabad",
-                        "shortname": "SRH"
-                    }
-                ],
-                "teams": [
-                    "Sunrisers Hyderabad",
-                    "Punjab Kings"
-                ],
-                "venue": "Rajiv Gandhi International Stadium, Hyderabad"
-            },
-            {
-                "bbbEnabled": false,
-                "date": "2026-04-26",
-                "dateTimeGMT": "2026-04-26T10:00:00",
-                "fantasyEnabled": false,
-                "hasSquad": true,
-                "id": "3bfe7704-4818-4501-9708-35261cb09f96",
-                "matchEnded": false,
-                "matchStarted": false,
-                "matchType": "t20",
-                "name": "Gujarat Titans vs Chennai Super Kings, 37th Match, Indian Premier League 2026",
-                "status": "Match starts at Apr 26, 10:00 GMT",
-                "teamInfo": [
-                    {
-                        "img": "https://g.cricapi.com/iapi/135-637852956181378533.png?w=48",
-                        "name": "Chennai Super Kings",
-                        "shortname": "CSK"
-                    },
-                    {
-                        "img": "https://g.cricapi.com/iapi/172-637852957798476823.png?w=48",
-                        "name": "Gujarat Titans",
-                        "shortname": "GT"
-                    }
-                ],
-                "teams": [
-                    "Gujarat Titans",
-                    "Chennai Super Kings"
-                ],
-                "venue": "Narendra Modi Stadium, Ahmedabad"
-            },
-            {
-                "bbbEnabled": false,
-                "date": "2026-05-16",
-                "dateTimeGMT": "2026-05-16T14:00:00",
-                "fantasyEnabled": false,
-                "hasSquad": true,
-                "id": "a30ef3c8-1002-4181-9167-39b9b7ea7760",
-                "matchEnded": false,
-                "matchStarted": false,
-                "matchType": "t20",
-                "name": "Kolkata Knight Riders vs Gujarat Titans, 60th Match, Indian Premier League 2026",
-                "status": "Match starts at May 16, 14:00 GMT",
-                "teamInfo": [
-                    {
-                        "img": "https://g.cricapi.com/iapi/172-637852957798476823.png?w=48",
-                        "name": "Gujarat Titans",
-                        "shortname": "GT"
-                    },
-                    {
-                        "img": "https://g.cricapi.com/iapi/206-637852958714346149.png?w=48",
-                        "name": "Kolkata Knight Riders",
-                        "shortname": "KKR"
-                    }
-                ],
-                "teams": [
-                    "Kolkata Knight Riders",
-                    "Gujarat Titans"
-                ],
-                "venue": "Eden Gardens, Kolkata"
-            },
-            {
-                "bbbEnabled": false,
-                "date": "2026-04-18",
-                "dateTimeGMT": "2026-04-18T10:00:00",
-                "fantasyEnabled": false,
-                "hasSquad": true,
-                "id": "d9242d24-f86f-4dbd-8291-3b00eadcda4a",
-                "matchEnded": false,
-                "matchStarted": false,
-                "matchType": "t20",
-                "name": "Royal Challengers Bengaluru vs Delhi Capitals, 26th Match, Indian Premier League 2026",
-                "status": "Match starts at Apr 18, 10:00 GMT",
-                "teamInfo": [
-                    {
-                        "img": "https://g.cricapi.com/iapi/148-637874596301457910.png?w=48",
-                        "name": "Delhi Capitals",
-                        "shortname": "DC"
-                    },
-                    {
-                        "img": "https://g.cricapi.com/iapi/21439-638468478038395955.jpg?w=48",
-                        "name": "Royal Challengers Bengaluru",
-                        "shortname": "RCBW"
-                    }
-                ],
-                "teams": [
-                    "Royal Challengers Bengaluru",
-                    "Delhi Capitals"
-                ],
-                "venue": "M.Chinnaswamy Stadium, Bengaluru"
-            },
-            {
-                "bbbEnabled": false,
-                "date": "2026-04-14",
-                "dateTimeGMT": "2026-04-14T14:00:00",
-                "fantasyEnabled": false,
-                "hasSquad": true,
-                "id": "f30e699c-2e4f-48dd-98d2-4321d9e622e7",
-                "matchEnded": false,
-                "matchStarted": false,
-                "matchType": "t20",
-                "name": "Chennai Super Kings vs Kolkata Knight Riders, 22nd Match, Indian Premier League 2026",
-                "status": "Match starts at Apr 14, 14:00 GMT",
-                "teamInfo": [
-                    {
-                        "img": "https://g.cricapi.com/iapi/135-637852956181378533.png?w=48",
-                        "name": "Chennai Super Kings",
-                        "shortname": "CSK"
-                    },
-                    {
-                        "img": "https://g.cricapi.com/iapi/206-637852958714346149.png?w=48",
-                        "name": "Kolkata Knight Riders",
-                        "shortname": "KKR"
-                    }
-                ],
-                "teams": [
-                    "Chennai Super Kings",
-                    "Kolkata Knight Riders"
-                ],
-                "venue": "MA Chidambaram Stadium, Chennai"
-            },
-            {
-                "bbbEnabled": false,
-                "date": "2026-04-23",
-                "dateTimeGMT": "2026-04-23T14:00:00",
-                "fantasyEnabled": false,
-                "hasSquad": true,
-                "id": "ef0699eb-29be-4949-8e4f-474e90a6be6b",
-                "matchEnded": false,
-                "matchStarted": false,
-                "matchType": "t20",
-                "name": "Mumbai Indians vs Chennai Super Kings, 33rd Match, Indian Premier League 2026",
-                "status": "Match starts at Apr 23, 14:00 GMT",
-                "teamInfo": [
-                    {
-                        "img": "https://g.cricapi.com/iapi/135-637852956181378533.png?w=48",
-                        "name": "Chennai Super Kings",
-                        "shortname": "CSK"
-                    },
-                    {
-                        "img": "https://g.cricapi.com/iapi/226-637852956375593901.png?w=48",
-                        "name": "Mumbai Indians",
-                        "shortname": "MI"
-                    }
-                ],
-                "teams": [
-                    "Mumbai Indians",
-                    "Chennai Super Kings"
-                ],
-                "venue": "Wankhede Stadium, Mumbai"
-            },
-            {
-                "bbbEnabled": false,
                 "date": "2026-04-13",
                 "dateTimeGMT": "2026-04-13T14:00:00",
                 "fantasyEnabled": false,
                 "hasSquad": true,
-                "id": "4a2b94e3-1e2d-45dc-b542-4764807e06e2",
+                "id": "d8360a13-342f-45b7-9f71-060e852777ec",
                 "matchEnded": false,
                 "matchStarted": false,
                 "matchType": "t20",
@@ -558,7 +108,7 @@
                 "dateTimeGMT": "2026-05-10T14:00:00",
                 "fantasyEnabled": false,
                 "hasSquad": true,
-                "id": "634ea924-b96f-478a-bd6f-48370174f344",
+                "id": "02d3614d-9727-43c5-a80c-0bf46c7499c6",
                 "matchEnded": false,
                 "matchStarted": false,
                 "matchType": "t20",
@@ -584,51 +134,51 @@
             },
             {
                 "bbbEnabled": false,
-                "date": "2026-05-12",
-                "dateTimeGMT": "2026-05-12T14:00:00",
+                "date": "2026-04-27",
+                "dateTimeGMT": "2026-04-27T14:00:00",
                 "fantasyEnabled": false,
                 "hasSquad": true,
-                "id": "ae3b8240-34ff-48ea-b74b-4840ab72ae33",
+                "id": "63c19cfb-3544-41df-8bd8-10049818a6c5",
                 "matchEnded": false,
                 "matchStarted": false,
                 "matchType": "t20",
-                "name": "Gujarat Titans vs Sunrisers Hyderabad, 56th Match, Indian Premier League 2026",
-                "status": "Match starts at May 12, 14:00 GMT",
+                "name": "Delhi Capitals vs Royal Challengers Bengaluru, 39th Match, Indian Premier League 2026",
+                "status": "Match starts at Apr 27, 14:00 GMT",
                 "teamInfo": [
                     {
-                        "img": "https://g.cricapi.com/iapi/172-637852957798476823.png?w=48",
-                        "name": "Gujarat Titans",
-                        "shortname": "GT"
+                        "img": "https://g.cricapi.com/iapi/148-637874596301457910.png?w=48",
+                        "name": "Delhi Capitals",
+                        "shortname": "DC"
                     },
                     {
-                        "img": "https://g.cricapi.com/iapi/279-637852957609490368.png?w=48",
-                        "name": "Sunrisers Hyderabad",
-                        "shortname": "SRH"
+                        "img": "https://g.cricapi.com/iapi/21439-638468478038395955.jpg?w=48",
+                        "name": "Royal Challengers Bengaluru",
+                        "shortname": "RCBW"
                     }
                 ],
                 "teams": [
-                    "Gujarat Titans",
-                    "Sunrisers Hyderabad"
+                    "Delhi Capitals",
+                    "Royal Challengers Bengaluru"
                 ],
-                "venue": "Narendra Modi Stadium, Ahmedabad"
+                "venue": "Arun Jaitley Stadium, Delhi"
             },
             {
                 "bbbEnabled": false,
-                "date": "2026-04-15",
-                "dateTimeGMT": "2026-04-15T14:00:00",
+                "date": "2026-05-13",
+                "dateTimeGMT": "2026-05-13T14:00:00",
                 "fantasyEnabled": false,
                 "hasSquad": true,
-                "id": "e8225a82-12c7-4bc8-8e40-4892f52d7d21",
+                "id": "0b3bab15-12b2-4a16-9f41-1096e40ff202",
                 "matchEnded": false,
                 "matchStarted": false,
                 "matchType": "t20",
-                "name": "Royal Challengers Bengaluru vs Lucknow Super Giants, 23rd Match, Indian Premier League 2026",
-                "status": "Match starts at Apr 15, 14:00 GMT",
+                "name": "Royal Challengers Bengaluru vs Kolkata Knight Riders, 57th Match, Indian Premier League 2026",
+                "status": "Match starts at May 13, 14:00 GMT",
                 "teamInfo": [
                     {
-                        "img": "https://g.cricapi.com/iapi/215-637876059669009476.png?w=48",
-                        "name": "Lucknow Super Giants",
-                        "shortname": "LSG"
+                        "img": "https://g.cricapi.com/iapi/206-637852958714346149.png?w=48",
+                        "name": "Kolkata Knight Riders",
+                        "shortname": "KKR"
                     },
                     {
                         "img": "https://g.cricapi.com/iapi/21439-638468478038395955.jpg?w=48",
@@ -638,9 +188,9 @@
                 ],
                 "teams": [
                     "Royal Challengers Bengaluru",
-                    "Lucknow Super Giants"
+                    "Kolkata Knight Riders"
                 ],
-                "venue": "M.Chinnaswamy Stadium, Bengaluru"
+                "venue": "Shaheed Veer Narayan Singh International Stadium, Raipur"
             },
             {
                 "bbbEnabled": false,
@@ -648,7 +198,7 @@
                 "dateTimeGMT": "2026-04-12T14:00:00",
                 "fantasyEnabled": false,
                 "hasSquad": true,
-                "id": "11d553de-3b2a-4e58-9abd-4bb7d575595e",
+                "id": "b85f1b39-5766-46c7-9cea-14a64e0750b3",
                 "matchEnded": false,
                 "matchStarted": false,
                 "matchType": "t20",
@@ -674,11 +224,41 @@
             },
             {
                 "bbbEnabled": false,
+                "date": "2026-04-17",
+                "dateTimeGMT": "2026-04-17T14:00:00",
+                "fantasyEnabled": false,
+                "hasSquad": true,
+                "id": "b481f31f-5ad7-4218-8a6e-16fc34d38048",
+                "matchEnded": false,
+                "matchStarted": false,
+                "matchType": "t20",
+                "name": "Gujarat Titans vs Kolkata Knight Riders, 25th Match, Indian Premier League 2026",
+                "status": "Match starts at Apr 17, 14:00 GMT",
+                "teamInfo": [
+                    {
+                        "img": "https://g.cricapi.com/iapi/172-637852957798476823.png?w=48",
+                        "name": "Gujarat Titans",
+                        "shortname": "GT"
+                    },
+                    {
+                        "img": "https://g.cricapi.com/iapi/206-637852958714346149.png?w=48",
+                        "name": "Kolkata Knight Riders",
+                        "shortname": "KKR"
+                    }
+                ],
+                "teams": [
+                    "Gujarat Titans",
+                    "Kolkata Knight Riders"
+                ],
+                "venue": "Narendra Modi Stadium, Ahmedabad"
+            },
+            {
+                "bbbEnabled": false,
                 "date": "2026-04-12",
                 "dateTimeGMT": "2026-04-12T10:00:00",
                 "fantasyEnabled": false,
                 "hasSquad": true,
-                "id": "36d875e2-3333-4fab-ba4d-4f89fb4d7055",
+                "id": "823d67eb-102e-4b60-93a0-1911a150d626",
                 "matchEnded": false,
                 "matchStarted": false,
                 "matchType": "t20",
@@ -704,491 +284,11 @@
             },
             {
                 "bbbEnabled": false,
-                "date": "2026-04-07",
-                "dateTimeGMT": "2026-04-07T14:00:00",
-                "fantasyEnabled": false,
-                "hasSquad": true,
-                "id": "4f617f5e-c635-4989-b135-5430dc73c5d7",
-                "matchEnded": false,
-                "matchStarted": false,
-                "matchType": "t20",
-                "name": "Rajasthan Royals vs Mumbai Indians, 13th Match, Indian Premier League 2026",
-                "status": "Match starts at Apr 07, 14:00 GMT",
-                "teamInfo": [
-                    {
-                        "img": "https://g.cricapi.com/iapi/226-637852956375593901.png?w=48",
-                        "name": "Mumbai Indians",
-                        "shortname": "MI"
-                    },
-                    {
-                        "img": "https://g.cricapi.com/iapi/251-637852956607161886.png?w=48",
-                        "name": "Rajasthan Royals",
-                        "shortname": "RR"
-                    }
-                ],
-                "teams": [
-                    "Rajasthan Royals",
-                    "Mumbai Indians"
-                ],
-                "venue": "Barsapara Cricket Stadium, Guwahati"
-            },
-            {
-                "bbbEnabled": false,
-                "date": "2026-03-28",
-                "dateTimeGMT": "2026-03-28T14:00:00",
-                "fantasyEnabled": false,
-                "hasSquad": true,
-                "id": "55fe0f15-6eb0-4ad5-835b-5564be4f6a21",
-                "matchEnded": false,
-                "matchStarted": false,
-                "matchType": "t20",
-                "name": "Royal Challengers Bengaluru vs Sunrisers Hyderabad, 1st Match, Indian Premier League 2026",
-                "status": "Match starts at Mar 28, 14:00 GMT",
-                "teamInfo": [
-                    {
-                        "img": "https://g.cricapi.com/iapi/21439-638468478038395955.jpg?w=48",
-                        "name": "Royal Challengers Bengaluru",
-                        "shortname": "RCBW"
-                    },
-                    {
-                        "img": "https://g.cricapi.com/iapi/279-637852957609490368.png?w=48",
-                        "name": "Sunrisers Hyderabad",
-                        "shortname": "SRH"
-                    }
-                ],
-                "teams": [
-                    "Royal Challengers Bengaluru",
-                    "Sunrisers Hyderabad"
-                ],
-                "venue": "M.Chinnaswamy Stadium, Bengaluru"
-            },
-            {
-                "bbbEnabled": false,
-                "date": "2026-04-01",
-                "dateTimeGMT": "2026-04-01T14:00:00",
-                "fantasyEnabled": false,
-                "hasSquad": true,
-                "id": "ae676d7c-3082-489c-96c5-5620f393c900",
-                "matchEnded": false,
-                "matchStarted": false,
-                "matchType": "t20",
-                "name": "Lucknow Super Giants vs Delhi Capitals, 5th Match, Indian Premier League 2026",
-                "status": "Match starts at Apr 01, 14:00 GMT",
-                "teamInfo": [
-                    {
-                        "img": "https://g.cricapi.com/iapi/148-637874596301457910.png?w=48",
-                        "name": "Delhi Capitals",
-                        "shortname": "DC"
-                    },
-                    {
-                        "img": "https://g.cricapi.com/iapi/215-637876059669009476.png?w=48",
-                        "name": "Lucknow Super Giants",
-                        "shortname": "LSG"
-                    }
-                ],
-                "teams": [
-                    "Lucknow Super Giants",
-                    "Delhi Capitals"
-                ],
-                "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow"
-            },
-            {
-                "bbbEnabled": false,
-                "date": "2026-05-04",
-                "dateTimeGMT": "2026-05-04T14:00:00",
-                "fantasyEnabled": false,
-                "hasSquad": true,
-                "id": "34d1e7e5-a498-4a9b-bb89-5a273ef81b8d",
-                "matchEnded": false,
-                "matchStarted": false,
-                "matchType": "t20",
-                "name": "Mumbai Indians vs Lucknow Super Giants, 47th Match, Indian Premier League 2026",
-                "status": "Match starts at May 04, 14:00 GMT",
-                "teamInfo": [
-                    {
-                        "img": "https://g.cricapi.com/iapi/215-637876059669009476.png?w=48",
-                        "name": "Lucknow Super Giants",
-                        "shortname": "LSG"
-                    },
-                    {
-                        "img": "https://g.cricapi.com/iapi/226-637852956375593901.png?w=48",
-                        "name": "Mumbai Indians",
-                        "shortname": "MI"
-                    }
-                ],
-                "teams": [
-                    "Mumbai Indians",
-                    "Lucknow Super Giants"
-                ],
-                "venue": "Wankhede Stadium, Mumbai"
-            },
-            {
-                "bbbEnabled": false,
-                "date": "2026-05-17",
-                "dateTimeGMT": "2026-05-17T14:00:00",
-                "fantasyEnabled": false,
-                "hasSquad": true,
-                "id": "0ea0c97c-6fb6-4728-832e-5abd0820edc2",
-                "matchEnded": false,
-                "matchStarted": false,
-                "matchType": "t20",
-                "name": "Delhi Capitals vs Rajasthan Royals, 62nd Match, Indian Premier League 2026",
-                "status": "Match starts at May 17, 14:00 GMT",
-                "teamInfo": [
-                    {
-                        "img": "https://g.cricapi.com/iapi/148-637874596301457910.png?w=48",
-                        "name": "Delhi Capitals",
-                        "shortname": "DC"
-                    },
-                    {
-                        "img": "https://g.cricapi.com/iapi/251-637852956607161886.png?w=48",
-                        "name": "Rajasthan Royals",
-                        "shortname": "RR"
-                    }
-                ],
-                "teams": [
-                    "Delhi Capitals",
-                    "Rajasthan Royals"
-                ],
-                "venue": "Arun Jaitley Stadium, Delhi"
-            },
-            {
-                "bbbEnabled": false,
-                "date": "2026-03-31",
-                "dateTimeGMT": "2026-03-31T14:00:00",
-                "fantasyEnabled": false,
-                "hasSquad": true,
-                "id": "11ff7db9-9c71-464e-afcb-5b03e4fa4b0a",
-                "matchEnded": false,
-                "matchStarted": false,
-                "matchType": "t20",
-                "name": "Punjab Kings vs Gujarat Titans, 4th Match, Indian Premier League 2026",
-                "status": "Match starts at Mar 31, 14:00 GMT",
-                "teamInfo": [
-                    {
-                        "img": "https://g.cricapi.com/iapi/172-637852957798476823.png?w=48",
-                        "name": "Gujarat Titans",
-                        "shortname": "GT"
-                    },
-                    {
-                        "img": "https://g.cricapi.com/iapi/247-637852956959778791.png?w=48",
-                        "name": "Punjab Kings",
-                        "shortname": "PBKS"
-                    }
-                ],
-                "teams": [
-                    "Punjab Kings",
-                    "Gujarat Titans"
-                ],
-                "venue": "Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, New Chandigarh"
-            },
-            {
-                "bbbEnabled": false,
-                "date": "2026-04-11",
-                "dateTimeGMT": "2026-04-11T14:00:00",
-                "fantasyEnabled": false,
-                "hasSquad": true,
-                "id": "204afd0a-026a-41f4-afda-653030a84e46",
-                "matchEnded": false,
-                "matchStarted": false,
-                "matchType": "t20",
-                "name": "Chennai Super Kings vs Delhi Capitals, 18th Match, Indian Premier League 2026",
-                "status": "Match starts at Apr 11, 14:00 GMT",
-                "teamInfo": [
-                    {
-                        "img": "https://g.cricapi.com/iapi/135-637852956181378533.png?w=48",
-                        "name": "Chennai Super Kings",
-                        "shortname": "CSK"
-                    },
-                    {
-                        "img": "https://g.cricapi.com/iapi/148-637874596301457910.png?w=48",
-                        "name": "Delhi Capitals",
-                        "shortname": "DC"
-                    }
-                ],
-                "teams": [
-                    "Chennai Super Kings",
-                    "Delhi Capitals"
-                ],
-                "venue": "MA Chidambaram Stadium, Chennai"
-            },
-            {
-                "bbbEnabled": false,
-                "date": "2026-05-24",
-                "dateTimeGMT": "2026-05-24T14:00:00",
-                "fantasyEnabled": false,
-                "hasSquad": true,
-                "id": "aec16058-7741-4f3d-a1b0-68d7210b29c9",
-                "matchEnded": false,
-                "matchStarted": false,
-                "matchType": "t20",
-                "name": "Kolkata Knight Riders vs Delhi Capitals, 70th Match, Indian Premier League 2026",
-                "status": "Match starts at May 24, 14:00 GMT",
-                "teamInfo": [
-                    {
-                        "img": "https://g.cricapi.com/iapi/148-637874596301457910.png?w=48",
-                        "name": "Delhi Capitals",
-                        "shortname": "DC"
-                    },
-                    {
-                        "img": "https://g.cricapi.com/iapi/206-637852958714346149.png?w=48",
-                        "name": "Kolkata Knight Riders",
-                        "shortname": "KKR"
-                    }
-                ],
-                "teams": [
-                    "Kolkata Knight Riders",
-                    "Delhi Capitals"
-                ],
-                "venue": "Eden Gardens, Kolkata"
-            },
-            {
-                "bbbEnabled": false,
-                "date": "2026-04-05",
-                "dateTimeGMT": "2026-04-05T10:00:00",
-                "fantasyEnabled": false,
-                "hasSquad": true,
-                "id": "e43dd29e-c60e-40c9-a6c4-6c1bd69dd671",
-                "matchEnded": false,
-                "matchStarted": false,
-                "matchType": "t20",
-                "name": "Sunrisers Hyderabad vs Lucknow Super Giants, 10th Match, Indian Premier League 2026",
-                "status": "Match starts at Apr 05, 10:00 GMT",
-                "teamInfo": [
-                    {
-                        "img": "https://g.cricapi.com/iapi/215-637876059669009476.png?w=48",
-                        "name": "Lucknow Super Giants",
-                        "shortname": "LSG"
-                    },
-                    {
-                        "img": "https://g.cricapi.com/iapi/279-637852957609490368.png?w=48",
-                        "name": "Sunrisers Hyderabad",
-                        "shortname": "SRH"
-                    }
-                ],
-                "teams": [
-                    "Sunrisers Hyderabad",
-                    "Lucknow Super Giants"
-                ],
-                "venue": "Rajiv Gandhi International Stadium, Hyderabad"
-            },
-            {
-                "bbbEnabled": false,
-                "date": "2026-05-14",
-                "dateTimeGMT": "2026-05-14T14:00:00",
-                "fantasyEnabled": false,
-                "hasSquad": true,
-                "id": "df78909a-2ab7-4760-b679-705c381bd2d3",
-                "matchEnded": false,
-                "matchStarted": false,
-                "matchType": "t20",
-                "name": "Punjab Kings vs Mumbai Indians, 58th Match, Indian Premier League 2026",
-                "status": "Match starts at May 14, 14:00 GMT",
-                "teamInfo": [
-                    {
-                        "img": "https://g.cricapi.com/iapi/226-637852956375593901.png?w=48",
-                        "name": "Mumbai Indians",
-                        "shortname": "MI"
-                    },
-                    {
-                        "img": "https://g.cricapi.com/iapi/247-637852956959778791.png?w=48",
-                        "name": "Punjab Kings",
-                        "shortname": "PBKS"
-                    }
-                ],
-                "teams": [
-                    "Punjab Kings",
-                    "Mumbai Indians"
-                ],
-                "venue": "Himachal Pradesh Cricket Association Stadium, Dharamsala"
-            },
-            {
-                "bbbEnabled": false,
-                "date": "2026-05-23",
-                "dateTimeGMT": "2026-05-23T14:00:00",
-                "fantasyEnabled": false,
-                "hasSquad": true,
-                "id": "913bdcbf-179f-452e-a2ed-75f807b7c2b0",
-                "matchEnded": false,
-                "matchStarted": false,
-                "matchType": "t20",
-                "name": "Lucknow Super Giants vs Punjab Kings, 68th Match, Indian Premier League 2026",
-                "status": "Match starts at May 23, 14:00 GMT",
-                "teamInfo": [
-                    {
-                        "img": "https://g.cricapi.com/iapi/215-637876059669009476.png?w=48",
-                        "name": "Lucknow Super Giants",
-                        "shortname": "LSG"
-                    },
-                    {
-                        "img": "https://g.cricapi.com/iapi/247-637852956959778791.png?w=48",
-                        "name": "Punjab Kings",
-                        "shortname": "PBKS"
-                    }
-                ],
-                "teams": [
-                    "Lucknow Super Giants",
-                    "Punjab Kings"
-                ],
-                "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow"
-            },
-            {
-                "bbbEnabled": false,
-                "date": "2026-05-18",
-                "dateTimeGMT": "2026-05-18T14:00:00",
-                "fantasyEnabled": false,
-                "hasSquad": true,
-                "id": "66477e53-9cd5-4be2-bc3d-78114722da72",
-                "matchEnded": false,
-                "matchStarted": false,
-                "matchType": "t20",
-                "name": "Chennai Super Kings vs Sunrisers Hyderabad, 63rd Match, Indian Premier League 2026",
-                "status": "Match starts at May 18, 14:00 GMT",
-                "teamInfo": [
-                    {
-                        "img": "https://g.cricapi.com/iapi/135-637852956181378533.png?w=48",
-                        "name": "Chennai Super Kings",
-                        "shortname": "CSK"
-                    },
-                    {
-                        "img": "https://g.cricapi.com/iapi/279-637852957609490368.png?w=48",
-                        "name": "Sunrisers Hyderabad",
-                        "shortname": "SRH"
-                    }
-                ],
-                "teams": [
-                    "Chennai Super Kings",
-                    "Sunrisers Hyderabad"
-                ],
-                "venue": "MA Chidambaram Stadium, Chennai"
-            },
-            {
-                "bbbEnabled": false,
-                "date": "2026-05-05",
-                "dateTimeGMT": "2026-05-05T14:00:00",
-                "fantasyEnabled": false,
-                "hasSquad": true,
-                "id": "c741ba65-dc7d-40cb-8e2c-7a415f3df8ab",
-                "matchEnded": false,
-                "matchStarted": false,
-                "matchType": "t20",
-                "name": "Delhi Capitals vs Chennai Super Kings, 48th Match, Indian Premier League 2026",
-                "status": "Match starts at May 05, 14:00 GMT",
-                "teamInfo": [
-                    {
-                        "img": "https://g.cricapi.com/iapi/135-637852956181378533.png?w=48",
-                        "name": "Chennai Super Kings",
-                        "shortname": "CSK"
-                    },
-                    {
-                        "img": "https://g.cricapi.com/iapi/148-637874596301457910.png?w=48",
-                        "name": "Delhi Capitals",
-                        "shortname": "DC"
-                    }
-                ],
-                "teams": [
-                    "Delhi Capitals",
-                    "Chennai Super Kings"
-                ],
-                "venue": "Arun Jaitley Stadium, Delhi"
-            },
-            {
-                "bbbEnabled": false,
-                "date": "2026-04-19",
-                "dateTimeGMT": "2026-04-19T14:00:00",
-                "fantasyEnabled": false,
-                "hasSquad": true,
-                "id": "91f9f16f-8c16-408b-ac66-7b5c7e9b4af0",
-                "matchEnded": false,
-                "matchStarted": false,
-                "matchType": "t20",
-                "name": "Punjab Kings vs Lucknow Super Giants, 29th Match, Indian Premier League 2026",
-                "status": "Match starts at Apr 19, 14:00 GMT",
-                "teamInfo": [
-                    {
-                        "img": "https://g.cricapi.com/iapi/215-637876059669009476.png?w=48",
-                        "name": "Lucknow Super Giants",
-                        "shortname": "LSG"
-                    },
-                    {
-                        "img": "https://g.cricapi.com/iapi/247-637852956959778791.png?w=48",
-                        "name": "Punjab Kings",
-                        "shortname": "PBKS"
-                    }
-                ],
-                "teams": [
-                    "Punjab Kings",
-                    "Lucknow Super Giants"
-                ],
-                "venue": "Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, New Chandigarh"
-            },
-            {
-                "bbbEnabled": false,
-                "date": "2026-04-24",
-                "dateTimeGMT": "2026-04-24T14:00:00",
-                "fantasyEnabled": false,
-                "hasSquad": true,
-                "id": "bff622ad-fe85-46f0-8969-80a3df72face",
-                "matchEnded": false,
-                "matchStarted": false,
-                "matchType": "t20",
-                "name": "Royal Challengers Bengaluru vs Gujarat Titans, 34th Match, Indian Premier League 2026",
-                "status": "Match starts at Apr 24, 14:00 GMT",
-                "teamInfo": [
-                    {
-                        "img": "https://g.cricapi.com/iapi/172-637852957798476823.png?w=48",
-                        "name": "Gujarat Titans",
-                        "shortname": "GT"
-                    },
-                    {
-                        "img": "https://g.cricapi.com/iapi/21439-638468478038395955.jpg?w=48",
-                        "name": "Royal Challengers Bengaluru",
-                        "shortname": "RCBW"
-                    }
-                ],
-                "teams": [
-                    "Royal Challengers Bengaluru",
-                    "Gujarat Titans"
-                ],
-                "venue": "M.Chinnaswamy Stadium, Bengaluru"
-            },
-            {
-                "bbbEnabled": false,
-                "date": "2026-04-25",
-                "dateTimeGMT": "2026-04-25T14:00:00",
-                "fantasyEnabled": false,
-                "hasSquad": true,
-                "id": "c2c75e2e-df87-47fa-8ccd-8473058efae5",
-                "matchEnded": false,
-                "matchStarted": false,
-                "matchType": "t20",
-                "name": "Rajasthan Royals vs Sunrisers Hyderabad, 36th Match, Indian Premier League 2026",
-                "status": "Match starts at Apr 25, 14:00 GMT",
-                "teamInfo": [
-                    {
-                        "img": "https://g.cricapi.com/iapi/251-637852956607161886.png?w=48",
-                        "name": "Rajasthan Royals",
-                        "shortname": "RR"
-                    },
-                    {
-                        "img": "https://g.cricapi.com/iapi/279-637852957609490368.png?w=48",
-                        "name": "Sunrisers Hyderabad",
-                        "shortname": "SRH"
-                    }
-                ],
-                "teams": [
-                    "Rajasthan Royals",
-                    "Sunrisers Hyderabad"
-                ],
-                "venue": "Sawai Mansingh Stadium, Jaipur"
-            },
-            {
-                "bbbEnabled": false,
                 "date": "2026-04-29",
                 "dateTimeGMT": "2026-04-29T14:00:00",
                 "fantasyEnabled": false,
                 "hasSquad": true,
-                "id": "595e2ad6-5b3a-4f81-9c8f-84ee3633b8c7",
+                "id": "05d33d50-3efe-42f9-98f7-1f363a2f153a",
                 "matchEnded": false,
                 "matchStarted": false,
                 "matchType": "t20",
@@ -1214,166 +314,16 @@
             },
             {
                 "bbbEnabled": false,
-                "date": "2026-05-11",
-                "dateTimeGMT": "2026-05-11T14:00:00",
-                "fantasyEnabled": false,
-                "hasSquad": true,
-                "id": "9c3b727a-2767-4e2b-a30c-855b3c6b59aa",
-                "matchEnded": false,
-                "matchStarted": false,
-                "matchType": "t20",
-                "name": "Punjab Kings vs Delhi Capitals, 55th Match, Indian Premier League 2026",
-                "status": "Match starts at May 11, 14:00 GMT",
-                "teamInfo": [
-                    {
-                        "img": "https://g.cricapi.com/iapi/148-637874596301457910.png?w=48",
-                        "name": "Delhi Capitals",
-                        "shortname": "DC"
-                    },
-                    {
-                        "img": "https://g.cricapi.com/iapi/247-637852956959778791.png?w=48",
-                        "name": "Punjab Kings",
-                        "shortname": "PBKS"
-                    }
-                ],
-                "teams": [
-                    "Punjab Kings",
-                    "Delhi Capitals"
-                ],
-                "venue": "Himachal Pradesh Cricket Association Stadium, Dharamsala"
-            },
-            {
-                "bbbEnabled": false,
-                "date": "2026-05-03",
-                "dateTimeGMT": "2026-05-03T14:00:00",
-                "fantasyEnabled": false,
-                "hasSquad": true,
-                "id": "37b02340-7238-41b7-bcf3-8ae4215e4bee",
-                "matchEnded": false,
-                "matchStarted": false,
-                "matchType": "t20",
-                "name": "Gujarat Titans vs Punjab Kings, 46th Match, Indian Premier League 2026",
-                "status": "Match starts at May 03, 14:00 GMT",
-                "teamInfo": [
-                    {
-                        "img": "https://g.cricapi.com/iapi/172-637852957798476823.png?w=48",
-                        "name": "Gujarat Titans",
-                        "shortname": "GT"
-                    },
-                    {
-                        "img": "https://g.cricapi.com/iapi/247-637852956959778791.png?w=48",
-                        "name": "Punjab Kings",
-                        "shortname": "PBKS"
-                    }
-                ],
-                "teams": [
-                    "Gujarat Titans",
-                    "Punjab Kings"
-                ],
-                "venue": "Narendra Modi Stadium, Ahmedabad"
-            },
-            {
-                "bbbEnabled": false,
-                "date": "2026-04-09",
-                "dateTimeGMT": "2026-04-09T14:00:00",
-                "fantasyEnabled": false,
-                "hasSquad": true,
-                "id": "c78dcc8a-67cf-460a-8f2b-8f16d3891682",
-                "matchEnded": false,
-                "matchStarted": false,
-                "matchType": "t20",
-                "name": "Kolkata Knight Riders vs Lucknow Super Giants, 15th Match, Indian Premier League 2026",
-                "status": "Match starts at Apr 09, 14:00 GMT",
-                "teamInfo": [
-                    {
-                        "img": "https://g.cricapi.com/iapi/206-637852958714346149.png?w=48",
-                        "name": "Kolkata Knight Riders",
-                        "shortname": "KKR"
-                    },
-                    {
-                        "img": "https://g.cricapi.com/iapi/215-637876059669009476.png?w=48",
-                        "name": "Lucknow Super Giants",
-                        "shortname": "LSG"
-                    }
-                ],
-                "teams": [
-                    "Kolkata Knight Riders",
-                    "Lucknow Super Giants"
-                ],
-                "venue": "Eden Gardens, Kolkata"
-            },
-            {
-                "bbbEnabled": false,
-                "date": "2026-03-30",
-                "dateTimeGMT": "2026-03-30T14:00:00",
-                "fantasyEnabled": false,
-                "hasSquad": true,
-                "id": "d788e9f9-99bf-4650-a035-92a7e21b3d08",
-                "matchEnded": false,
-                "matchStarted": false,
-                "matchType": "t20",
-                "name": "Rajasthan Royals vs Chennai Super Kings, 3rd Match, Indian Premier League 2026",
-                "status": "Match starts at Mar 30, 14:00 GMT",
-                "teamInfo": [
-                    {
-                        "img": "https://g.cricapi.com/iapi/135-637852956181378533.png?w=48",
-                        "name": "Chennai Super Kings",
-                        "shortname": "CSK"
-                    },
-                    {
-                        "img": "https://g.cricapi.com/iapi/251-637852956607161886.png?w=48",
-                        "name": "Rajasthan Royals",
-                        "shortname": "RR"
-                    }
-                ],
-                "teams": [
-                    "Rajasthan Royals",
-                    "Chennai Super Kings"
-                ],
-                "venue": "Barsapara Cricket Stadium, Guwahati"
-            },
-            {
-                "bbbEnabled": false,
-                "date": "2026-05-21",
-                "dateTimeGMT": "2026-05-21T14:00:00",
-                "fantasyEnabled": false,
-                "hasSquad": true,
-                "id": "2b441eeb-c4be-4d4e-892e-92f2e47b33df",
-                "matchEnded": false,
-                "matchStarted": false,
-                "matchType": "t20",
-                "name": "Chennai Super Kings vs Gujarat Titans, 66th Match, Indian Premier League 2026",
-                "status": "Match starts at May 21, 14:00 GMT",
-                "teamInfo": [
-                    {
-                        "img": "https://g.cricapi.com/iapi/135-637852956181378533.png?w=48",
-                        "name": "Chennai Super Kings",
-                        "shortname": "CSK"
-                    },
-                    {
-                        "img": "https://g.cricapi.com/iapi/172-637852957798476823.png?w=48",
-                        "name": "Gujarat Titans",
-                        "shortname": "GT"
-                    }
-                ],
-                "teams": [
-                    "Chennai Super Kings",
-                    "Gujarat Titans"
-                ],
-                "venue": "MA Chidambaram Stadium, Chennai"
-            },
-            {
-                "bbbEnabled": false,
                 "date": "2026-04-02",
-                "dateTimeGMT": "2026-04-02T14:00:00",
-                "fantasyEnabled": false,
+                "dateTimeGMT": "2026-04-02T00:00:00",
+                "fantasyEnabled": true,
                 "hasSquad": true,
-                "id": "fd010e39-2255-4460-b0e0-962a26b67b70",
-                "matchEnded": false,
-                "matchStarted": false,
+                "id": "22fb99f0-77c2-4724-9375-32a82a0b2a70",
+                "matchEnded": true,
+                "matchStarted": true,
                 "matchType": "t20",
                 "name": "Kolkata Knight Riders vs Sunrisers Hyderabad, 6th Match, Indian Premier League 2026",
-                "status": "Match starts at Apr 02, 14:00 GMT",
+                "status": "Sunrisers Hyderabad won by 65 runs",
                 "teamInfo": [
                     {
                         "img": "https://g.cricapi.com/iapi/206-637852958714346149.png?w=48",
@@ -1394,33 +344,123 @@
             },
             {
                 "bbbEnabled": false,
-                "date": "2026-04-28",
-                "dateTimeGMT": "2026-04-28T14:00:00",
+                "date": "2026-04-20",
+                "dateTimeGMT": "2026-04-20T14:00:00",
                 "fantasyEnabled": false,
                 "hasSquad": true,
-                "id": "80dbe709-8a04-48b2-878d-988042000536",
+                "id": "97adf747-1086-489e-b892-3823ebffa555",
                 "matchEnded": false,
                 "matchStarted": false,
                 "matchType": "t20",
-                "name": "Punjab Kings vs Rajasthan Royals, 40th Match, Indian Premier League 2026",
-                "status": "Match starts at Apr 28, 14:00 GMT",
+                "name": "Gujarat Titans vs Mumbai Indians, 30th Match, Indian Premier League 2026",
+                "status": "Match starts at Apr 20, 14:00 GMT",
                 "teamInfo": [
                     {
-                        "img": "https://g.cricapi.com/iapi/247-637852956959778791.png?w=48",
-                        "name": "Punjab Kings",
-                        "shortname": "PBKS"
+                        "img": "https://g.cricapi.com/iapi/172-637852957798476823.png?w=48",
+                        "name": "Gujarat Titans",
+                        "shortname": "GT"
                     },
                     {
-                        "img": "https://g.cricapi.com/iapi/251-637852956607161886.png?w=48",
-                        "name": "Rajasthan Royals",
-                        "shortname": "RR"
+                        "img": "https://g.cricapi.com/iapi/226-637852956375593901.png?w=48",
+                        "name": "Mumbai Indians",
+                        "shortname": "MI"
                     }
                 ],
                 "teams": [
-                    "Punjab Kings",
-                    "Rajasthan Royals"
+                    "Gujarat Titans",
+                    "Mumbai Indians"
                 ],
-                "venue": "Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, New Chandigarh"
+                "venue": "Narendra Modi Stadium, Ahmedabad"
+            },
+            {
+                "bbbEnabled": false,
+                "date": "2026-04-05",
+                "dateTimeGMT": "2026-04-05T00:00:00",
+                "fantasyEnabled": true,
+                "hasSquad": true,
+                "id": "9186c79f-2121-4fc4-bb8d-3c411b417609",
+                "matchEnded": true,
+                "matchStarted": true,
+                "matchType": "t20",
+                "name": "Sunrisers Hyderabad vs Lucknow Super Giants, 10th Match, Indian Premier League 2026",
+                "status": "Lucknow Super Giants won by 5 wkts",
+                "teamInfo": [
+                    {
+                        "img": "https://g.cricapi.com/iapi/215-637876059669009476.png?w=48",
+                        "name": "Lucknow Super Giants",
+                        "shortname": "LSG"
+                    },
+                    {
+                        "img": "https://g.cricapi.com/iapi/279-637852957609490368.png?w=48",
+                        "name": "Sunrisers Hyderabad",
+                        "shortname": "SRH"
+                    }
+                ],
+                "teams": [
+                    "Sunrisers Hyderabad",
+                    "Lucknow Super Giants"
+                ],
+                "venue": "Rajiv Gandhi International Stadium, Hyderabad"
+            },
+            {
+                "bbbEnabled": false,
+                "date": "2026-04-21",
+                "dateTimeGMT": "2026-04-21T14:00:00",
+                "fantasyEnabled": false,
+                "hasSquad": true,
+                "id": "e4f4995f-036e-451d-861e-42567c82d87f",
+                "matchEnded": false,
+                "matchStarted": false,
+                "matchType": "t20",
+                "name": "Sunrisers Hyderabad vs Delhi Capitals, 31st Match, Indian Premier League 2026",
+                "status": "Match starts at Apr 21, 14:00 GMT",
+                "teamInfo": [
+                    {
+                        "img": "https://g.cricapi.com/iapi/148-637874596301457910.png?w=48",
+                        "name": "Delhi Capitals",
+                        "shortname": "DC"
+                    },
+                    {
+                        "img": "https://g.cricapi.com/iapi/279-637852957609490368.png?w=48",
+                        "name": "Sunrisers Hyderabad",
+                        "shortname": "SRH"
+                    }
+                ],
+                "teams": [
+                    "Sunrisers Hyderabad",
+                    "Delhi Capitals"
+                ],
+                "venue": "Rajiv Gandhi International Stadium, Hyderabad"
+            },
+            {
+                "bbbEnabled": false,
+                "date": "2026-05-02",
+                "dateTimeGMT": "2026-05-02T14:00:00",
+                "fantasyEnabled": false,
+                "hasSquad": true,
+                "id": "d2cceca7-65d7-441e-8483-4505fd7cd073",
+                "matchEnded": false,
+                "matchStarted": false,
+                "matchType": "t20",
+                "name": "Chennai Super Kings vs Mumbai Indians, 44th Match, Indian Premier League 2026",
+                "status": "Match starts at May 02, 14:00 GMT",
+                "teamInfo": [
+                    {
+                        "img": "https://g.cricapi.com/iapi/135-637852956181378533.png?w=48",
+                        "name": "Chennai Super Kings",
+                        "shortname": "CSK"
+                    },
+                    {
+                        "img": "https://g.cricapi.com/iapi/226-637852956375593901.png?w=48",
+                        "name": "Mumbai Indians",
+                        "shortname": "MI"
+                    }
+                ],
+                "teams": [
+                    "Chennai Super Kings",
+                    "Mumbai Indians"
+                ],
+                "venue": "MA Chidambaram Stadium, Chennai"
             },
             {
                 "bbbEnabled": false,
@@ -1428,7 +468,7 @@
                 "dateTimeGMT": "2026-05-15T14:00:00",
                 "fantasyEnabled": false,
                 "hasSquad": true,
-                "id": "999ec29a-1cdf-48e0-b8c5-9d3ae95a45c3",
+                "id": "68746b1f-d4b0-4f0a-a46a-46a1946aae32",
                 "matchEnded": false,
                 "matchStarted": false,
                 "matchType": "t20",
@@ -1458,7 +498,7 @@
                 "dateTimeGMT": "2026-04-30T14:00:00",
                 "fantasyEnabled": false,
                 "hasSquad": true,
-                "id": "abe1482c-3e40-43c8-be6f-9da9da643111",
+                "id": "7e0789c4-6bdc-48da-a67f-49213f6d731e",
                 "matchEnded": false,
                 "matchStarted": false,
                 "matchType": "t20",
@@ -1484,106 +524,16 @@
             },
             {
                 "bbbEnabled": false,
-                "date": "2026-04-18",
-                "dateTimeGMT": "2026-04-18T14:00:00",
+                "date": "2026-04-24",
+                "dateTimeGMT": "2026-04-24T14:00:00",
                 "fantasyEnabled": false,
                 "hasSquad": true,
-                "id": "de4a5f85-ea02-4426-a074-a0bff9f757ca",
+                "id": "ed074a44-a661-4727-83a7-4a33c2a05165",
                 "matchEnded": false,
                 "matchStarted": false,
                 "matchType": "t20",
-                "name": "Sunrisers Hyderabad vs Chennai Super Kings, 27th Match, Indian Premier League 2026",
-                "status": "Match starts at Apr 18, 14:00 GMT",
-                "teamInfo": [
-                    {
-                        "img": "https://g.cricapi.com/iapi/135-637852956181378533.png?w=48",
-                        "name": "Chennai Super Kings",
-                        "shortname": "CSK"
-                    },
-                    {
-                        "img": "https://g.cricapi.com/iapi/279-637852957609490368.png?w=48",
-                        "name": "Sunrisers Hyderabad",
-                        "shortname": "SRH"
-                    }
-                ],
-                "teams": [
-                    "Sunrisers Hyderabad",
-                    "Chennai Super Kings"
-                ],
-                "venue": "Rajiv Gandhi International Stadium, Hyderabad"
-            },
-            {
-                "bbbEnabled": false,
-                "date": "2026-05-13",
-                "dateTimeGMT": "2026-05-13T14:00:00",
-                "fantasyEnabled": false,
-                "hasSquad": true,
-                "id": "ef86ee7b-dbea-4e3c-9bbf-af77da1ff223",
-                "matchEnded": false,
-                "matchStarted": false,
-                "matchType": "t20",
-                "name": "Royal Challengers Bengaluru vs Kolkata Knight Riders, 57th Match, Indian Premier League 2026",
-                "status": "Match starts at May 13, 14:00 GMT",
-                "teamInfo": [
-                    {
-                        "img": "https://g.cricapi.com/iapi/206-637852958714346149.png?w=48",
-                        "name": "Kolkata Knight Riders",
-                        "shortname": "KKR"
-                    },
-                    {
-                        "img": "https://g.cricapi.com/iapi/21439-638468478038395955.jpg?w=48",
-                        "name": "Royal Challengers Bengaluru",
-                        "shortname": "RCBW"
-                    }
-                ],
-                "teams": [
-                    "Royal Challengers Bengaluru",
-                    "Kolkata Knight Riders"
-                ],
-                "venue": "Shaheed Veer Narayan Singh International Stadium, Raipur"
-            },
-            {
-                "bbbEnabled": false,
-                "date": "2026-04-11",
-                "dateTimeGMT": "2026-04-11T10:00:00",
-                "fantasyEnabled": false,
-                "hasSquad": true,
-                "id": "a4cd9851-d79a-42b6-8a4b-b35cbb9f9f0a",
-                "matchEnded": false,
-                "matchStarted": false,
-                "matchType": "t20",
-                "name": "Punjab Kings vs Sunrisers Hyderabad, 17th Match, Indian Premier League 2026",
-                "status": "Match starts at Apr 11, 10:00 GMT",
-                "teamInfo": [
-                    {
-                        "img": "https://g.cricapi.com/iapi/247-637852956959778791.png?w=48",
-                        "name": "Punjab Kings",
-                        "shortname": "PBKS"
-                    },
-                    {
-                        "img": "https://g.cricapi.com/iapi/279-637852957609490368.png?w=48",
-                        "name": "Sunrisers Hyderabad",
-                        "shortname": "SRH"
-                    }
-                ],
-                "teams": [
-                    "Punjab Kings",
-                    "Sunrisers Hyderabad"
-                ],
-                "venue": "Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, New Chandigarh"
-            },
-            {
-                "bbbEnabled": false,
-                "date": "2026-04-17",
-                "dateTimeGMT": "2026-04-17T14:00:00",
-                "fantasyEnabled": false,
-                "hasSquad": true,
-                "id": "c8f30ec3-a953-438a-ba4a-c5dedd97063a",
-                "matchEnded": false,
-                "matchStarted": false,
-                "matchType": "t20",
-                "name": "Gujarat Titans vs Kolkata Knight Riders, 25th Match, Indian Premier League 2026",
-                "status": "Match starts at Apr 17, 14:00 GMT",
+                "name": "Royal Challengers Bengaluru vs Gujarat Titans, 34th Match, Indian Premier League 2026",
+                "status": "Match starts at Apr 24, 14:00 GMT",
                 "teamInfo": [
                     {
                         "img": "https://g.cricapi.com/iapi/172-637852957798476823.png?w=48",
@@ -1591,36 +541,6 @@
                         "shortname": "GT"
                     },
                     {
-                        "img": "https://g.cricapi.com/iapi/206-637852958714346149.png?w=48",
-                        "name": "Kolkata Knight Riders",
-                        "shortname": "KKR"
-                    }
-                ],
-                "teams": [
-                    "Gujarat Titans",
-                    "Kolkata Knight Riders"
-                ],
-                "venue": "Narendra Modi Stadium, Ahmedabad"
-            },
-            {
-                "bbbEnabled": false,
-                "date": "2026-04-05",
-                "dateTimeGMT": "2026-04-05T14:00:00",
-                "fantasyEnabled": false,
-                "hasSquad": true,
-                "id": "e92727d0-61fc-4c6f-82ed-cde4789745a2",
-                "matchEnded": false,
-                "matchStarted": false,
-                "matchType": "t20",
-                "name": "Royal Challengers Bengaluru vs Chennai Super Kings, 11th Match, Indian Premier League 2026",
-                "status": "Match starts at Apr 05, 14:00 GMT",
-                "teamInfo": [
-                    {
-                        "img": "https://g.cricapi.com/iapi/135-637852956181378533.png?w=48",
-                        "name": "Chennai Super Kings",
-                        "shortname": "CSK"
-                    },
-                    {
                         "img": "https://g.cricapi.com/iapi/21439-638468478038395955.jpg?w=48",
                         "name": "Royal Challengers Bengaluru",
                         "shortname": "RCBW"
@@ -1628,52 +548,142 @@
                 ],
                 "teams": [
                     "Royal Challengers Bengaluru",
-                    "Chennai Super Kings"
+                    "Gujarat Titans"
                 ],
                 "venue": "M.Chinnaswamy Stadium, Bengaluru"
             },
             {
                 "bbbEnabled": false,
-                "date": "2026-04-20",
-                "dateTimeGMT": "2026-04-20T14:00:00",
+                "date": "2026-05-14",
+                "dateTimeGMT": "2026-05-14T14:00:00",
                 "fantasyEnabled": false,
                 "hasSquad": true,
-                "id": "f72cb89b-3085-4556-a814-d28a44885b0e",
+                "id": "6666db12-b9cc-49f0-b3af-5628fc8c53fa",
                 "matchEnded": false,
                 "matchStarted": false,
                 "matchType": "t20",
-                "name": "Gujarat Titans vs Mumbai Indians, 30th Match, Indian Premier League 2026",
-                "status": "Match starts at Apr 20, 14:00 GMT",
+                "name": "Punjab Kings vs Mumbai Indians, 58th Match, Indian Premier League 2026",
+                "status": "Match starts at May 14, 14:00 GMT",
                 "teamInfo": [
-                    {
-                        "img": "https://g.cricapi.com/iapi/172-637852957798476823.png?w=48",
-                        "name": "Gujarat Titans",
-                        "shortname": "GT"
-                    },
                     {
                         "img": "https://g.cricapi.com/iapi/226-637852956375593901.png?w=48",
                         "name": "Mumbai Indians",
                         "shortname": "MI"
+                    },
+                    {
+                        "img": "https://g.cricapi.com/iapi/247-637852956959778791.png?w=48",
+                        "name": "Punjab Kings",
+                        "shortname": "PBKS"
                     }
                 ],
                 "teams": [
-                    "Gujarat Titans",
+                    "Punjab Kings",
                     "Mumbai Indians"
                 ],
-                "venue": "Narendra Modi Stadium, Ahmedabad"
+                "venue": "Himachal Pradesh Cricket Association Stadium, Dharamsala"
             },
             {
                 "bbbEnabled": false,
-                "date": "2026-05-08",
-                "dateTimeGMT": "2026-05-08T14:00:00",
+                "date": "2026-04-14",
+                "dateTimeGMT": "2026-04-14T14:00:00",
                 "fantasyEnabled": false,
                 "hasSquad": true,
-                "id": "058243dd-5399-42b2-ae68-d3e9796fa3b2",
+                "id": "8b691738-66b3-4774-a7fd-5a2113a54ca5",
                 "matchEnded": false,
                 "matchStarted": false,
                 "matchType": "t20",
-                "name": "Delhi Capitals vs Kolkata Knight Riders, 51st Match, Indian Premier League 2026",
-                "status": "Match starts at May 08, 14:00 GMT",
+                "name": "Chennai Super Kings vs Kolkata Knight Riders, 22nd Match, Indian Premier League 2026",
+                "status": "Match starts at Apr 14, 14:00 GMT",
+                "teamInfo": [
+                    {
+                        "img": "https://g.cricapi.com/iapi/135-637852956181378533.png?w=48",
+                        "name": "Chennai Super Kings",
+                        "shortname": "CSK"
+                    },
+                    {
+                        "img": "https://g.cricapi.com/iapi/206-637852958714346149.png?w=48",
+                        "name": "Kolkata Knight Riders",
+                        "shortname": "KKR"
+                    }
+                ],
+                "teams": [
+                    "Chennai Super Kings",
+                    "Kolkata Knight Riders"
+                ],
+                "venue": "MA Chidambaram Stadium, Chennai"
+            },
+            {
+                "bbbEnabled": false,
+                "date": "2026-05-18",
+                "dateTimeGMT": "2026-05-18T14:00:00",
+                "fantasyEnabled": false,
+                "hasSquad": true,
+                "id": "8416c2a9-4a74-4ac2-a6ae-5ad2538cbc56",
+                "matchEnded": false,
+                "matchStarted": false,
+                "matchType": "t20",
+                "name": "Chennai Super Kings vs Sunrisers Hyderabad, 63rd Match, Indian Premier League 2026",
+                "status": "Match starts at May 18, 14:00 GMT",
+                "teamInfo": [
+                    {
+                        "img": "https://g.cricapi.com/iapi/135-637852956181378533.png?w=48",
+                        "name": "Chennai Super Kings",
+                        "shortname": "CSK"
+                    },
+                    {
+                        "img": "https://g.cricapi.com/iapi/279-637852957609490368.png?w=48",
+                        "name": "Sunrisers Hyderabad",
+                        "shortname": "SRH"
+                    }
+                ],
+                "teams": [
+                    "Chennai Super Kings",
+                    "Sunrisers Hyderabad"
+                ],
+                "venue": "MA Chidambaram Stadium, Chennai"
+            },
+            {
+                "bbbEnabled": false,
+                "date": "2026-04-01",
+                "dateTimeGMT": "2026-04-01T00:00:00",
+                "fantasyEnabled": true,
+                "hasSquad": true,
+                "id": "962d1940-4fea-4e71-97ca-5fc2c008169f",
+                "matchEnded": true,
+                "matchStarted": true,
+                "matchType": "t20",
+                "name": "Lucknow Super Giants vs Delhi Capitals, 5th Match, Indian Premier League 2026",
+                "status": "Delhi Capitals won by 6 wkts",
+                "teamInfo": [
+                    {
+                        "img": "https://g.cricapi.com/iapi/148-637874596301457910.png?w=48",
+                        "name": "Delhi Capitals",
+                        "shortname": "DC"
+                    },
+                    {
+                        "img": "https://g.cricapi.com/iapi/215-637876059669009476.png?w=48",
+                        "name": "Lucknow Super Giants",
+                        "shortname": "LSG"
+                    }
+                ],
+                "teams": [
+                    "Lucknow Super Giants",
+                    "Delhi Capitals"
+                ],
+                "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow"
+            },
+            {
+                "bbbEnabled": false,
+                "date": "2026-05-24",
+                "dateTimeGMT": "2026-05-24T14:00:00",
+                "fantasyEnabled": false,
+                "hasSquad": true,
+                "id": "8f61d649-f53b-4e79-9bfb-661cfe69be3b",
+                "matchEnded": false,
+                "matchStarted": false,
+                "matchType": "t20",
+                "name": "Kolkata Knight Riders vs Delhi Capitals, 70th Match, Indian Premier League 2026",
+                "status": "Match starts at May 24, 14:00 GMT",
                 "teamInfo": [
                     {
                         "img": "https://g.cricapi.com/iapi/148-637874596301457910.png?w=48",
@@ -1687,100 +697,70 @@
                     }
                 ],
                 "teams": [
-                    "Delhi Capitals",
-                    "Kolkata Knight Riders"
-                ],
-                "venue": "Arun Jaitley Stadium, Delhi"
-            },
-            {
-                "bbbEnabled": false,
-                "date": "2026-03-29",
-                "dateTimeGMT": "2026-03-29T14:00:00",
-                "fantasyEnabled": false,
-                "hasSquad": true,
-                "id": "e02475c1-8f9a-4915-a9e8-d4dbc3441c96",
-                "matchEnded": false,
-                "matchStarted": false,
-                "matchType": "t20",
-                "name": "Mumbai Indians vs Kolkata Knight Riders, 2nd Match, Indian Premier League 2026",
-                "status": "Match starts at Mar 29, 14:00 GMT",
-                "teamInfo": [
-                    {
-                        "img": "https://g.cricapi.com/iapi/206-637852958714346149.png?w=48",
-                        "name": "Kolkata Knight Riders",
-                        "shortname": "KKR"
-                    },
-                    {
-                        "img": "https://g.cricapi.com/iapi/226-637852956375593901.png?w=48",
-                        "name": "Mumbai Indians",
-                        "shortname": "MI"
-                    }
-                ],
-                "teams": [
-                    "Mumbai Indians",
-                    "Kolkata Knight Riders"
-                ],
-                "venue": "Wankhede Stadium, Mumbai"
-            },
-            {
-                "bbbEnabled": false,
-                "date": "2026-05-20",
-                "dateTimeGMT": "2026-05-20T14:00:00",
-                "fantasyEnabled": false,
-                "hasSquad": true,
-                "id": "e5b677a2-6e87-4c9e-baa5-d997644501f1",
-                "matchEnded": false,
-                "matchStarted": false,
-                "matchType": "t20",
-                "name": "Kolkata Knight Riders vs Mumbai Indians, 65th Match, Indian Premier League 2026",
-                "status": "Match starts at May 20, 14:00 GMT",
-                "teamInfo": [
-                    {
-                        "img": "https://g.cricapi.com/iapi/206-637852958714346149.png?w=48",
-                        "name": "Kolkata Knight Riders",
-                        "shortname": "KKR"
-                    },
-                    {
-                        "img": "https://g.cricapi.com/iapi/226-637852956375593901.png?w=48",
-                        "name": "Mumbai Indians",
-                        "shortname": "MI"
-                    }
-                ],
-                "teams": [
                     "Kolkata Knight Riders",
-                    "Mumbai Indians"
+                    "Delhi Capitals"
                 ],
                 "venue": "Eden Gardens, Kolkata"
             },
             {
                 "bbbEnabled": false,
-                "date": "2026-04-08",
-                "dateTimeGMT": "2026-04-08T14:00:00",
+                "date": "2026-04-10",
+                "dateTimeGMT": "2026-04-10T14:00:00",
                 "fantasyEnabled": false,
                 "hasSquad": true,
-                "id": "12496498-8526-46d9-a053-da2ba8d047e1",
+                "id": "3ec1f721-7f79-49e3-bbc1-69e88b9cf4a3",
                 "matchEnded": false,
                 "matchStarted": false,
                 "matchType": "t20",
-                "name": "Delhi Capitals vs Gujarat Titans, 14th Match, Indian Premier League 2026",
-                "status": "Match starts at Apr 08, 14:00 GMT",
+                "name": "Rajasthan Royals vs Royal Challengers Bengaluru, 16th Match, Indian Premier League 2026",
+                "status": "Match starts at Apr 10, 14:00 GMT",
                 "teamInfo": [
                     {
-                        "img": "https://g.cricapi.com/iapi/148-637874596301457910.png?w=48",
-                        "name": "Delhi Capitals",
-                        "shortname": "DC"
+                        "img": "https://g.cricapi.com/iapi/251-637852956607161886.png?w=48",
+                        "name": "Rajasthan Royals",
+                        "shortname": "RR"
                     },
                     {
-                        "img": "https://g.cricapi.com/iapi/172-637852957798476823.png?w=48",
-                        "name": "Gujarat Titans",
-                        "shortname": "GT"
+                        "img": "https://g.cricapi.com/iapi/21439-638468478038395955.jpg?w=48",
+                        "name": "Royal Challengers Bengaluru",
+                        "shortname": "RCBW"
                     }
                 ],
                 "teams": [
-                    "Delhi Capitals",
-                    "Gujarat Titans"
+                    "Rajasthan Royals",
+                    "Royal Challengers Bengaluru"
                 ],
-                "venue": "Arun Jaitley Stadium, Delhi"
+                "venue": "Barsapara Cricket Stadium, Guwahati"
+            },
+            {
+                "bbbEnabled": false,
+                "date": "2026-04-15",
+                "dateTimeGMT": "2026-04-15T14:00:00",
+                "fantasyEnabled": false,
+                "hasSquad": true,
+                "id": "55e260bc-4aa7-44de-92e7-6bbd1edbb711",
+                "matchEnded": false,
+                "matchStarted": false,
+                "matchType": "t20",
+                "name": "Royal Challengers Bengaluru vs Lucknow Super Giants, 23rd Match, Indian Premier League 2026",
+                "status": "Match starts at Apr 15, 14:00 GMT",
+                "teamInfo": [
+                    {
+                        "img": "https://g.cricapi.com/iapi/215-637876059669009476.png?w=48",
+                        "name": "Lucknow Super Giants",
+                        "shortname": "LSG"
+                    },
+                    {
+                        "img": "https://g.cricapi.com/iapi/21439-638468478038395955.jpg?w=48",
+                        "name": "Royal Challengers Bengaluru",
+                        "shortname": "RCBW"
+                    }
+                ],
+                "teams": [
+                    "Royal Challengers Bengaluru",
+                    "Lucknow Super Giants"
+                ],
+                "venue": "M.Chinnaswamy Stadium, Bengaluru"
             },
             {
                 "bbbEnabled": false,
@@ -1788,7 +768,7 @@
                 "dateTimeGMT": "2026-05-10T10:00:00",
                 "fantasyEnabled": false,
                 "hasSquad": true,
-                "id": "129a6173-9149-481f-9eeb-e1c8afe1533f",
+                "id": "6aced947-319c-4e4a-9214-6f94f14c043e",
                 "matchEnded": false,
                 "matchStarted": false,
                 "matchType": "t20",
@@ -1814,21 +794,51 @@
             },
             {
                 "bbbEnabled": false,
-                "date": "2026-05-24",
-                "dateTimeGMT": "2026-05-24T10:00:00",
+                "date": "2026-05-21",
+                "dateTimeGMT": "2026-05-21T14:00:00",
                 "fantasyEnabled": false,
                 "hasSquad": true,
-                "id": "e1ecf776-e9eb-4456-82df-e6c8b6e12cd3",
+                "id": "fd660ab1-c4bf-4c0f-b1b9-7232361cd1e8",
                 "matchEnded": false,
                 "matchStarted": false,
                 "matchType": "t20",
-                "name": "Mumbai Indians vs Rajasthan Royals, 69th Match, Indian Premier League 2026",
-                "status": "Match starts at May 24, 10:00 GMT",
+                "name": "Chennai Super Kings vs Gujarat Titans, 66th Match, Indian Premier League 2026",
+                "status": "Match starts at May 21, 14:00 GMT",
                 "teamInfo": [
                     {
-                        "img": "https://g.cricapi.com/iapi/226-637852956375593901.png?w=48",
-                        "name": "Mumbai Indians",
-                        "shortname": "MI"
+                        "img": "https://g.cricapi.com/iapi/135-637852956181378533.png?w=48",
+                        "name": "Chennai Super Kings",
+                        "shortname": "CSK"
+                    },
+                    {
+                        "img": "https://g.cricapi.com/iapi/172-637852957798476823.png?w=48",
+                        "name": "Gujarat Titans",
+                        "shortname": "GT"
+                    }
+                ],
+                "teams": [
+                    "Chennai Super Kings",
+                    "Gujarat Titans"
+                ],
+                "venue": "MA Chidambaram Stadium, Chennai"
+            },
+            {
+                "bbbEnabled": false,
+                "date": "2026-04-28",
+                "dateTimeGMT": "2026-04-28T14:00:00",
+                "fantasyEnabled": false,
+                "hasSquad": true,
+                "id": "8fbd3678-6299-4e67-8c28-74d4952b6ae7",
+                "matchEnded": false,
+                "matchStarted": false,
+                "matchType": "t20",
+                "name": "Punjab Kings vs Rajasthan Royals, 40th Match, Indian Premier League 2026",
+                "status": "Match starts at Apr 28, 14:00 GMT",
+                "teamInfo": [
+                    {
+                        "img": "https://g.cricapi.com/iapi/247-637852956959778791.png?w=48",
+                        "name": "Punjab Kings",
+                        "shortname": "PBKS"
                     },
                     {
                         "img": "https://g.cricapi.com/iapi/251-637852956607161886.png?w=48",
@@ -1837,10 +847,40 @@
                     }
                 ],
                 "teams": [
-                    "Mumbai Indians",
+                    "Punjab Kings",
                     "Rajasthan Royals"
                 ],
-                "venue": "Wankhede Stadium, Mumbai"
+                "venue": "Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, New Chandigarh"
+            },
+            {
+                "bbbEnabled": false,
+                "date": "2026-05-16",
+                "dateTimeGMT": "2026-05-16T14:00:00",
+                "fantasyEnabled": false,
+                "hasSquad": true,
+                "id": "166633a2-cecb-4cf3-a984-78dc898b5345",
+                "matchEnded": false,
+                "matchStarted": false,
+                "matchType": "t20",
+                "name": "Kolkata Knight Riders vs Gujarat Titans, 60th Match, Indian Premier League 2026",
+                "status": "Match starts at May 16, 14:00 GMT",
+                "teamInfo": [
+                    {
+                        "img": "https://g.cricapi.com/iapi/172-637852957798476823.png?w=48",
+                        "name": "Gujarat Titans",
+                        "shortname": "GT"
+                    },
+                    {
+                        "img": "https://g.cricapi.com/iapi/206-637852958714346149.png?w=48",
+                        "name": "Kolkata Knight Riders",
+                        "shortname": "KKR"
+                    }
+                ],
+                "teams": [
+                    "Kolkata Knight Riders",
+                    "Gujarat Titans"
+                ],
+                "venue": "Eden Gardens, Kolkata"
             },
             {
                 "bbbEnabled": false,
@@ -1848,7 +888,7 @@
                 "dateTimeGMT": "2026-05-19T14:00:00",
                 "fantasyEnabled": false,
                 "hasSquad": true,
-                "id": "39a0b9c4-bcb7-4dd6-b21c-e9bf537edce7",
+                "id": "3b225f44-ddf2-41d4-8079-7a3f81876e35",
                 "matchEnded": false,
                 "matchStarted": false,
                 "matchType": "t20",
@@ -1874,51 +914,201 @@
             },
             {
                 "bbbEnabled": false,
-                "date": "2026-04-26",
-                "dateTimeGMT": "2026-04-26T14:00:00",
+                "date": "2026-05-17",
+                "dateTimeGMT": "2026-05-17T14:00:00",
                 "fantasyEnabled": false,
                 "hasSquad": true,
-                "id": "eab75760-b25e-421f-8321-eb0806cbb784",
+                "id": "990e89ea-3f6a-4196-ac73-7ad1a5f8c451",
                 "matchEnded": false,
                 "matchStarted": false,
                 "matchType": "t20",
-                "name": "Lucknow Super Giants vs Kolkata Knight Riders, 38th Match, Indian Premier League 2026",
-                "status": "Match starts at Apr 26, 14:00 GMT",
+                "name": "Delhi Capitals vs Rajasthan Royals, 62nd Match, Indian Premier League 2026",
+                "status": "Match starts at May 17, 14:00 GMT",
                 "teamInfo": [
+                    {
+                        "img": "https://g.cricapi.com/iapi/148-637874596301457910.png?w=48",
+                        "name": "Delhi Capitals",
+                        "shortname": "DC"
+                    },
+                    {
+                        "img": "https://g.cricapi.com/iapi/251-637852956607161886.png?w=48",
+                        "name": "Rajasthan Royals",
+                        "shortname": "RR"
+                    }
+                ],
+                "teams": [
+                    "Delhi Capitals",
+                    "Rajasthan Royals"
+                ],
+                "venue": "Arun Jaitley Stadium, Delhi"
+            },
+            {
+                "bbbEnabled": false,
+                "date": "2026-05-08",
+                "dateTimeGMT": "2026-05-08T14:00:00",
+                "fantasyEnabled": false,
+                "hasSquad": true,
+                "id": "90d5c075-3c9a-40b7-ab45-80a36a3a2351",
+                "matchEnded": false,
+                "matchStarted": false,
+                "matchType": "t20",
+                "name": "Delhi Capitals vs Kolkata Knight Riders, 51st Match, Indian Premier League 2026",
+                "status": "Match starts at May 08, 14:00 GMT",
+                "teamInfo": [
+                    {
+                        "img": "https://g.cricapi.com/iapi/148-637874596301457910.png?w=48",
+                        "name": "Delhi Capitals",
+                        "shortname": "DC"
+                    },
                     {
                         "img": "https://g.cricapi.com/iapi/206-637852958714346149.png?w=48",
                         "name": "Kolkata Knight Riders",
                         "shortname": "KKR"
-                    },
-                    {
-                        "img": "https://g.cricapi.com/iapi/215-637876059669009476.png?w=48",
-                        "name": "Lucknow Super Giants",
-                        "shortname": "LSG"
                     }
                 ],
                 "teams": [
-                    "Lucknow Super Giants",
+                    "Delhi Capitals",
                     "Kolkata Knight Riders"
                 ],
-                "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow"
+                "venue": "Arun Jaitley Stadium, Delhi"
             },
             {
                 "bbbEnabled": false,
-                "date": "2026-04-03",
-                "dateTimeGMT": "2026-04-03T14:00:00",
+                "date": "2026-04-25",
+                "dateTimeGMT": "2026-04-25T14:00:00",
                 "fantasyEnabled": false,
                 "hasSquad": true,
-                "id": "96d2aa6b-ea40-4da4-b4cf-eb996de24ef7",
+                "id": "3d5968a6-4851-410c-b66a-811b92406933",
                 "matchEnded": false,
                 "matchStarted": false,
                 "matchType": "t20",
-                "name": "Chennai Super Kings vs Punjab Kings, 7th Match, Indian Premier League 2026",
-                "status": "Match starts at Apr 03, 14:00 GMT",
+                "name": "Rajasthan Royals vs Sunrisers Hyderabad, 36th Match, Indian Premier League 2026",
+                "status": "Match starts at Apr 25, 14:00 GMT",
+                "teamInfo": [
+                    {
+                        "img": "https://g.cricapi.com/iapi/251-637852956607161886.png?w=48",
+                        "name": "Rajasthan Royals",
+                        "shortname": "RR"
+                    },
+                    {
+                        "img": "https://g.cricapi.com/iapi/279-637852957609490368.png?w=48",
+                        "name": "Sunrisers Hyderabad",
+                        "shortname": "SRH"
+                    }
+                ],
+                "teams": [
+                    "Rajasthan Royals",
+                    "Sunrisers Hyderabad"
+                ],
+                "venue": "Sawai Mansingh Stadium, Jaipur"
+            },
+            {
+                "bbbEnabled": false,
+                "date": "2026-05-24",
+                "dateTimeGMT": "2026-05-24T10:00:00",
+                "fantasyEnabled": false,
+                "hasSquad": true,
+                "id": "c0d94cec-8a67-4414-80af-81e7d4a9ee9a",
+                "matchEnded": false,
+                "matchStarted": false,
+                "matchType": "t20",
+                "name": "Mumbai Indians vs Rajasthan Royals, 69th Match, Indian Premier League 2026",
+                "status": "Match starts at May 24, 10:00 GMT",
+                "teamInfo": [
+                    {
+                        "img": "https://g.cricapi.com/iapi/226-637852956375593901.png?w=48",
+                        "name": "Mumbai Indians",
+                        "shortname": "MI"
+                    },
+                    {
+                        "img": "https://g.cricapi.com/iapi/251-637852956607161886.png?w=48",
+                        "name": "Rajasthan Royals",
+                        "shortname": "RR"
+                    }
+                ],
+                "teams": [
+                    "Mumbai Indians",
+                    "Rajasthan Royals"
+                ],
+                "venue": "Wankhede Stadium, Mumbai"
+            },
+            {
+                "bbbEnabled": false,
+                "date": "2026-04-23",
+                "dateTimeGMT": "2026-04-23T14:00:00",
+                "fantasyEnabled": false,
+                "hasSquad": true,
+                "id": "50520170-15b4-49e3-8180-835202e8f623",
+                "matchEnded": false,
+                "matchStarted": false,
+                "matchType": "t20",
+                "name": "Mumbai Indians vs Chennai Super Kings, 33rd Match, Indian Premier League 2026",
+                "status": "Match starts at Apr 23, 14:00 GMT",
                 "teamInfo": [
                     {
                         "img": "https://g.cricapi.com/iapi/135-637852956181378533.png?w=48",
                         "name": "Chennai Super Kings",
                         "shortname": "CSK"
+                    },
+                    {
+                        "img": "https://g.cricapi.com/iapi/226-637852956375593901.png?w=48",
+                        "name": "Mumbai Indians",
+                        "shortname": "MI"
+                    }
+                ],
+                "teams": [
+                    "Mumbai Indians",
+                    "Chennai Super Kings"
+                ],
+                "venue": "Wankhede Stadium, Mumbai"
+            },
+            {
+                "bbbEnabled": false,
+                "date": "2026-04-04",
+                "dateTimeGMT": "2026-04-04T00:00:00",
+                "fantasyEnabled": true,
+                "hasSquad": true,
+                "id": "8f54d791-e6be-4638-9d30-862329e5ebc7",
+                "matchEnded": true,
+                "matchStarted": true,
+                "matchType": "t20",
+                "name": "Gujarat Titans vs Rajasthan Royals, 9th Match, Indian Premier League 2026",
+                "status": "Rajasthan Royals won by 6 runs",
+                "teamInfo": [
+                    {
+                        "img": "https://g.cricapi.com/iapi/172-637852957798476823.png?w=48",
+                        "name": "Gujarat Titans",
+                        "shortname": "GT"
+                    },
+                    {
+                        "img": "https://g.cricapi.com/iapi/251-637852956607161886.png?w=48",
+                        "name": "Rajasthan Royals",
+                        "shortname": "RR"
+                    }
+                ],
+                "teams": [
+                    "Gujarat Titans",
+                    "Rajasthan Royals"
+                ],
+                "venue": "Narendra Modi Stadium, Ahmedabad"
+            },
+            {
+                "bbbEnabled": false,
+                "date": "2026-05-03",
+                "dateTimeGMT": "2026-05-03T14:00:00",
+                "fantasyEnabled": false,
+                "hasSquad": true,
+                "id": "f039998e-28b0-4445-b431-8bbccbbc6f1f",
+                "matchEnded": false,
+                "matchStarted": false,
+                "matchType": "t20",
+                "name": "Gujarat Titans vs Punjab Kings, 46th Match, Indian Premier League 2026",
+                "status": "Match starts at May 03, 14:00 GMT",
+                "teamInfo": [
+                    {
+                        "img": "https://g.cricapi.com/iapi/172-637852957798476823.png?w=48",
+                        "name": "Gujarat Titans",
+                        "shortname": "GT"
                     },
                     {
                         "img": "https://g.cricapi.com/iapi/247-637852956959778791.png?w=48",
@@ -1927,10 +1117,340 @@
                     }
                 ],
                 "teams": [
-                    "Chennai Super Kings",
+                    "Gujarat Titans",
                     "Punjab Kings"
                 ],
-                "venue": "MA Chidambaram Stadium, Chennai"
+                "venue": "Narendra Modi Stadium, Ahmedabad"
+            },
+            {
+                "bbbEnabled": false,
+                "date": "2026-04-05",
+                "dateTimeGMT": "2026-04-05T00:00:00",
+                "fantasyEnabled": true,
+                "hasSquad": true,
+                "id": "69d5e465-e2e5-4616-aa22-8d069c2dc0fe",
+                "matchEnded": true,
+                "matchStarted": true,
+                "matchType": "t20",
+                "name": "Royal Challengers Bengaluru vs Chennai Super Kings, 11th Match, Indian Premier League 2026",
+                "status": "Royal Challengers Bengaluru won by 43 runs",
+                "teamInfo": [
+                    {
+                        "img": "https://g.cricapi.com/iapi/135-637852956181378533.png?w=48",
+                        "name": "Chennai Super Kings",
+                        "shortname": "CSK"
+                    },
+                    {
+                        "img": "https://g.cricapi.com/iapi/21439-638468478038395955.jpg?w=48",
+                        "name": "Royal Challengers Bengaluru",
+                        "shortname": "RCBW"
+                    }
+                ],
+                "teams": [
+                    "Royal Challengers Bengaluru",
+                    "Chennai Super Kings"
+                ],
+                "venue": "M.Chinnaswamy Stadium, Bengaluru"
+            },
+            {
+                "bbbEnabled": false,
+                "date": "2026-03-28",
+                "dateTimeGMT": "2026-03-28T00:00:00",
+                "fantasyEnabled": true,
+                "hasSquad": true,
+                "id": "547b47e3-b2d9-4f51-8a49-8e7e4c946a6e",
+                "matchEnded": true,
+                "matchStarted": true,
+                "matchType": "t20",
+                "name": "Royal Challengers Bengaluru vs Sunrisers Hyderabad, 1st Match, Indian Premier League 2026",
+                "status": "Royal Challengers Bengaluru won by 6 wkts",
+                "teamInfo": [
+                    {
+                        "img": "https://g.cricapi.com/iapi/21439-638468478038395955.jpg?w=48",
+                        "name": "Royal Challengers Bengaluru",
+                        "shortname": "RCBW"
+                    },
+                    {
+                        "img": "https://g.cricapi.com/iapi/279-637852957609490368.png?w=48",
+                        "name": "Sunrisers Hyderabad",
+                        "shortname": "SRH"
+                    }
+                ],
+                "teams": [
+                    "Royal Challengers Bengaluru",
+                    "Sunrisers Hyderabad"
+                ],
+                "venue": "M.Chinnaswamy Stadium, Bengaluru"
+            },
+            {
+                "bbbEnabled": false,
+                "date": "2026-05-12",
+                "dateTimeGMT": "2026-05-12T14:00:00",
+                "fantasyEnabled": false,
+                "hasSquad": true,
+                "id": "9413d7dd-bf8e-49f6-8ce7-91faf29a0115",
+                "matchEnded": false,
+                "matchStarted": false,
+                "matchType": "t20",
+                "name": "Gujarat Titans vs Sunrisers Hyderabad, 56th Match, Indian Premier League 2026",
+                "status": "Match starts at May 12, 14:00 GMT",
+                "teamInfo": [
+                    {
+                        "img": "https://g.cricapi.com/iapi/172-637852957798476823.png?w=48",
+                        "name": "Gujarat Titans",
+                        "shortname": "GT"
+                    },
+                    {
+                        "img": "https://g.cricapi.com/iapi/279-637852957609490368.png?w=48",
+                        "name": "Sunrisers Hyderabad",
+                        "shortname": "SRH"
+                    }
+                ],
+                "teams": [
+                    "Gujarat Titans",
+                    "Sunrisers Hyderabad"
+                ],
+                "venue": "Narendra Modi Stadium, Ahmedabad"
+            },
+            {
+                "bbbEnabled": false,
+                "date": "2026-05-04",
+                "dateTimeGMT": "2026-05-04T14:00:00",
+                "fantasyEnabled": false,
+                "hasSquad": true,
+                "id": "ed18f7e9-d348-4ace-bfcd-9639096c6808",
+                "matchEnded": false,
+                "matchStarted": false,
+                "matchType": "t20",
+                "name": "Mumbai Indians vs Lucknow Super Giants, 47th Match, Indian Premier League 2026",
+                "status": "Match starts at May 04, 14:00 GMT",
+                "teamInfo": [
+                    {
+                        "img": "https://g.cricapi.com/iapi/215-637876059669009476.png?w=48",
+                        "name": "Lucknow Super Giants",
+                        "shortname": "LSG"
+                    },
+                    {
+                        "img": "https://g.cricapi.com/iapi/226-637852956375593901.png?w=48",
+                        "name": "Mumbai Indians",
+                        "shortname": "MI"
+                    }
+                ],
+                "teams": [
+                    "Mumbai Indians",
+                    "Lucknow Super Giants"
+                ],
+                "venue": "Wankhede Stadium, Mumbai"
+            },
+            {
+                "bbbEnabled": false,
+                "date": "2026-04-18",
+                "dateTimeGMT": "2026-04-18T14:00:00",
+                "fantasyEnabled": false,
+                "hasSquad": true,
+                "id": "c5bf2a95-1855-463d-accf-9c1db88418cd",
+                "matchEnded": false,
+                "matchStarted": false,
+                "matchType": "t20",
+                "name": "Sunrisers Hyderabad vs Chennai Super Kings, 27th Match, Indian Premier League 2026",
+                "status": "Match starts at Apr 18, 14:00 GMT",
+                "teamInfo": [
+                    {
+                        "img": "https://g.cricapi.com/iapi/135-637852956181378533.png?w=48",
+                        "name": "Chennai Super Kings",
+                        "shortname": "CSK"
+                    },
+                    {
+                        "img": "https://g.cricapi.com/iapi/279-637852957609490368.png?w=48",
+                        "name": "Sunrisers Hyderabad",
+                        "shortname": "SRH"
+                    }
+                ],
+                "teams": [
+                    "Sunrisers Hyderabad",
+                    "Chennai Super Kings"
+                ],
+                "venue": "Rajiv Gandhi International Stadium, Hyderabad"
+            },
+            {
+                "bbbEnabled": false,
+                "date": "2026-05-20",
+                "dateTimeGMT": "2026-05-20T14:00:00",
+                "fantasyEnabled": false,
+                "hasSquad": true,
+                "id": "5b1d59f9-51fd-449d-8cf1-9fc15ef15675",
+                "matchEnded": false,
+                "matchStarted": false,
+                "matchType": "t20",
+                "name": "Kolkata Knight Riders vs Mumbai Indians, 65th Match, Indian Premier League 2026",
+                "status": "Match starts at May 20, 14:00 GMT",
+                "teamInfo": [
+                    {
+                        "img": "https://g.cricapi.com/iapi/206-637852958714346149.png?w=48",
+                        "name": "Kolkata Knight Riders",
+                        "shortname": "KKR"
+                    },
+                    {
+                        "img": "https://g.cricapi.com/iapi/226-637852956375593901.png?w=48",
+                        "name": "Mumbai Indians",
+                        "shortname": "MI"
+                    }
+                ],
+                "teams": [
+                    "Kolkata Knight Riders",
+                    "Mumbai Indians"
+                ],
+                "venue": "Eden Gardens, Kolkata"
+            },
+            {
+                "bbbEnabled": false,
+                "date": "2026-04-18",
+                "dateTimeGMT": "2026-04-18T10:00:00",
+                "fantasyEnabled": false,
+                "hasSquad": true,
+                "id": "549ba395-31e9-477b-ba2c-a2a0dd1cbec9",
+                "matchEnded": false,
+                "matchStarted": false,
+                "matchType": "t20",
+                "name": "Royal Challengers Bengaluru vs Delhi Capitals, 26th Match, Indian Premier League 2026",
+                "status": "Match starts at Apr 18, 10:00 GMT",
+                "teamInfo": [
+                    {
+                        "img": "https://g.cricapi.com/iapi/148-637874596301457910.png?w=48",
+                        "name": "Delhi Capitals",
+                        "shortname": "DC"
+                    },
+                    {
+                        "img": "https://g.cricapi.com/iapi/21439-638468478038395955.jpg?w=48",
+                        "name": "Royal Challengers Bengaluru",
+                        "shortname": "RCBW"
+                    }
+                ],
+                "teams": [
+                    "Royal Challengers Bengaluru",
+                    "Delhi Capitals"
+                ],
+                "venue": "M.Chinnaswamy Stadium, Bengaluru"
+            },
+            {
+                "bbbEnabled": false,
+                "date": "2026-04-06",
+                "dateTimeGMT": "2026-04-06T00:00:00",
+                "fantasyEnabled": true,
+                "hasSquad": true,
+                "id": "12b5d808-d9ab-468e-bd25-a2c347f64bdc",
+                "matchEnded": true,
+                "matchStarted": true,
+                "matchType": "t20",
+                "name": "Kolkata Knight Riders vs Punjab Kings, 12th Match, Indian Premier League 2026",
+                "status": "No result (due to rain)",
+                "teamInfo": [
+                    {
+                        "img": "https://g.cricapi.com/iapi/206-637852958714346149.png?w=48",
+                        "name": "Kolkata Knight Riders",
+                        "shortname": "KKR"
+                    },
+                    {
+                        "img": "https://g.cricapi.com/iapi/247-637852956959778791.png?w=48",
+                        "name": "Punjab Kings",
+                        "shortname": "PBKS"
+                    }
+                ],
+                "teams": [
+                    "Kolkata Knight Riders",
+                    "Punjab Kings"
+                ],
+                "venue": "Eden Gardens, Kolkata"
+            },
+            {
+                "bbbEnabled": false,
+                "date": "2026-05-05",
+                "dateTimeGMT": "2026-05-05T14:00:00",
+                "fantasyEnabled": false,
+                "hasSquad": true,
+                "id": "4804409b-28ee-4f3e-ab55-a4a4cb090198",
+                "matchEnded": false,
+                "matchStarted": false,
+                "matchType": "t20",
+                "name": "Delhi Capitals vs Chennai Super Kings, 48th Match, Indian Premier League 2026",
+                "status": "Match starts at May 05, 14:00 GMT",
+                "teamInfo": [
+                    {
+                        "img": "https://g.cricapi.com/iapi/135-637852956181378533.png?w=48",
+                        "name": "Chennai Super Kings",
+                        "shortname": "CSK"
+                    },
+                    {
+                        "img": "https://g.cricapi.com/iapi/148-637874596301457910.png?w=48",
+                        "name": "Delhi Capitals",
+                        "shortname": "DC"
+                    }
+                ],
+                "teams": [
+                    "Delhi Capitals",
+                    "Chennai Super Kings"
+                ],
+                "venue": "Arun Jaitley Stadium, Delhi"
+            },
+            {
+                "bbbEnabled": false,
+                "date": "2026-04-22",
+                "dateTimeGMT": "2026-04-22T14:00:00",
+                "fantasyEnabled": false,
+                "hasSquad": true,
+                "id": "b8ec0cee-4d2f-456d-a815-a987e806f99a",
+                "matchEnded": false,
+                "matchStarted": false,
+                "matchType": "t20",
+                "name": "Lucknow Super Giants vs Rajasthan Royals, 32nd Match, Indian Premier League 2026",
+                "status": "Match starts at Apr 22, 14:00 GMT",
+                "teamInfo": [
+                    {
+                        "img": "https://g.cricapi.com/iapi/215-637876059669009476.png?w=48",
+                        "name": "Lucknow Super Giants",
+                        "shortname": "LSG"
+                    },
+                    {
+                        "img": "https://g.cricapi.com/iapi/251-637852956607161886.png?w=48",
+                        "name": "Rajasthan Royals",
+                        "shortname": "RR"
+                    }
+                ],
+                "teams": [
+                    "Lucknow Super Giants",
+                    "Rajasthan Royals"
+                ],
+                "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow"
+            },
+            {
+                "bbbEnabled": false,
+                "date": "2026-04-25",
+                "dateTimeGMT": "2026-04-25T10:00:00",
+                "fantasyEnabled": false,
+                "hasSquad": true,
+                "id": "7bd928c0-1961-4fb5-a7a7-acd61c4a1586",
+                "matchEnded": false,
+                "matchStarted": false,
+                "matchType": "t20",
+                "name": "Delhi Capitals vs Punjab Kings, 35th Match, Indian Premier League 2026",
+                "status": "Match starts at Apr 25, 10:00 GMT",
+                "teamInfo": [
+                    {
+                        "img": "https://g.cricapi.com/iapi/148-637874596301457910.png?w=48",
+                        "name": "Delhi Capitals",
+                        "shortname": "DC"
+                    },
+                    {
+                        "img": "https://g.cricapi.com/iapi/247-637852956959778791.png?w=48",
+                        "name": "Punjab Kings",
+                        "shortname": "PBKS"
+                    }
+                ],
+                "teams": [
+                    "Delhi Capitals",
+                    "Punjab Kings"
+                ],
+                "venue": "Arun Jaitley Stadium, Delhi"
             },
             {
                 "bbbEnabled": false,
@@ -1938,7 +1458,7 @@
                 "dateTimeGMT": "2026-04-16T14:00:00",
                 "fantasyEnabled": false,
                 "hasSquad": true,
-                "id": "d0279d32-e120-4b96-b600-efa118f6ec12",
+                "id": "6289a2c9-75ee-49e1-9b83-ad7df53dcc21",
                 "matchEnded": false,
                 "matchStarted": false,
                 "matchType": "t20",
@@ -1964,11 +1484,221 @@
             },
             {
                 "bbbEnabled": false,
+                "date": "2026-05-09",
+                "dateTimeGMT": "2026-05-09T14:00:00",
+                "fantasyEnabled": false,
+                "hasSquad": true,
+                "id": "6ffec712-6562-490c-a4fa-ae4b6ae59188",
+                "matchEnded": false,
+                "matchStarted": false,
+                "matchType": "t20",
+                "name": "Rajasthan Royals vs Gujarat Titans, 52nd Match, Indian Premier League 2026",
+                "status": "Match starts at May 09, 14:00 GMT",
+                "teamInfo": [
+                    {
+                        "img": "https://g.cricapi.com/iapi/172-637852957798476823.png?w=48",
+                        "name": "Gujarat Titans",
+                        "shortname": "GT"
+                    },
+                    {
+                        "img": "https://g.cricapi.com/iapi/251-637852956607161886.png?w=48",
+                        "name": "Rajasthan Royals",
+                        "shortname": "RR"
+                    }
+                ],
+                "teams": [
+                    "Rajasthan Royals",
+                    "Gujarat Titans"
+                ],
+                "venue": "Sawai Mansingh Stadium, Jaipur"
+            },
+            {
+                "bbbEnabled": false,
+                "date": "2026-05-01",
+                "dateTimeGMT": "2026-05-01T14:00:00",
+                "fantasyEnabled": false,
+                "hasSquad": true,
+                "id": "3093f73b-639c-464c-8497-b6b238b5b9af",
+                "matchEnded": false,
+                "matchStarted": false,
+                "matchType": "t20",
+                "name": "Rajasthan Royals vs Delhi Capitals, 43rd Match, Indian Premier League 2026",
+                "status": "Match starts at May 01, 14:00 GMT",
+                "teamInfo": [
+                    {
+                        "img": "https://g.cricapi.com/iapi/148-637874596301457910.png?w=48",
+                        "name": "Delhi Capitals",
+                        "shortname": "DC"
+                    },
+                    {
+                        "img": "https://g.cricapi.com/iapi/251-637852956607161886.png?w=48",
+                        "name": "Rajasthan Royals",
+                        "shortname": "RR"
+                    }
+                ],
+                "teams": [
+                    "Rajasthan Royals",
+                    "Delhi Capitals"
+                ],
+                "venue": "Sawai Mansingh Stadium, Jaipur"
+            },
+            {
+                "bbbEnabled": false,
+                "date": "2026-05-22",
+                "dateTimeGMT": "2026-05-22T14:00:00",
+                "fantasyEnabled": false,
+                "hasSquad": true,
+                "id": "bf23431b-ba1c-4147-94d9-b8d361a3ce9e",
+                "matchEnded": false,
+                "matchStarted": false,
+                "matchType": "t20",
+                "name": "Sunrisers Hyderabad vs Royal Challengers Bengaluru, 67th Match, Indian Premier League 2026",
+                "status": "Match starts at May 22, 14:00 GMT",
+                "teamInfo": [
+                    {
+                        "img": "https://g.cricapi.com/iapi/21439-638468478038395955.jpg?w=48",
+                        "name": "Royal Challengers Bengaluru",
+                        "shortname": "RCBW"
+                    },
+                    {
+                        "img": "https://g.cricapi.com/iapi/279-637852957609490368.png?w=48",
+                        "name": "Sunrisers Hyderabad",
+                        "shortname": "SRH"
+                    }
+                ],
+                "teams": [
+                    "Sunrisers Hyderabad",
+                    "Royal Challengers Bengaluru"
+                ],
+                "venue": "Rajiv Gandhi International Stadium, Hyderabad"
+            },
+            {
+                "bbbEnabled": false,
+                "date": "2026-04-26",
+                "dateTimeGMT": "2026-04-26T14:00:00",
+                "fantasyEnabled": false,
+                "hasSquad": true,
+                "id": "fbd861ca-4efb-4d1d-b46c-ba3bc334bce4",
+                "matchEnded": false,
+                "matchStarted": false,
+                "matchType": "t20",
+                "name": "Lucknow Super Giants vs Kolkata Knight Riders, 38th Match, Indian Premier League 2026",
+                "status": "Match starts at Apr 26, 14:00 GMT",
+                "teamInfo": [
+                    {
+                        "img": "https://g.cricapi.com/iapi/206-637852958714346149.png?w=48",
+                        "name": "Kolkata Knight Riders",
+                        "shortname": "KKR"
+                    },
+                    {
+                        "img": "https://g.cricapi.com/iapi/215-637876059669009476.png?w=48",
+                        "name": "Lucknow Super Giants",
+                        "shortname": "LSG"
+                    }
+                ],
+                "teams": [
+                    "Lucknow Super Giants",
+                    "Kolkata Knight Riders"
+                ],
+                "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow"
+            },
+            {
+                "bbbEnabled": false,
+                "date": "2026-04-04",
+                "dateTimeGMT": "2026-04-04T00:00:00",
+                "fantasyEnabled": true,
+                "hasSquad": true,
+                "id": "19455906-a0a9-4959-a591-c5aee00b3e1b",
+                "matchEnded": true,
+                "matchStarted": true,
+                "matchType": "t20",
+                "name": "Delhi Capitals vs Mumbai Indians, 8th Match, Indian Premier League 2026",
+                "status": "Delhi Capitals won by 6 wkts",
+                "teamInfo": [
+                    {
+                        "img": "https://g.cricapi.com/iapi/148-637874596301457910.png?w=48",
+                        "name": "Delhi Capitals",
+                        "shortname": "DC"
+                    },
+                    {
+                        "img": "https://g.cricapi.com/iapi/226-637852956375593901.png?w=48",
+                        "name": "Mumbai Indians",
+                        "shortname": "MI"
+                    }
+                ],
+                "teams": [
+                    "Delhi Capitals",
+                    "Mumbai Indians"
+                ],
+                "venue": "Arun Jaitley Stadium, Delhi"
+            },
+            {
+                "bbbEnabled": false,
+                "date": "2026-04-19",
+                "dateTimeGMT": "2026-04-19T14:00:00",
+                "fantasyEnabled": false,
+                "hasSquad": true,
+                "id": "ca8f24c0-6eef-4f8e-b50f-c63fc2b1ca98",
+                "matchEnded": false,
+                "matchStarted": false,
+                "matchType": "t20",
+                "name": "Punjab Kings vs Lucknow Super Giants, 29th Match, Indian Premier League 2026",
+                "status": "Match starts at Apr 19, 14:00 GMT",
+                "teamInfo": [
+                    {
+                        "img": "https://g.cricapi.com/iapi/215-637876059669009476.png?w=48",
+                        "name": "Lucknow Super Giants",
+                        "shortname": "LSG"
+                    },
+                    {
+                        "img": "https://g.cricapi.com/iapi/247-637852956959778791.png?w=48",
+                        "name": "Punjab Kings",
+                        "shortname": "PBKS"
+                    }
+                ],
+                "teams": [
+                    "Punjab Kings",
+                    "Lucknow Super Giants"
+                ],
+                "venue": "Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, New Chandigarh"
+            },
+            {
+                "bbbEnabled": false,
+                "date": "2026-05-06",
+                "dateTimeGMT": "2026-05-06T14:00:00",
+                "fantasyEnabled": false,
+                "hasSquad": true,
+                "id": "312ba6aa-5e93-4673-bb0c-cb207fdc9e2d",
+                "matchEnded": false,
+                "matchStarted": false,
+                "matchType": "t20",
+                "name": "Sunrisers Hyderabad vs Punjab Kings, 49th Match, Indian Premier League 2026",
+                "status": "Match starts at May 06, 14:00 GMT",
+                "teamInfo": [
+                    {
+                        "img": "https://g.cricapi.com/iapi/247-637852956959778791.png?w=48",
+                        "name": "Punjab Kings",
+                        "shortname": "PBKS"
+                    },
+                    {
+                        "img": "https://g.cricapi.com/iapi/279-637852957609490368.png?w=48",
+                        "name": "Sunrisers Hyderabad",
+                        "shortname": "SRH"
+                    }
+                ],
+                "teams": [
+                    "Sunrisers Hyderabad",
+                    "Punjab Kings"
+                ],
+                "venue": "Rajiv Gandhi International Stadium, Hyderabad"
+            },
+            {
+                "bbbEnabled": false,
                 "date": "2026-05-07",
                 "dateTimeGMT": "2026-05-07T14:00:00",
                 "fantasyEnabled": false,
                 "hasSquad": true,
-                "id": "79770ea7-9819-4414-97fe-f01444aa8ccf",
+                "id": "8b326da3-8ff6-4e64-abe4-cb430d7a6c53",
                 "matchEnded": false,
                 "matchStarted": false,
                 "matchType": "t20",
@@ -1994,21 +1724,21 @@
             },
             {
                 "bbbEnabled": false,
-                "date": "2026-05-02",
-                "dateTimeGMT": "2026-05-02T14:00:00",
-                "fantasyEnabled": false,
+                "date": "2026-03-29",
+                "dateTimeGMT": "2026-03-29T00:00:00",
+                "fantasyEnabled": true,
                 "hasSquad": true,
-                "id": "ca40682e-02d0-40a0-9a4c-f2a9c8754de0",
-                "matchEnded": false,
-                "matchStarted": false,
+                "id": "950a9aad-a1a7-46ef-9dcd-d25dec7964af",
+                "matchEnded": true,
+                "matchStarted": true,
                 "matchType": "t20",
-                "name": "Chennai Super Kings vs Mumbai Indians, 44th Match, Indian Premier League 2026",
-                "status": "Match starts at May 02, 14:00 GMT",
+                "name": "Mumbai Indians vs Kolkata Knight Riders, 2nd Match, Indian Premier League 2026",
+                "status": "Mumbai Indians won by 6 wkts",
                 "teamInfo": [
                     {
-                        "img": "https://g.cricapi.com/iapi/135-637852956181378533.png?w=48",
-                        "name": "Chennai Super Kings",
-                        "shortname": "CSK"
+                        "img": "https://g.cricapi.com/iapi/206-637852958714346149.png?w=48",
+                        "name": "Kolkata Knight Riders",
+                        "shortname": "KKR"
                     },
                     {
                         "img": "https://g.cricapi.com/iapi/226-637852956375593901.png?w=48",
@@ -2017,10 +1747,10 @@
                     }
                 ],
                 "teams": [
-                    "Chennai Super Kings",
-                    "Mumbai Indians"
+                    "Mumbai Indians",
+                    "Kolkata Knight Riders"
                 ],
-                "venue": "MA Chidambaram Stadium, Chennai"
+                "venue": "Wankhede Stadium, Mumbai"
             },
             {
                 "bbbEnabled": false,
@@ -2028,7 +1758,7 @@
                 "dateTimeGMT": "2026-04-19T10:00:00",
                 "fantasyEnabled": false,
                 "hasSquad": true,
-                "id": "a86beb23-22f5-4afb-914c-f2b9f6711166",
+                "id": "fb4d7e4a-c420-45f2-9f2f-d45ce094efbc",
                 "matchEnded": false,
                 "matchStarted": false,
                 "matchType": "t20",
@@ -2054,51 +1784,21 @@
             },
             {
                 "bbbEnabled": false,
-                "date": "2026-04-27",
-                "dateTimeGMT": "2026-04-27T14:00:00",
+                "date": "2026-04-11",
+                "dateTimeGMT": "2026-04-11T10:00:00",
                 "fantasyEnabled": false,
                 "hasSquad": true,
-                "id": "0ed37800-881a-401b-a1fe-f41adb244741",
+                "id": "8f0a09ba-2a87-4b94-9a61-d729ef8c0c14",
                 "matchEnded": false,
                 "matchStarted": false,
                 "matchType": "t20",
-                "name": "Delhi Capitals vs Royal Challengers Bengaluru, 39th Match, Indian Premier League 2026",
-                "status": "Match starts at Apr 27, 14:00 GMT",
+                "name": "Punjab Kings vs Sunrisers Hyderabad, 17th Match, Indian Premier League 2026",
+                "status": "Match starts at Apr 11, 10:00 GMT",
                 "teamInfo": [
                     {
-                        "img": "https://g.cricapi.com/iapi/148-637874596301457910.png?w=48",
-                        "name": "Delhi Capitals",
-                        "shortname": "DC"
-                    },
-                    {
-                        "img": "https://g.cricapi.com/iapi/21439-638468478038395955.jpg?w=48",
-                        "name": "Royal Challengers Bengaluru",
-                        "shortname": "RCBW"
-                    }
-                ],
-                "teams": [
-                    "Delhi Capitals",
-                    "Royal Challengers Bengaluru"
-                ],
-                "venue": "Arun Jaitley Stadium, Delhi"
-            },
-            {
-                "bbbEnabled": false,
-                "date": "2026-05-22",
-                "dateTimeGMT": "2026-05-22T14:00:00",
-                "fantasyEnabled": false,
-                "hasSquad": true,
-                "id": "25c031c2-2776-48a7-824c-fe66e0e6cf48",
-                "matchEnded": false,
-                "matchStarted": false,
-                "matchType": "t20",
-                "name": "Sunrisers Hyderabad vs Royal Challengers Bengaluru, 67th Match, Indian Premier League 2026",
-                "status": "Match starts at May 22, 14:00 GMT",
-                "teamInfo": [
-                    {
-                        "img": "https://g.cricapi.com/iapi/21439-638468478038395955.jpg?w=48",
-                        "name": "Royal Challengers Bengaluru",
-                        "shortname": "RCBW"
+                        "img": "https://g.cricapi.com/iapi/247-637852956959778791.png?w=48",
+                        "name": "Punjab Kings",
+                        "shortname": "PBKS"
                     },
                     {
                         "img": "https://g.cricapi.com/iapi/279-637852957609490368.png?w=48",
@@ -2107,20 +1807,320 @@
                     }
                 ],
                 "teams": [
-                    "Sunrisers Hyderabad",
+                    "Punjab Kings",
+                    "Sunrisers Hyderabad"
+                ],
+                "venue": "Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, New Chandigarh"
+            },
+            {
+                "bbbEnabled": false,
+                "date": "2026-04-08",
+                "dateTimeGMT": "2026-04-08T14:00:00",
+                "fantasyEnabled": false,
+                "hasSquad": true,
+                "id": "5945bbf4-b6b5-45b6-abac-db03e8a39130",
+                "matchEnded": false,
+                "matchStarted": false,
+                "matchType": "t20",
+                "name": "Delhi Capitals vs Gujarat Titans, 14th Match, Indian Premier League 2026",
+                "status": "Match starts at Apr 08, 14:00 GMT",
+                "teamInfo": [
+                    {
+                        "img": "https://g.cricapi.com/iapi/148-637874596301457910.png?w=48",
+                        "name": "Delhi Capitals",
+                        "shortname": "DC"
+                    },
+                    {
+                        "img": "https://g.cricapi.com/iapi/172-637852957798476823.png?w=48",
+                        "name": "Gujarat Titans",
+                        "shortname": "GT"
+                    }
+                ],
+                "teams": [
+                    "Delhi Capitals",
+                    "Gujarat Titans"
+                ],
+                "venue": "Arun Jaitley Stadium, Delhi"
+            },
+            {
+                "bbbEnabled": false,
+                "date": "2026-03-31",
+                "dateTimeGMT": "2026-03-31T00:00:00",
+                "fantasyEnabled": true,
+                "hasSquad": true,
+                "id": "235b2c68-326a-49e0-959a-def9fe3b5736",
+                "matchEnded": true,
+                "matchStarted": true,
+                "matchType": "t20",
+                "name": "Punjab Kings vs Gujarat Titans, 4th Match, Indian Premier League 2026",
+                "status": "Punjab Kings won by 3 wkts",
+                "teamInfo": [
+                    {
+                        "img": "https://g.cricapi.com/iapi/172-637852957798476823.png?w=48",
+                        "name": "Gujarat Titans",
+                        "shortname": "GT"
+                    },
+                    {
+                        "img": "https://g.cricapi.com/iapi/247-637852956959778791.png?w=48",
+                        "name": "Punjab Kings",
+                        "shortname": "PBKS"
+                    }
+                ],
+                "teams": [
+                    "Punjab Kings",
+                    "Gujarat Titans"
+                ],
+                "venue": "Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, New Chandigarh"
+            },
+            {
+                "bbbEnabled": false,
+                "date": "2026-04-09",
+                "dateTimeGMT": "2026-04-09T14:00:00",
+                "fantasyEnabled": false,
+                "hasSquad": true,
+                "id": "2d6c0b86-76c0-4795-96a4-e252f575d2d9",
+                "matchEnded": false,
+                "matchStarted": false,
+                "matchType": "t20",
+                "name": "Kolkata Knight Riders vs Lucknow Super Giants, 15th Match, Indian Premier League 2026",
+                "status": "Match starts at Apr 09, 14:00 GMT",
+                "teamInfo": [
+                    {
+                        "img": "https://g.cricapi.com/iapi/206-637852958714346149.png?w=48",
+                        "name": "Kolkata Knight Riders",
+                        "shortname": "KKR"
+                    },
+                    {
+                        "img": "https://g.cricapi.com/iapi/215-637876059669009476.png?w=48",
+                        "name": "Lucknow Super Giants",
+                        "shortname": "LSG"
+                    }
+                ],
+                "teams": [
+                    "Kolkata Knight Riders",
+                    "Lucknow Super Giants"
+                ],
+                "venue": "Eden Gardens, Kolkata"
+            },
+            {
+                "bbbEnabled": false,
+                "date": "2026-04-03",
+                "dateTimeGMT": "2026-04-03T00:00:00",
+                "fantasyEnabled": true,
+                "hasSquad": true,
+                "id": "59353457-477e-4c7b-b367-e312d5474744",
+                "matchEnded": true,
+                "matchStarted": true,
+                "matchType": "t20",
+                "name": "Chennai Super Kings vs Punjab Kings, 7th Match, Indian Premier League 2026",
+                "status": "Punjab Kings won by 5 wkts",
+                "teamInfo": [
+                    {
+                        "img": "https://g.cricapi.com/iapi/135-637852956181378533.png?w=48",
+                        "name": "Chennai Super Kings",
+                        "shortname": "CSK"
+                    },
+                    {
+                        "img": "https://g.cricapi.com/iapi/247-637852956959778791.png?w=48",
+                        "name": "Punjab Kings",
+                        "shortname": "PBKS"
+                    }
+                ],
+                "teams": [
+                    "Chennai Super Kings",
+                    "Punjab Kings"
+                ],
+                "venue": "MA Chidambaram Stadium, Chennai"
+            },
+            {
+                "bbbEnabled": false,
+                "date": "2026-05-23",
+                "dateTimeGMT": "2026-05-23T14:00:00",
+                "fantasyEnabled": false,
+                "hasSquad": true,
+                "id": "7134216b-553c-4099-82a8-ee48bd9c46f3",
+                "matchEnded": false,
+                "matchStarted": false,
+                "matchType": "t20",
+                "name": "Lucknow Super Giants vs Punjab Kings, 68th Match, Indian Premier League 2026",
+                "status": "Match starts at May 23, 14:00 GMT",
+                "teamInfo": [
+                    {
+                        "img": "https://g.cricapi.com/iapi/215-637876059669009476.png?w=48",
+                        "name": "Lucknow Super Giants",
+                        "shortname": "LSG"
+                    },
+                    {
+                        "img": "https://g.cricapi.com/iapi/247-637852956959778791.png?w=48",
+                        "name": "Punjab Kings",
+                        "shortname": "PBKS"
+                    }
+                ],
+                "teams": [
+                    "Lucknow Super Giants",
+                    "Punjab Kings"
+                ],
+                "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow"
+            },
+            {
+                "bbbEnabled": false,
+                "date": "2026-04-07",
+                "dateTimeGMT": "2026-04-07T14:00:00",
+                "fantasyEnabled": true,
+                "hasSquad": true,
+                "id": "3dd82a3e-52e3-409b-bb9c-ef458942a7a2",
+                "matchEnded": true,
+                "matchStarted": true,
+                "matchType": "t20",
+                "name": "Rajasthan Royals vs Mumbai Indians, 13th Match, Indian Premier League 2026",
+                "status": "Rajasthan Royals won by 27 runs  -  11 overs game due to rain",
+                "teamInfo": [
+                    {
+                        "img": "https://g.cricapi.com/iapi/226-637852956375593901.png?w=48",
+                        "name": "Mumbai Indians",
+                        "shortname": "MI"
+                    },
+                    {
+                        "img": "https://g.cricapi.com/iapi/251-637852956607161886.png?w=48",
+                        "name": "Rajasthan Royals",
+                        "shortname": "RR"
+                    }
+                ],
+                "teams": [
+                    "Rajasthan Royals",
+                    "Mumbai Indians"
+                ],
+                "venue": "Barsapara Cricket Stadium, Guwahati"
+            },
+            {
+                "bbbEnabled": false,
+                "date": "2026-05-11",
+                "dateTimeGMT": "2026-05-11T14:00:00",
+                "fantasyEnabled": false,
+                "hasSquad": true,
+                "id": "ee5ab0d9-acd2-42bf-b5bc-f4d287e0f434",
+                "matchEnded": false,
+                "matchStarted": false,
+                "matchType": "t20",
+                "name": "Punjab Kings vs Delhi Capitals, 55th Match, Indian Premier League 2026",
+                "status": "Match starts at May 11, 14:00 GMT",
+                "teamInfo": [
+                    {
+                        "img": "https://g.cricapi.com/iapi/148-637874596301457910.png?w=48",
+                        "name": "Delhi Capitals",
+                        "shortname": "DC"
+                    },
+                    {
+                        "img": "https://g.cricapi.com/iapi/247-637852956959778791.png?w=48",
+                        "name": "Punjab Kings",
+                        "shortname": "PBKS"
+                    }
+                ],
+                "teams": [
+                    "Punjab Kings",
+                    "Delhi Capitals"
+                ],
+                "venue": "Himachal Pradesh Cricket Association Stadium, Dharamsala"
+            },
+            {
+                "bbbEnabled": false,
+                "date": "2026-03-30",
+                "dateTimeGMT": "2026-03-30T00:00:05",
+                "fantasyEnabled": true,
+                "hasSquad": true,
+                "id": "1412721c-3b2b-4703-89c7-f86f5ea81048",
+                "matchEnded": true,
+                "matchStarted": true,
+                "matchType": "t20",
+                "name": "Rajasthan Royals vs Chennai Super Kings, 3rd Match, Indian Premier League 2026",
+                "status": "Rajasthan Royals won by 8 wkts",
+                "teamInfo": [
+                    {
+                        "img": "https://g.cricapi.com/iapi/135-637852956181378533.png?w=48",
+                        "name": "Chennai Super Kings",
+                        "shortname": "CSK"
+                    },
+                    {
+                        "img": "https://g.cricapi.com/iapi/251-637852956607161886.png?w=48",
+                        "name": "Rajasthan Royals",
+                        "shortname": "RR"
+                    }
+                ],
+                "teams": [
+                    "Rajasthan Royals",
+                    "Chennai Super Kings"
+                ],
+                "venue": "Barsapara Cricket Stadium, Guwahati"
+            },
+            {
+                "bbbEnabled": false,
+                "date": "2026-04-26",
+                "dateTimeGMT": "2026-04-26T10:00:00",
+                "fantasyEnabled": false,
+                "hasSquad": true,
+                "id": "690985d0-c890-434a-bece-fb02d59b09d2",
+                "matchEnded": false,
+                "matchStarted": false,
+                "matchType": "t20",
+                "name": "Gujarat Titans vs Chennai Super Kings, 37th Match, Indian Premier League 2026",
+                "status": "Match starts at Apr 26, 10:00 GMT",
+                "teamInfo": [
+                    {
+                        "img": "https://g.cricapi.com/iapi/135-637852956181378533.png?w=48",
+                        "name": "Chennai Super Kings",
+                        "shortname": "CSK"
+                    },
+                    {
+                        "img": "https://g.cricapi.com/iapi/172-637852957798476823.png?w=48",
+                        "name": "Gujarat Titans",
+                        "shortname": "GT"
+                    }
+                ],
+                "teams": [
+                    "Gujarat Titans",
+                    "Chennai Super Kings"
+                ],
+                "venue": "Narendra Modi Stadium, Ahmedabad"
+            },
+            {
+                "bbbEnabled": false,
+                "date": "2026-05-17",
+                "dateTimeGMT": "2026-05-17T10:00:00",
+                "fantasyEnabled": false,
+                "hasSquad": true,
+                "id": "288e3406-3692-400a-bc22-fb8cfa0db2ca",
+                "matchEnded": false,
+                "matchStarted": false,
+                "matchType": "t20",
+                "name": "Punjab Kings vs Royal Challengers Bengaluru, 61st Match, Indian Premier League 2026",
+                "status": "Match starts at May 17, 10:00 GMT",
+                "teamInfo": [
+                    {
+                        "img": "https://g.cricapi.com/iapi/247-637852956959778791.png?w=48",
+                        "name": "Punjab Kings",
+                        "shortname": "PBKS"
+                    },
+                    {
+                        "img": "https://g.cricapi.com/iapi/21439-638468478038395955.jpg?w=48",
+                        "name": "Royal Challengers Bengaluru",
+                        "shortname": "RCBW"
+                    }
+                ],
+                "teams": [
+                    "Punjab Kings",
                     "Royal Challengers Bengaluru"
                 ],
-                "venue": "Rajiv Gandhi International Stadium, Hyderabad"
+                "venue": "Himachal Pradesh Cricket Association Stadium, Dharamsala"
             }
         ]
     },
     "info": {
-        "cache": 1,
+        "cache": 0,
         "credits": 0,
         "hitsLimit": 100,
-        "hitsToday": 31,
+        "hitsToday": 11,
         "hitsUsed": 1,
-        "queryTime": 42.9583,
+        "queryTime": 49.4501,
         "s": 0,
         "server": 9
     },

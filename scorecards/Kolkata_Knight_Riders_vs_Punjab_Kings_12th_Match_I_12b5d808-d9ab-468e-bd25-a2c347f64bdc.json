@@ -1,0 +1,169 @@
+{
+    "data": {
+        "id": "12b5d808-d9ab-468e-bd25-a2c347f64bdc",
+        "name": "Kolkata Knight Riders vs Punjab Kings, 12th Match, Indian Premier League 2026",
+        "matchType": "t20",
+        "status": "No result (due to rain)",
+        "venue": "Eden Gardens, Kolkata",
+        "date": "2026-04-06",
+        "dateTimeGMT": "2026-04-06T00:00:00",
+        "teams": [
+            "Kolkata Knight Riders",
+            "Punjab Kings"
+        ],
+        "teamInfo": [
+            {
+                "name": "Kolkata Knight Riders",
+                "shortname": "KKR",
+                "img": "https://g.cricapi.com/iapi/206-637852958714346149.png?w=48"
+            },
+            {
+                "name": "Punjab Kings",
+                "shortname": "PBKS",
+                "img": "https://g.cricapi.com/iapi/247-637852956959778791.png?w=48"
+            }
+        ],
+        "score": [
+            {
+                "r": 25,
+                "w": 2,
+                "o": 3.4,
+                "inning": "kolkata knight riders Inning 1"
+            }
+        ],
+        "tossWinner": "kolkata knight riders",
+        "tossChoice": "bat",
+        "matchWinner": "No Winner",
+        "series_id": "87c62aac-bc3c-4738-ab93-19da0690488f",
+        "scorecard": [
+            {
+                "batting": [
+                    {
+                        "batsman": {
+                            "id": "cdc2646c-1fe7-4bc2-b26e-42453f45a212",
+                            "name": "Ajinkya Rahane"
+                        },
+                        "dismissal-text": "not out",
+                        "r": 8,
+                        "b": 6,
+                        "4s": 1,
+                        "6s": 0,
+                        "sr": 133.33
+                    },
+                    {
+                        "batsman": {
+                            "id": "08924d57-b4d3-4ed0-903d-087a8384be12",
+                            "name": "Finn Allen"
+                        },
+                        "dismissal": "catch",
+                        "bowler": {
+                            "id": "cba19be9-7aec-4083-ba61-26f0aee31721",
+                            "name": "Xavier Bartlett"
+                        },
+                        "catcher": {
+                            "id": "a15dfada-704c-42c3-9545-91c332ffca73",
+                            "name": "Prabhsimran Singh"
+                        },
+                        "dismissal-text": "c Prabhsimran Singh b Xavier Bartlett",
+                        "r": 6,
+                        "b": 7,
+                        "4s": 1,
+                        "6s": 0,
+                        "sr": 85.71
+                    },
+                    {
+                        "batsman": {
+                            "id": "abe58090-e933-4888-8538-64f4611ee259",
+                            "name": "Cameron Green"
+                        },
+                        "dismissal": "catch",
+                        "bowler": {
+                            "id": "cba19be9-7aec-4083-ba61-26f0aee31721",
+                            "name": "Xavier Bartlett"
+                        },
+                        "catcher": {
+                            "id": "a15dfada-704c-42c3-9545-91c332ffca73",
+                            "name": "Prabhsimran Singh"
+                        },
+                        "dismissal-text": "c Prabhsimran Singh b Xavier Bartlett",
+                        "r": 4,
+                        "b": 2,
+                        "4s": 1,
+                        "6s": 0,
+                        "sr": 200
+                    },
+                    {
+                        "batsman": {
+                            "id": "3c89df94-f39c-4c51-8e64-441c73c32c78",
+                            "name": "Angkrish Raghuvanshi"
+                        },
+                        "dismissal-text": "not out",
+                        "r": 7,
+                        "b": 7,
+                        "4s": 0,
+                        "6s": 0,
+                        "sr": 100
+                    }
+                ],
+                "bowling": [
+                    {
+                        "bowler": {
+                            "id": "607ff10c-5619-411d-a822-06ba28992230",
+                            "name": "Arshdeep Singh"
+                        },
+                        "o": 2,
+                        "m": 0,
+                        "r": 16,
+                        "w": 0,
+                        "nb": 0,
+                        "wd": 0,
+                        "eco": 8
+                    },
+                    {
+                        "bowler": {
+                            "id": "cba19be9-7aec-4083-ba61-26f0aee31721",
+                            "name": "Xavier Bartlett"
+                        },
+                        "o": 1.4,
+                        "m": 0,
+                        "r": 9,
+                        "w": 2,
+                        "nb": 0,
+                        "wd": 0,
+                        "eco": 5.4
+                    }
+                ],
+                "catching": [
+                    {
+                        "catcher": {
+                            "id": "a15dfada-704c-42c3-9545-91c332ffca73",
+                            "name": "Prabhsimran Singh"
+                        },
+                        "stumped": 0,
+                        "runout": 0,
+                        "catch": 2,
+                        "cb": 0,
+                        "lbw": 0,
+                        "bowled": 0
+                    }
+                ],
+                "extras": {},
+                "totals": {},
+                "inning": "kolkata knight riders Inning 1"
+            }
+        ],
+        "matchStarted": true,
+        "matchEnded": true
+    },
+    "status": "success",
+    "info": {
+        "hitsToday": 70,
+        "hitsUsed": 10,
+        "hitsLimit": 100,
+        "credits": 0,
+        "server": 12,
+        "queryTime": 37.4639,
+        "s": 0,
+        "cache": 0
+    }
+}

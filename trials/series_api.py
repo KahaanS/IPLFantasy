@@ -1,8 +1,10 @@
 import requests
 import json
+import sys
+sys.path.append('../')
 from helpers.api_helpers import load_config_yaml
 
-config = load_config_yaml()
+config = load_config_yaml('../config.yaml')
 apikey = str(config.get('API_KEY'))
 
 id="87c62aac-bc3c-4738-ab93-19da0690488f"

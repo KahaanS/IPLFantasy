@@ -1,0 +1,97 @@
+{
+  "match_id": "12b5d808-d9ab-468e-bd25-a2c347f64bdc",
+  "match_name": "Kolkata Knight Riders vs Punjab Kings, 12th Match, Indian Premier League 2026",
+  "player_points": {
+    "cdc2646c-1fe7-4bc2-b26e-42453f45a212": {
+      "name": "Ajinkya Rahane",
+      "role": "Batsman",
+      "points": {
+        "batting_points": 12,
+        "sr_points": 0,
+        "bowling_points": 0,
+        "economy_points": 0,
+        "fielding_points": 0,
+        "lineup_bonus": 4,
+        "total": 16
+      }
+    },
+    "08924d57-b4d3-4ed0-903d-087a8384be12": {
+      "name": "Finn Allen",
+      "role": "Batsman",
+      "points": {
+        "batting_points": 10,
+        "sr_points": 0,
+        "bowling_points": 0,
+        "economy_points": 0,
+        "fielding_points": 0,
+        "lineup_bonus": 4,
+        "total": 14
+      }
+    },
+    "abe58090-e933-4888-8538-64f4611ee259": {
+      "name": "Cameron Green",
+      "role": "Batting Allrounder",
+      "points": {
+        "batting_points": 8,
+        "sr_points": 0,
+        "bowling_points": 0,
+        "economy_points": 0,
+        "fielding_points": 0,
+        "lineup_bonus": 4,
+        "total": 12
+      }
+    },
+    "3c89df94-f39c-4c51-8e64-441c73c32c78": {
+      "name": "Angkrish Raghuvanshi",
+      "role": "Batsman",
+      "points": {
+        "batting_points": 7,
+        "sr_points": 0,
+        "bowling_points": 0,
+        "economy_points": 0,
+        "fielding_points": 0,
+        "lineup_bonus": 4,
+        "total": 11
+      }
+    },
+    "607ff10c-5619-411d-a822-06ba28992230": {
+      "name": "Arshdeep Singh",
+      "role": "Bowler",
+      "points": {
+        "batting_points": 0,
+        "sr_points": 0,
+        "bowling_points": 0,
+        "economy_points": 0,
+        "fielding_points": 0,
+        "lineup_bonus": 4,
+        "total": 4
+      }
+    },
+    "cba19be9-7aec-4083-ba61-26f0aee31721": {
+      "name": "Xavier Bartlett",
+      "role": "Bowler",
+      "points": {
+        "batting_points": 0,
+        "sr_points": 0,
+        "bowling_points": 60,
+        "economy_points": 0,
+        "fielding_points": 0,
+        "lineup_bonus": 4,
+        "total": 64
+      }
+    },
+    "a15dfada-704c-42c3-9545-91c332ffca73": {
+      "name": "Prabhsimran Singh",
+      "role": "WK-Batsman",
+      "points": {
+        "batting_points": 0,
+        "sr_points": 0,
+        "bowling_points": 0,
+        "economy_points": 0,
+        "fielding_points": 16,
+        "lineup_bonus": 4,
+        "total": 20
+      }
+    }
+  }
+}
