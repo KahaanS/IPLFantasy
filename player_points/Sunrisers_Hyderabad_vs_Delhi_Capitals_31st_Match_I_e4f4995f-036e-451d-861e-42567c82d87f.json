@@ -1,0 +1,318 @@
+{
+  "match_id": "e4f4995f-036e-451d-861e-42567c82d87f",
+  "match_name": "Sunrisers Hyderabad vs Delhi Capitals, 31st Match, Indian Premier League 2026",
+  "player_points": {
+    "83fe6ab6-d63c-420e-9416-a93d59a9a964": {
+      "name": "Abhishek Sharma",
+      "role": "Batting Allrounder",
+      "points": {
+        "batting_points": 251,
+        "sr_points": 6,
+        "bowling_points": 0,
+        "economy_points": 0,
+        "fielding_points": 16,
+        "lineup_bonus": 4,
+        "total": 277
+      }
+    },
+    "d6720897-e81d-4703-bf33-d2b60c973d30": {
+      "name": "Travis Head",
+      "role": "Batsman",
+      "points": {
+        "batting_points": 61,
+        "sr_points": 2,
+        "bowling_points": 0,
+        "economy_points": 0,
+        "fielding_points": 0,
+        "lineup_bonus": 4,
+        "total": 67
+      }
+    },
+    "9ae68636-48d9-488f-8adc-e62a19815d85": {
+      "name": "Ishan Kishan",
+      "role": "WK-Batsman",
+      "points": {
+        "batting_points": 43,
+        "sr_points": 6,
+        "bowling_points": 0,
+        "economy_points": 0,
+        "fielding_points": 0,
+        "lineup_bonus": 4,
+        "total": 53
+      }
+    },
+    "7d662361-8f12-4a52-9a4b-01e8734bd31d": {
+      "name": "Heinrich Klaasen",
+      "role": "WK-Batsman",
+      "points": {
+        "batting_points": 71,
+        "sr_points": 6,
+        "bowling_points": 0,
+        "economy_points": 0,
+        "fielding_points": 0,
+        "lineup_bonus": 4,
+        "total": 81
+      }
+    },
+    "116e2bfb-6a97-4221-8006-8e7da70b0715": {
+      "name": "Mukesh Kumar",
+      "role": "Bowler",
+      "points": {
+        "batting_points": 0,
+        "sr_points": 0,
+        "bowling_points": 0,
+        "economy_points": -6,
+        "fielding_points": 0,
+        "lineup_bonus": 4,
+        "total": -2
+      }
+    },
+    "64360dd6-a8db-47ae-8837-638a5bbbaae6": {
+      "name": "Nitish Rana",
+      "role": "Batsman",
+      "points": {
+        "batting_points": 111,
+        "sr_points": 6,
+        "bowling_points": 0,
+        "economy_points": -6,
+        "fielding_points": 6,
+        "lineup_bonus": 4,
+        "total": 121
+      }
+    },
+    "a1782393-3479-4caa-9c27-79cb87df9abc": {
+      "name": "Lungi Ngidi",
+      "role": "Bowler",
+      "points": {
+        "batting_points": 0,
+        "sr_points": 0,
+        "bowling_points": 0,
+        "economy_points": -2,
+        "fielding_points": 0,
+        "lineup_bonus": 4,
+        "total": 2
+      }
+    },
+    "670ae8ac-4fe9-4f0c-84ee-320b13039f34": {
+      "name": "Axar Patel",
+      "role": "Bowling Allrounder",
+      "points": {
+        "batting_points": 2,
+        "sr_points": 0,
+        "bowling_points": 30,
+        "economy_points": -4,
+        "fielding_points": 0,
+        "lineup_bonus": 4,
+        "total": 32
+      }
+    },
+    "1e651cfb-57f1-48da-bf9d-83cbff1733d1": {
+      "name": "Kuldeep Yadav",
+      "role": "Bowler",
+      "points": {
+        "batting_points": 1,
+        "sr_points": 0,
+        "bowling_points": 0,
+        "economy_points": -6,
+        "fielding_points": 0,
+        "lineup_bonus": 4,
+        "total": -1
+      }
+    },
+    "d8826d0d-ef95-4dce-a47a-b09b97f49f07": {
+      "name": "T Natarajan",
+      "role": "Bowler",
+      "points": {
+        "batting_points": 0,
+        "sr_points": 0,
+        "bowling_points": 0,
+        "economy_points": -2,
+        "fielding_points": 0,
+        "lineup_bonus": 4,
+        "total": 2
+      }
+    },
+    "3ec5f8da-2054-4ebb-b9be-2668ddc45e66": {
+      "name": "Sameer Rizvi",
+      "role": "Batsman",
+      "points": {
+        "batting_points": 65,
+        "sr_points": 2,
+        "bowling_points": 0,
+        "economy_points": 0,
+        "fielding_points": 8,
+        "lineup_bonus": 4,
+        "total": 79
+      }
+    },
+    "bbbf3b4e-dbc3-4f2a-986d-1a0227ea5a06": {
+      "name": "Pathum Nissanka",
+      "role": "Batsman",
+      "points": {
+        "batting_points": 14,
+        "sr_points": 0,
+        "bowling_points": 0,
+        "economy_points": 0,
+        "fielding_points": 0,
+        "lineup_bonus": 4,
+        "total": 18
+      }
+    },
+    "a034346c-b408-4d29-a0f0-8b12430be28e": {
+      "name": "KL Rahul",
+      "role": "WK-Batsman",
+      "points": {
+        "batting_points": 63,
+        "sr_points": 4,
+        "bowling_points": 0,
+        "economy_points": 0,
+        "fielding_points": 0,
+        "lineup_bonus": 4,
+        "total": 71
+      }
+    },
+    "2f50df2f-809d-44f9-b5be-ccb846515861": {
+      "name": "David Miller",
+      "role": "Batsman",
+      "points": {
+        "batting_points": -2,
+        "sr_points": 0,
+        "bowling_points": 0,
+        "economy_points": 0,
+        "fielding_points": 0,
+        "lineup_bonus": 4,
+        "total": 2
+      }
+    },
+    "de19a93e-06df-4597-9186-7a53c1613552": {
+      "name": "Tristan Stubbs",
+      "role": "WK-Batsman",
+      "points": {
+        "batting_points": 49,
+        "sr_points": 4,
+        "bowling_points": 0,
+        "economy_points": 0,
+        "fielding_points": 0,
+        "lineup_bonus": 4,
+        "total": 57
+      }
+    },
+    "cd5a9124-db0b-4cf8-b541-4f8830e02c0c": {
+      "name": "Ashutosh Sharma",
+      "role": "Batting Allrounder",
+      "points": {
+        "batting_points": 22,
+        "sr_points": 2,
+        "bowling_points": 0,
+        "economy_points": 0,
+        "fielding_points": 0,
+        "lineup_bonus": 4,
+        "total": 28
+      }
+    },
+    "37934643-4b66-4878-83e8-06e836515b31": {
+      "name": "Dilshan Madushanka",
+      "role": "Bowler",
+      "points": {
+        "batting_points": 0,
+        "sr_points": 0,
+        "bowling_points": 30,
+        "economy_points": 0,
+        "fielding_points": 16,
+        "lineup_bonus": 4,
+        "total": 50
+      }
+    },
+    "5bf98798-b2b0-47d2-b799-5307c0fd4936": {
+      "name": "Nitish Kumar Reddy",
+      "role": "Batting Allrounder",
+      "points": {
+        "batting_points": 0,
+        "sr_points": 0,
+        "bowling_points": 0,
+        "economy_points": -6,
+        "fielding_points": 8,
+        "lineup_bonus": 4,
+        "total": 6
+      }
+    },
+    "7aa19b4a-48ef-4d17-bef7-1e71f7829cb5": {
+      "name": "Eshan Malinga",
+      "role": "Bowler",
+      "points": {
+        "batting_points": 0,
+        "sr_points": 0,
+        "bowling_points": 132,
+        "economy_points": 0,
+        "fielding_points": 0,
+        "lineup_bonus": 4,
+        "total": 136
+      }
+    },
+    "02247315-1e19-4e52-b800-5f39efaf3839": {
+      "name": "Sakib Hussain",
+      "role": "Bowler",
+      "points": {
+        "batting_points": 0,
+        "sr_points": 0,
+        "bowling_points": 30,
+        "economy_points": 0,
+        "fielding_points": 8,
+        "lineup_bonus": 4,
+        "total": 42
+      }
+    },
+    "80c68f84-9ddf-4f6d-9672-9b21d51fd44e": {
+      "name": "Shivang Kumar",
+      "role": "Batting Allrounder",
+      "points": {
+        "batting_points": 0,
+        "sr_points": 0,
+        "bowling_points": 0,
+        "economy_points": -6,
+        "fielding_points": 0,
+        "lineup_bonus": 4,
+        "total": -2
+      }
+    },
+    "cc7c9a0b-b6ac-4109-84c8-dd9b1704308f": {
+      "name": "Harsh Dubey",
+      "role": "Bowling Allrounder",
+      "points": {
+        "batting_points": 0,
+        "sr_points": 0,
+        "bowling_points": 94,
+        "economy_points": 2,
+        "fielding_points": 0,
+        "lineup_bonus": 4,
+        "total": 100
+      }
+    },
+    "d1c0a448-6ee6-473a-90a2-e6a486698a8a": {
+      "name": "Liam Livingstone",
+      "role": "Batting Allrounder",
+      "points": {
+        "batting_points": 0,
+        "sr_points": 0,
+        "bowling_points": 0,
+        "economy_points": 0,
+        "fielding_points": 8,
+        "lineup_bonus": 4,
+        "total": 12
+      }
+    },
+    "196f622e-e1ae-4962-95b5-81324e26c5fe": {
+      "name": "Aniket Verma",
+      "role": "Batsman",
+      "points": {
+        "batting_points": 0,
+        "sr_points": 0,
+        "bowling_points": 0,
+        "economy_points": 0,
+        "fielding_points": 8,
+        "lineup_bonus": 4,
+        "total": 12
+      }
+    }
+  }
+}
