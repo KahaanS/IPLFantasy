@@ -1,0 +1,573 @@
+{
+    "data": {
+        "id": "ed18f7e9-d348-4ace-bfcd-9639096c6808",
+        "name": "Mumbai Indians vs Lucknow Super Giants, 47th Match, Indian Premier League 2026",
+        "matchType": "t20",
+        "status": "Mumbai Indians won by 6 wkts",
+        "venue": "Wankhede Stadium, Mumbai",
+        "date": "2026-05-04",
+        "dateTimeGMT": "2026-05-04T14:00:00",
+        "teams": [
+            "Mumbai Indians",
+            "Lucknow Super Giants"
+        ],
+        "teamInfo": [
+            {
+                "name": "Lucknow Super Giants",
+                "shortname": "LSG",
+                "img": "https://g.cricapi.com/iapi/215-637876059669009476.png?w=48"
+            },
+            {
+                "name": "Mumbai Indians",
+                "shortname": "MI",
+                "img": "https://g.cricapi.com/iapi/226-637852956375593901.png?w=48"
+            }
+        ],
+        "score": [
+            {
+                "r": 228,
+                "w": 5,
+                "o": 20,
+                "inning": "Lucknow Super Giants Inning 1"
+            },
+            {
+                "r": 229,
+                "w": 4,
+                "o": 18.4,
+                "inning": "Mumbai Indians Inning 1"
+            }
+        ],
+        "tossWinner": "mumbai indians",
+        "tossChoice": "bowl",
+        "matchWinner": "Mumbai Indians",
+        "series_id": "87c62aac-bc3c-4738-ab93-19da0690488f",
+        "scorecard": [
+            {
+                "batting": [
+                    {
+                        "batsman": {
+                            "id": "6eaac800-13e7-4a07-8ee2-14acd04cc53f",
+                            "name": "Mitchell Marsh"
+                        },
+                        "dismissal": "catch",
+                        "bowler": {
+                            "id": "f1dea685-fa68-4339-b582-ba70839e5ca9",
+                            "name": "Corbin Bosch"
+                        },
+                        "catcher": {
+                            "id": "71add5ac-55f9-4eb7-9e0c-d51208ae20c0",
+                            "name": "Naman Dhir"
+                        },
+                        "dismissal-text": "c Naman Dhir b Corbin Bosch",
+                        "r": 44,
+                        "b": 25,
+                        "4s": 4,
+                        "6s": 3,
+                        "sr": 176
+                    },
+                    {
+                        "batsman": {
+                            "id": "c040878f-3995-444c-a0f2-10a456f6c84d",
+                            "name": "Josh Inglis"
+                        },
+                        "dismissal": "catch",
+                        "bowler": {
+                            "id": "01966983-b69f-4523-9377-11b5c190715f",
+                            "name": "AM Ghazanfar"
+                        },
+                        "catcher": {
+                            "id": "8c579447-bfbd-4cf6-a283-db4dc1d5ac33",
+                            "name": "Suryakumar Yadav"
+                        },
+                        "dismissal-text": "c Suryakumar Yadav b AM Ghazanfar",
+                        "r": 13,
+                        "b": 5,
+                        "4s": 3,
+                        "6s": 0,
+                        "sr": 260
+                    },
+                    {
+                        "batsman": {
+                            "id": "4e8ab9cd-c5af-430e-887b-d22bf74ad052",
+                            "name": "Nicholas Pooran"
+                        },
+                        "dismissal": "catch",
+                        "bowler": {
+                            "id": "f1dea685-fa68-4339-b582-ba70839e5ca9",
+                            "name": "Corbin Bosch"
+                        },
+                        "catcher": {
+                            "id": "a6686871-5bcd-4aae-8bfc-8298f878b6a9",
+                            "name": "Ryan Rickelton"
+                        },
+                        "dismissal-text": "c Ryan Rickelton b Corbin Bosch",
+                        "r": 63,
+                        "b": 21,
+                        "4s": 1,
+                        "6s": 8,
+                        "sr": 300
+                    },
+                    {
+                        "batsman": {
+                            "id": "a52b2d20-7c98-4238-9ba4-ec78419a5cc2",
+                            "name": "Rishabh Pant"
+                        },
+                        "dismissal": "catch",
+                        "bowler": {
+                            "id": "c510fbe6-8a16-47e4-ab60-0965720241af",
+                            "name": "Will Jacks"
+                        },
+                        "catcher": {
+                            "id": "a6686871-5bcd-4aae-8bfc-8298f878b6a9",
+                            "name": "Ryan Rickelton"
+                        },
+                        "dismissal-text": "c Ryan Rickelton b Will Jacks",
+                        "r": 15,
+                        "b": 10,
+                        "4s": 1,
+                        "6s": 1,
+                        "sr": 150
+                    },
+                    {
+                        "batsman": {
+                            "id": "3fef81b0-c1e9-45eb-954f-519f3b33d640",
+                            "name": "Aiden Markram"
+                        },
+                        "dismissal-text": "not out",
+                        "r": 31,
+                        "b": 25,
+                        "4s": 1,
+                        "6s": 1,
+                        "sr": 124
+                    },
+                    {
+                        "batsman": {
+                            "id": "596d5a37-cb81-417c-b367-8dd0a281431c",
+                            "name": "Akshat Raghuwanshi"
+                        },
+                        "dismissal": "cb",
+                        "bowler": {
+                            "id": "209404f5-0d11-4118-a9d8-086bedcfba2f",
+                            "name": "Raghu Sharma"
+                        },
+                        "dismissal-text": "c and b Raghu Sharma",
+                        "r": 11,
+                        "b": 7,
+                        "4s": 0,
+                        "6s": 1,
+                        "sr": 157.14
+                    },
+                    {
+                        "batsman": {
+                            "id": "0528c7f4-51e4-44d9-b723-cc9eac02a955",
+                            "name": "Himmat Singh"
+                        },
+                        "dismissal-text": "not out",
+                        "r": 40,
+                        "b": 31,
+                        "4s": 2,
+                        "6s": 2,
+                        "sr": 129.03
+                    }
+                ],
+                "bowling": [
+                    {
+                        "bowler": {
+                            "id": "237a1ef2-1eae-4877-8b94-d20d84faf635",
+                            "name": "Deepak Chahar"
+                        },
+                        "o": 4,
+                        "m": 0,
+                        "r": 43,
+                        "w": 0,
+                        "nb": 0,
+                        "wd": 2,
+                        "eco": 10.8
+                    },
+                    {
+                        "bowler": {
+                            "id": "6602d875-cf56-46a3-866c-de80aaa006bc",
+                            "name": "Jasprit Bumrah",
+                            "altnames": [
+                                "bumrah"
+                            ]
+                        },
+                        "o": 4,
+                        "m": 0,
+                        "r": 45,
+                        "w": 0,
+                        "nb": 3,
+                        "wd": 3,
+                        "eco": 11.2
+                    },
+                    {
+                        "bowler": {
+                            "id": "01966983-b69f-4523-9377-11b5c190715f",
+                            "name": "AM Ghazanfar"
+                        },
+                        "o": 4,
+                        "m": 0,
+                        "r": 50,
+                        "w": 1,
+                        "nb": 0,
+                        "wd": 0,
+                        "eco": 12.5
+                    },
+                    {
+                        "bowler": {
+                            "id": "c510fbe6-8a16-47e4-ab60-0965720241af",
+                            "name": "Will Jacks"
+                        },
+                        "o": 2,
+                        "m": 0,
+                        "r": 34,
+                        "w": 1,
+                        "nb": 0,
+                        "wd": 1,
+                        "eco": 17
+                    },
+                    {
+                        "bowler": {
+                            "id": "f1dea685-fa68-4339-b582-ba70839e5ca9",
+                            "name": "Corbin Bosch"
+                        },
+                        "o": 2,
+                        "m": 0,
+                        "r": 20,
+                        "w": 2,
+                        "nb": 1,
+                        "wd": 1,
+                        "eco": 10
+                    },
+                    {
+                        "bowler": {
+                            "id": "209404f5-0d11-4118-a9d8-086bedcfba2f",
+                            "name": "Raghu Sharma"
+                        },
+                        "o": 4,
+                        "m": 0,
+                        "r": 36,
+                        "w": 1,
+                        "nb": 0,
+                        "wd": 0,
+                        "eco": 9
+                    }
+                ],
+                "catching": [
+                    {
+                        "catcher": {
+                            "id": "71add5ac-55f9-4eb7-9e0c-d51208ae20c0",
+                            "name": "Naman Dhir"
+                        },
+                        "stumped": 0,
+                        "runout": 0,
+                        "catch": 1,
+                        "cb": 0,
+                        "lbw": 0,
+                        "bowled": 0
+                    },
+                    {
+                        "catcher": {
+                            "id": "8c579447-bfbd-4cf6-a283-db4dc1d5ac33",
+                            "name": "Suryakumar Yadav"
+                        },
+                        "stumped": 0,
+                        "runout": 0,
+                        "catch": 1,
+                        "cb": 0,
+                        "lbw": 0,
+                        "bowled": 0
+                    },
+                    {
+                        "catcher": {
+                            "id": "a6686871-5bcd-4aae-8bfc-8298f878b6a9",
+                            "name": "Ryan Rickelton"
+                        },
+                        "stumped": 0,
+                        "runout": 0,
+                        "catch": 2,
+                        "cb": 0,
+                        "lbw": 0,
+                        "bowled": 0
+                    },
+                    {
+                        "stumped": 0,
+                        "runout": 0,
+                        "catch": 0,
+                        "cb": 1,
+                        "lbw": 0,
+                        "bowled": 0,
+                        "catcher": {
+                            "id": "209404f5-0d11-4118-a9d8-086bedcfba2f",
+                            "name": "Raghu Sharma"
+                        }
+                    }
+                ],
+                "extras": {},
+                "totals": {},
+                "inning": "Lucknow Super Giants Inning 1"
+            },
+            {
+                "batting": [
+                    {
+                        "batsman": {
+                            "id": "a6686871-5bcd-4aae-8bfc-8298f878b6a9",
+                            "name": "Ryan Rickelton"
+                        },
+                        "dismissal": "catch",
+                        "bowler": {
+                            "id": "0a4bb087-ec55-4131-89a1-70f14153dbd9",
+                            "name": "Mohsin Khan"
+                        },
+                        "catcher": {
+                            "id": "c040878f-3995-444c-a0f2-10a456f6c84d",
+                            "name": "Josh Inglis"
+                        },
+                        "dismissal-text": "c Josh Inglis b Mohsin Khan",
+                        "r": 83,
+                        "b": 32,
+                        "4s": 6,
+                        "6s": 8,
+                        "sr": 259.38
+                    },
+                    {
+                        "batsman": {
+                            "id": "03bda674-3916-4d64-952e-00a6c19c01e1",
+                            "name": "Rohit Sharma",
+                            "altnames": [
+                                "Rohit Gurunath Sharma",
+                                "RG Sharma"
+                            ]
+                        },
+                        "dismissal": "catch",
+                        "bowler": {
+                            "id": "63075eff-1f66-4bf7-923f-5f92ee123283",
+                            "name": "Manimaran Siddharth"
+                        },
+                        "catcher": {
+                            "id": "11d06633-aa20-469c-8fbb-676a1ae33eed",
+                            "name": "Mohammed Shami",
+                            "altnames": [
+                                "shami"
+                            ]
+                        },
+                        "dismissal-text": "c Mohammed Shami b Manimaran Siddharth",
+                        "r": 84,
+                        "b": 44,
+                        "4s": 6,
+                        "6s": 7,
+                        "sr": 190.91
+                    },
+                    {
+                        "batsman": {
+                            "id": "aefd9074-da5a-408d-94f1-3be0e79d3b82",
+                            "name": "Tilak Varma"
+                        },
+                        "dismissal": "catch",
+                        "bowler": {
+                            "id": "63075eff-1f66-4bf7-923f-5f92ee123283",
+                            "name": "Manimaran Siddharth"
+                        },
+                        "catcher": {
+                            "id": "3fef81b0-c1e9-45eb-954f-519f3b33d640",
+                            "name": "Aiden Markram"
+                        },
+                        "dismissal-text": "c Aiden Markram b Manimaran Siddharth",
+                        "r": 11,
+                        "b": 13,
+                        "4s": 0,
+                        "6s": 0,
+                        "sr": 84.62
+                    },
+                    {
+                        "batsman": {
+                            "id": "8c579447-bfbd-4cf6-a283-db4dc1d5ac33",
+                            "name": "Suryakumar Yadav"
+                        },
+                        "dismissal": "catch",
+                        "bowler": {
+                            "id": "11d06633-aa20-469c-8fbb-676a1ae33eed",
+                            "name": "Mohammed Shami",
+                            "altnames": [
+                                "shami"
+                            ]
+                        },
+                        "catcher": {
+                            "id": "4e8ab9cd-c5af-430e-887b-d22bf74ad052",
+                            "name": "Nicholas Pooran"
+                        },
+                        "dismissal-text": "c Nicholas Pooran b Mohammed Shami",
+                        "r": 12,
+                        "b": 7,
+                        "4s": 2,
+                        "6s": 0,
+                        "sr": 171.43
+                    },
+                    {
+                        "batsman": {
+                            "id": "71add5ac-55f9-4eb7-9e0c-d51208ae20c0",
+                            "name": "Naman Dhir"
+                        },
+                        "dismissal-text": "not out",
+                        "r": 23,
+                        "b": 12,
+                        "4s": 3,
+                        "6s": 1,
+                        "sr": 191.67
+                    },
+                    {
+                        "batsman": {
+                            "id": "c510fbe6-8a16-47e4-ab60-0965720241af",
+                            "name": "Will Jacks"
+                        },
+                        "dismissal-text": "not out",
+                        "r": 10,
+                        "b": 4,
+                        "4s": 0,
+                        "6s": 1,
+                        "sr": 250
+                    }
+                ],
+                "bowling": [
+                    {
+                        "bowler": {
+                            "id": "11d06633-aa20-469c-8fbb-676a1ae33eed",
+                            "name": "Mohammed Shami",
+                            "altnames": [
+                                "shami"
+                            ]
+                        },
+                        "o": 4,
+                        "m": 0,
+                        "r": 53,
+                        "w": 1,
+                        "nb": 0,
+                        "wd": 0,
+                        "eco": 13.2
+                    },
+                    {
+                        "bowler": {
+                            "id": "0a4bb087-ec55-4131-89a1-70f14153dbd9",
+                            "name": "Mohsin Khan"
+                        },
+                        "o": 4,
+                        "m": 0,
+                        "r": 47,
+                        "w": 1,
+                        "nb": 0,
+                        "wd": 1,
+                        "eco": 11.8
+                    },
+                    {
+                        "bowler": {
+                            "id": "a67a5fef-c1d6-4264-a6a6-c1984489bd36",
+                            "name": "Prince Yadav"
+                        },
+                        "o": 3,
+                        "m": 0,
+                        "r": 24,
+                        "w": 0,
+                        "nb": 0,
+                        "wd": 1,
+                        "eco": 8
+                    },
+                    {
+                        "bowler": {
+                            "id": "332200ad-d1f8-4035-95c5-b33bd1c9a939",
+                            "name": "Avesh Khan"
+                        },
+                        "o": 3.4,
+                        "m": 0,
+                        "r": 56,
+                        "w": 0,
+                        "nb": 0,
+                        "wd": 2,
+                        "eco": 15.3
+                    },
+                    {
+                        "bowler": {
+                            "id": "63075eff-1f66-4bf7-923f-5f92ee123283",
+                            "name": "Manimaran Siddharth"
+                        },
+                        "o": 4,
+                        "m": 0,
+                        "r": 47,
+                        "w": 2,
+                        "nb": 0,
+                        "wd": 0,
+                        "eco": 11.8
+                    }
+                ],
+                "catching": [
+                    {
+                        "catcher": {
+                            "id": "c040878f-3995-444c-a0f2-10a456f6c84d",
+                            "name": "Josh Inglis"
+                        },
+                        "stumped": 0,
+                        "runout": 0,
+                        "catch": 1,
+                        "cb": 0,
+                        "lbw": 0,
+                        "bowled": 0
+                    },
+                    {
+                        "catcher": {
+                            "id": "11d06633-aa20-469c-8fbb-676a1ae33eed",
+                            "name": "Mohammed Shami",
+                            "altnames": [
+                                "shami"
+                            ]
+                        },
+                        "stumped": 0,
+                        "runout": 0,
+                        "catch": 1,
+                        "cb": 0,
+                        "lbw": 0,
+                        "bowled": 0
+                    },
+                    {
+                        "catcher": {
+                            "id": "3fef81b0-c1e9-45eb-954f-519f3b33d640",
+                            "name": "Aiden Markram"
+                        },
+                        "stumped": 0,
+                        "runout": 0,
+                        "catch": 1,
+                        "cb": 0,
+                        "lbw": 0,
+                        "bowled": 0
+                    },
+                    {
+                        "catcher": {
+                            "id": "4e8ab9cd-c5af-430e-887b-d22bf74ad052",
+                            "name": "Nicholas Pooran"
+                        },
+                        "stumped": 0,
+                        "runout": 0,
+                        "catch": 1,
+                        "cb": 0,
+                        "lbw": 0,
+                        "bowled": 0
+                    }
+                ],
+                "extras": {},
+                "totals": {},
+                "inning": "Mumbai Indians Inning 1"
+            }
+        ],
+        "matchStarted": true,
+        "matchEnded": true
+    },
+    "status": "success",
+    "info": {
+        "hitsToday": 20,
+        "hitsUsed": 10,
+        "hitsLimit": 100,
+        "credits": 0,
+        "server": 12,
+        "queryTime": 47.5787,
+        "s": 0,
+        "cache": 0
+    }
+}
