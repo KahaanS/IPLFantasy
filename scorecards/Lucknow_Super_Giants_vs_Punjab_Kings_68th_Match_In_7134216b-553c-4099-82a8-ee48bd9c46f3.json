@@ -1,0 +1,534 @@
+{
+    "data": {
+        "id": "7134216b-553c-4099-82a8-ee48bd9c46f3",
+        "name": "Lucknow Super Giants vs Punjab Kings, 68th Match, Indian Premier League 2026",
+        "matchType": "t20",
+        "status": "Punjab Kings won by 7 wkts",
+        "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
+        "date": "2026-05-23",
+        "dateTimeGMT": "2026-05-23T14:00:00",
+        "teams": [
+            "Lucknow Super Giants",
+            "Punjab Kings"
+        ],
+        "teamInfo": [
+            {
+                "name": "Lucknow Super Giants",
+                "shortname": "LSG",
+                "img": "https://g.cricapi.com/iapi/215-637876059669009476.png?w=48"
+            },
+            {
+                "name": "Punjab Kings",
+                "shortname": "PBKS",
+                "img": "https://g.cricapi.com/iapi/247-637852956959778791.png?w=48"
+            }
+        ],
+        "score": [
+            {
+                "r": 196,
+                "w": 6,
+                "o": 20,
+                "inning": "Lucknow Super Giants Inning 1"
+            },
+            {
+                "r": 200,
+                "w": 3,
+                "o": 18,
+                "inning": "Punjab Kings Inning 1"
+            }
+        ],
+        "tossWinner": "punjab kings",
+        "tossChoice": "bowl",
+        "matchWinner": "Punjab Kings",
+        "series_id": "87c62aac-bc3c-4738-ab93-19da0690488f",
+        "scorecard": [
+            {
+                "batting": [
+                    {
+                        "batsman": {
+                            "id": "c040878f-3995-444c-a0f2-10a456f6c84d",
+                            "name": "Josh Inglis"
+                        },
+                        "dismissal": "catch",
+                        "bowler": {
+                            "id": "9d6cb002-6b9f-4795-a9bf-ea1a6e27ed08",
+                            "name": "Shashank Singh"
+                        },
+                        "catcher": {
+                            "id": "77791963-6c1b-4979-b07a-f910dee28cd9",
+                            "name": "Shreyas Iyer"
+                        },
+                        "dismissal-text": "c Shreyas Iyer b Shashank Singh",
+                        "r": 72,
+                        "b": 44,
+                        "4s": 9,
+                        "6s": 2,
+                        "sr": 163.64
+                    },
+                    {
+                        "batsman": {
+                            "id": "eaea0d44-195d-49c6-b76b-987e8d1af290",
+                            "name": "Arshin Kulkarni"
+                        },
+                        "dismissal": "catch",
+                        "bowler": {
+                            "id": "7c341a4c-d3fa-4054-b95d-f75f94eee00c",
+                            "name": "Azmatullah Omarzai"
+                        },
+                        "catcher": {
+                            "id": "a15dfada-704c-42c3-9545-91c332ffca73",
+                            "name": "Prabhsimran Singh"
+                        },
+                        "dismissal-text": "c Prabhsimran Singh b Azmatullah Omarzai",
+                        "r": 0,
+                        "b": 1,
+                        "4s": 0,
+                        "6s": 0,
+                        "sr": 0
+                    },
+                    {
+                        "batsman": {
+                            "id": "4e8ab9cd-c5af-430e-887b-d22bf74ad052",
+                            "name": "Nicholas Pooran"
+                        },
+                        "dismissal": "bowled",
+                        "bowler": {
+                            "id": "d3c53885-7016-4228-8a20-1dd98214489d",
+                            "name": "Marco Jansen"
+                        },
+                        "dismissal-text": "b Marco Jansen",
+                        "r": 2,
+                        "b": 7,
+                        "4s": 0,
+                        "6s": 0,
+                        "sr": 28.57
+                    },
+                    {
+                        "batsman": {
+                            "id": "151d6979-05d3-4c1f-ae30-0e58af0e8613",
+                            "name": "Ayush Badoni"
+                        },
+                        "dismissal": "stumped",
+                        "bowler": {
+                            "id": "0d704a13-518a-40a7-bb93-0fc0d92af9e2",
+                            "name": "Yuzvendra Chahal"
+                        },
+                        "catcher": {
+                            "id": "a15dfada-704c-42c3-9545-91c332ffca73",
+                            "name": "Prabhsimran Singh"
+                        },
+                        "dismissal-text": "st Prabhsimran Singh b Yuzvendra Chahal",
+                        "r": 43,
+                        "b": 18,
+                        "4s": 5,
+                        "6s": 3,
+                        "sr": 238.89
+                    },
+                    {
+                        "batsman": {
+                            "id": "a52b2d20-7c98-4238-9ba4-ec78419a5cc2",
+                            "name": "Rishabh Pant"
+                        },
+                        "dismissal": "catch",
+                        "bowler": {
+                            "id": "0d704a13-518a-40a7-bb93-0fc0d92af9e2",
+                            "name": "Yuzvendra Chahal"
+                        },
+                        "catcher": {
+                            "id": "d3c53885-7016-4228-8a20-1dd98214489d",
+                            "name": "Marco Jansen"
+                        },
+                        "dismissal-text": "c Marco Jansen b Yuzvendra Chahal",
+                        "r": 26,
+                        "b": 22,
+                        "4s": 3,
+                        "6s": 0,
+                        "sr": 118.18
+                    },
+                    {
+                        "batsman": {
+                            "id": "dd665f5d-04e8-436b-b376-8fd2a9b8bf8a",
+                            "name": "Abdul Samad"
+                        },
+                        "dismissal-text": "not out",
+                        "r": 37,
+                        "b": 20,
+                        "4s": 3,
+                        "6s": 3,
+                        "sr": 185
+                    },
+                    {
+                        "batsman": {
+                            "id": "5f2406ef-f96e-4f60-8529-71d2987ff4e3",
+                            "name": "Mukul Choudhary"
+                        },
+                        "dismissal": "catch",
+                        "bowler": {
+                            "id": "d3c53885-7016-4228-8a20-1dd98214489d",
+                            "name": "Marco Jansen"
+                        },
+                        "catcher": {
+                            "id": "11beb0e3-9594-4304-b770-9f65b52a5ff9",
+                            "name": "Praveen Dubey"
+                        },
+                        "dismissal-text": "c (sub)Praveen Dubey b Marco Jansen",
+                        "r": 1,
+                        "b": 3,
+                        "4s": 0,
+                        "6s": 0,
+                        "sr": 33.33
+                    },
+                    {
+                        "batsman": {
+                            "id": "6ceed869-d2b7-4707-b6fd-cb84419cda12",
+                            "name": "Arjun Tendulkar"
+                        },
+                        "dismissal-text": "not out",
+                        "r": 5,
+                        "b": 5,
+                        "4s": 0,
+                        "6s": 0,
+                        "sr": 100
+                    }
+                ],
+                "bowling": [
+                    {
+                        "bowler": {
+                            "id": "607ff10c-5619-411d-a822-06ba28992230",
+                            "name": "Arshdeep Singh"
+                        },
+                        "o": 3,
+                        "m": 0,
+                        "r": 52,
+                        "w": 0,
+                        "nb": 0,
+                        "wd": 4,
+                        "eco": 17.3
+                    },
+                    {
+                        "bowler": {
+                            "id": "7c341a4c-d3fa-4054-b95d-f75f94eee00c",
+                            "name": "Azmatullah Omarzai"
+                        },
+                        "o": 3,
+                        "m": 0,
+                        "r": 29,
+                        "w": 1,
+                        "nb": 0,
+                        "wd": 1,
+                        "eco": 9.7
+                    },
+                    {
+                        "bowler": {
+                            "id": "d3c53885-7016-4228-8a20-1dd98214489d",
+                            "name": "Marco Jansen"
+                        },
+                        "o": 4,
+                        "m": 0,
+                        "r": 33,
+                        "w": 2,
+                        "nb": 0,
+                        "wd": 1,
+                        "eco": 8.2
+                    },
+                    {
+                        "bowler": {
+                            "id": "0d704a13-518a-40a7-bb93-0fc0d92af9e2",
+                            "name": "Yuzvendra Chahal"
+                        },
+                        "o": 4,
+                        "m": 0,
+                        "r": 25,
+                        "w": 2,
+                        "nb": 0,
+                        "wd": 0,
+                        "eco": 6.2
+                    },
+                    {
+                        "bowler": {
+                            "id": "eff809fc-9841-4825-a89f-381db15ad0a2",
+                            "name": "Vijaykumar Vyshak"
+                        },
+                        "o": 3,
+                        "m": 0,
+                        "r": 26,
+                        "w": 0,
+                        "nb": 0,
+                        "wd": 1,
+                        "eco": 8.7
+                    },
+                    {
+                        "bowler": {
+                            "id": "9d6cb002-6b9f-4795-a9bf-ea1a6e27ed08",
+                            "name": "Shashank Singh"
+                        },
+                        "o": 3,
+                        "m": 0,
+                        "r": 29,
+                        "w": 1,
+                        "nb": 0,
+                        "wd": 1,
+                        "eco": 9.7
+                    }
+                ],
+                "catching": [
+                    {
+                        "catcher": {
+                            "id": "77791963-6c1b-4979-b07a-f910dee28cd9",
+                            "name": "Shreyas Iyer"
+                        },
+                        "stumped": 0,
+                        "runout": 0,
+                        "catch": 1,
+                        "cb": 0,
+                        "lbw": 0,
+                        "bowled": 0
+                    },
+                    {
+                        "catcher": {
+                            "id": "a15dfada-704c-42c3-9545-91c332ffca73",
+                            "name": "Prabhsimran Singh"
+                        },
+                        "stumped": 1,
+                        "runout": 0,
+                        "catch": 1,
+                        "cb": 0,
+                        "lbw": 0,
+                        "bowled": 0
+                    },
+                    {
+                        "catcher": {
+                            "id": "d3c53885-7016-4228-8a20-1dd98214489d",
+                            "name": "Marco Jansen"
+                        },
+                        "stumped": 0,
+                        "runout": 0,
+                        "catch": 1,
+                        "cb": 0,
+                        "lbw": 0,
+                        "bowled": 1
+                    },
+                    {
+                        "catcher": {
+                            "id": "11beb0e3-9594-4304-b770-9f65b52a5ff9",
+                            "name": "Praveen Dubey"
+                        },
+                        "stumped": 0,
+                        "runout": 0,
+                        "catch": 1,
+                        "cb": 0,
+                        "lbw": 0,
+                        "bowled": 0
+                    }
+                ],
+                "extras": {},
+                "totals": {},
+                "inning": "Lucknow Super Giants Inning 1"
+            },
+            {
+                "batting": [
+                    {
+                        "batsman": {
+                            "id": "4ff68cf3-d3a7-489f-bf37-4ac233f41a15",
+                            "name": "Priyansh Arya"
+                        },
+                        "dismissal": "catch",
+                        "bowler": {
+                            "id": "11d06633-aa20-469c-8fbb-676a1ae33eed",
+                            "name": "Mohammed Shami",
+                            "altnames": [
+                                "shami"
+                            ]
+                        },
+                        "catcher": {
+                            "id": "6ceed869-d2b7-4707-b6fd-cb84419cda12",
+                            "name": "Arjun Tendulkar"
+                        },
+                        "dismissal-text": "c Arjun Tendulkar b Mohammed Shami",
+                        "r": 0,
+                        "b": 1,
+                        "4s": 0,
+                        "6s": 0,
+                        "sr": 0
+                    },
+                    {
+                        "batsman": {
+                            "id": "a15dfada-704c-42c3-9545-91c332ffca73",
+                            "name": "Prabhsimran Singh"
+                        },
+                        "dismissal": "lbw",
+                        "bowler": {
+                            "id": "6ceed869-d2b7-4707-b6fd-cb84419cda12",
+                            "name": "Arjun Tendulkar"
+                        },
+                        "dismissal-text": "lbw b Arjun Tendulkar",
+                        "r": 69,
+                        "b": 39,
+                        "4s": 7,
+                        "6s": 2,
+                        "sr": 176.92
+                    },
+                    {
+                        "batsman": {
+                            "id": "615b1dc1-8f64-4e26-90c4-04999321fd52",
+                            "name": "Cooper Connolly"
+                        },
+                        "dismissal": "bowled",
+                        "bowler": {
+                            "id": "11d06633-aa20-469c-8fbb-676a1ae33eed",
+                            "name": "Mohammed Shami",
+                            "altnames": [
+                                "shami"
+                            ]
+                        },
+                        "dismissal-text": "b Mohammed Shami",
+                        "r": 18,
+                        "b": 10,
+                        "4s": 4,
+                        "6s": 0,
+                        "sr": 180
+                    },
+                    {
+                        "batsman": {
+                            "id": "77791963-6c1b-4979-b07a-f910dee28cd9",
+                            "name": "Shreyas Iyer"
+                        },
+                        "dismissal-text": "not out",
+                        "r": 101,
+                        "b": 51,
+                        "4s": 11,
+                        "6s": 5,
+                        "sr": 198.04
+                    },
+                    {
+                        "batsman": {
+                            "id": "c510dc77-7e6b-482c-a96d-73ef9398e969",
+                            "name": "Suryansh Shedge"
+                        },
+                        "dismissal-text": "not out",
+                        "r": 9,
+                        "b": 7,
+                        "4s": 1,
+                        "6s": 0,
+                        "sr": 128.57
+                    }
+                ],
+                "bowling": [
+                    {
+                        "bowler": {
+                            "id": "11d06633-aa20-469c-8fbb-676a1ae33eed",
+                            "name": "Mohammed Shami",
+                            "altnames": [
+                                "shami"
+                            ]
+                        },
+                        "o": 4,
+                        "m": 0,
+                        "r": 45,
+                        "w": 2,
+                        "nb": 0,
+                        "wd": 2,
+                        "eco": 11.2
+                    },
+                    {
+                        "bowler": {
+                            "id": "a67a5fef-c1d6-4264-a6a6-c1984489bd36",
+                            "name": "Prince Yadav"
+                        },
+                        "o": 3,
+                        "m": 0,
+                        "r": 32,
+                        "w": 0,
+                        "nb": 0,
+                        "wd": 1,
+                        "eco": 10.7
+                    },
+                    {
+                        "bowler": {
+                            "id": "0a4bb087-ec55-4131-89a1-70f14153dbd9",
+                            "name": "Mohsin Khan"
+                        },
+                        "o": 4,
+                        "m": 0,
+                        "r": 48,
+                        "w": 0,
+                        "nb": 0,
+                        "wd": 0,
+                        "eco": 12
+                    },
+                    {
+                        "bowler": {
+                            "id": "93eaaabd-7529-44cb-a8c7-52acd30ea54e",
+                            "name": "Digvesh Singh Rathi"
+                        },
+                        "o": 3,
+                        "m": 0,
+                        "r": 39,
+                        "w": 0,
+                        "nb": 0,
+                        "wd": 0,
+                        "eco": 13
+                    },
+                    {
+                        "bowler": {
+                            "id": "6ceed869-d2b7-4707-b6fd-cb84419cda12",
+                            "name": "Arjun Tendulkar"
+                        },
+                        "o": 4,
+                        "m": 0,
+                        "r": 36,
+                        "w": 1,
+                        "nb": 0,
+                        "wd": 0,
+                        "eco": 9
+                    }
+                ],
+                "catching": [
+                    {
+                        "catcher": {
+                            "id": "6ceed869-d2b7-4707-b6fd-cb84419cda12",
+                            "name": "Arjun Tendulkar"
+                        },
+                        "stumped": 0,
+                        "runout": 0,
+                        "catch": 1,
+                        "cb": 0,
+                        "lbw": 1,
+                        "bowled": 0
+                    },
+                    {
+                        "stumped": 0,
+                        "runout": 0,
+                        "catch": 0,
+                        "cb": 0,
+                        "lbw": 0,
+                        "bowled": 1,
+                        "catcher": {
+                            "id": "11d06633-aa20-469c-8fbb-676a1ae33eed",
+                            "name": "Mohammed Shami",
+                            "altnames": [
+                                "shami"
+                            ]
+                        }
+                    }
+                ],
+                "extras": {},
+                "totals": {},
+                "inning": "Punjab Kings Inning 1"
+            }
+        ],
+        "matchStarted": true,
+        "matchEnded": true
+    },
+    "status": "success",
+    "info": {
+        "hitsToday": 30,
+        "hitsUsed": 10,
+        "hitsLimit": 100,
+        "credits": 0,
+        "server": 11,
+        "queryTime": 22.74,
+        "s": 0,
+        "cache": 0
+    }
+}
