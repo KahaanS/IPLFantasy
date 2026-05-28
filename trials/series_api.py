@@ -11,7 +11,7 @@ id="87c62aac-bc3c-4738-ab93-19da0690488f"
 response = requests.get("https://api.cricapi.com/v1/series_info?apikey="+apikey+"&offset=0&id="+id)
 def myobj(obj):
     text = json.dumps(obj, sort_keys=True, indent=4)
-    with open("seriesinfo.json", "w") as f:
+    with open("seriesinfo_q12.json", "w") as f:
         f.write(text)
     data = json.loads(text)['data']['info']
     print("----------------------------Series Info -----------------")
