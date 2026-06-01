@@ -1,0 +1,559 @@
+{
+    "data": {
+        "id": "ab13f9a8-3660-4706-91d2-c1363810415d",
+        "name": "Gujarat Titans vs Rajasthan Royals, Qualifier 2, Indian Premier League 2026",
+        "matchType": "t20",
+        "status": "Gujarat Titans won by 7 wkts",
+        "venue": "Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, New Chandigarh",
+        "date": "2026-05-29",
+        "dateTimeGMT": "2026-05-29T14:00:00",
+        "teams": [
+            "Gujarat Titans",
+            "Rajasthan Royals"
+        ],
+        "teamInfo": [
+            {
+                "name": "Gujarat Titans",
+                "shortname": "GT",
+                "img": "https://g.cricapi.com/iapi/172-637852957798476823.png?w=48"
+            },
+            {
+                "name": "Rajasthan Royals",
+                "shortname": "RR",
+                "img": "https://g.cricapi.com/iapi/251-637852956607161886.png?w=48"
+            }
+        ],
+        "score": [
+            {
+                "r": 214,
+                "w": 6,
+                "o": 20,
+                "inning": "rajasthan royals Inning 1"
+            },
+            {
+                "r": 219,
+                "w": 3,
+                "o": 18.4,
+                "inning": "Gujarat Titans,Rajasthan Royals Inning 1"
+            }
+        ],
+        "tossWinner": "rajasthan royals",
+        "tossChoice": "bat",
+        "matchWinner": "Gujarat Titans",
+        "series_id": "87c62aac-bc3c-4738-ab93-19da0690488f",
+        "scorecard": [
+            {
+                "batting": [
+                    {
+                        "batsman": {
+                            "id": "a254feed-0d7c-4f04-a2ab-7bf9ceef156b",
+                            "name": "Yashasvi Jaiswal"
+                        },
+                        "dismissal": "catch",
+                        "bowler": {
+                            "id": "2a8d8640-2213-4cf6-ac7e-309d8b733e96",
+                            "name": "Mohammed Siraj"
+                        },
+                        "catcher": {
+                            "id": "99eb6b5c-379f-46da-bab7-dc8fd31ba435",
+                            "name": "Prasidh Krishna"
+                        },
+                        "dismissal-text": "c Prasidh Krishna b Mohammed Siraj",
+                        "r": 1,
+                        "b": 2,
+                        "4s": 0,
+                        "6s": 0,
+                        "sr": 50
+                    },
+                    {
+                        "batsman": {
+                            "id": "0f5502aa-40c8-43c6-a38f-1496000bd5b6",
+                            "name": "Vaibhav Sooryavanshi"
+                        },
+                        "dismissal": "catch",
+                        "bowler": {
+                            "id": "a81da20a-e420-476a-baf6-204fc219dbdd",
+                            "name": "Kagiso Rabada"
+                        },
+                        "catcher": {
+                            "id": "99eb6b5c-379f-46da-bab7-dc8fd31ba435",
+                            "name": "Prasidh Krishna"
+                        },
+                        "dismissal-text": "c Prasidh Krishna b Kagiso Rabada",
+                        "r": 96,
+                        "b": 47,
+                        "4s": 8,
+                        "6s": 7,
+                        "sr": 204.26
+                    },
+                    {
+                        "batsman": {
+                            "id": "21d693c2-b4dd-4d24-b747-90dfc8357ef5",
+                            "name": "Dhruv Jurel"
+                        },
+                        "dismissal": "catch",
+                        "bowler": {
+                            "id": "a81da20a-e420-476a-baf6-204fc219dbdd",
+                            "name": "Kagiso Rabada"
+                        },
+                        "catcher": {
+                            "id": "7263e990-a9e9-4829-8adf-760d18d1315c",
+                            "name": "Shubman Gill"
+                        },
+                        "dismissal-text": "c Shubman Gill b Kagiso Rabada",
+                        "r": 7,
+                        "b": 6,
+                        "4s": 1,
+                        "6s": 0,
+                        "sr": 116.67
+                    },
+                    {
+                        "batsman": {
+                            "id": "81b446e1-bfea-45a7-a15e-062b8157a323",
+                            "name": "Ravindra Jadeja",
+                            "altnames": [
+                                "Ravindrasinh Anirudhsinh Jadeja",
+                                "Jadeja"
+                            ]
+                        },
+                        "dismissal-text": "not out",
+                        "r": 45,
+                        "b": 35,
+                        "4s": 5,
+                        "6s": 1,
+                        "sr": 128.57
+                    },
+                    {
+                        "batsman": {
+                            "id": "b51bb4e5-acdf-423b-abb3-7a1e6694d2c2",
+                            "name": "Riyan Parag"
+                        },
+                        "dismissal": "catch",
+                        "bowler": {
+                            "id": "f8e6accd-6b73-4869-93a6-d45519a361f0",
+                            "name": "Jason Holder"
+                        },
+                        "catcher": {
+                            "id": "a81da20a-e420-476a-baf6-204fc219dbdd",
+                            "name": "Kagiso Rabada"
+                        },
+                        "dismissal-text": "c Kagiso Rabada b Jason Holder",
+                        "r": 11,
+                        "b": 6,
+                        "4s": 1,
+                        "6s": 1,
+                        "sr": 183.33
+                    },
+                    {
+                        "batsman": {
+                            "id": "9f2db0cf-2b7a-4722-9134-211f612102b9",
+                            "name": "Dasun Shanaka"
+                        },
+                        "dismissal": "catch",
+                        "bowler": {
+                            "id": "f8e6accd-6b73-4869-93a6-d45519a361f0",
+                            "name": "Jason Holder"
+                        },
+                        "catcher": {
+                            "id": "7567e305-1b40-4eee-9290-e2fcb8804496",
+                            "name": "Jos Buttler"
+                        },
+                        "dismissal-text": "c Jos Buttler b Jason Holder",
+                        "r": 3,
+                        "b": 9,
+                        "4s": 0,
+                        "6s": 0,
+                        "sr": 33.33
+                    },
+                    {
+                        "batsman": {
+                            "id": "19758cd7-4cce-47d8-b1fe-5975609de802",
+                            "name": "Jofra Archer"
+                        },
+                        "dismissal": "catch",
+                        "bowler": {
+                            "id": "99eb6b5c-379f-46da-bab7-dc8fd31ba435",
+                            "name": "Prasidh Krishna"
+                        },
+                        "catcher": {
+                            "id": "7567e305-1b40-4eee-9290-e2fcb8804496",
+                            "name": "Jos Buttler"
+                        },
+                        "dismissal-text": "c Jos Buttler b Prasidh Krishna",
+                        "r": 7,
+                        "b": 4,
+                        "4s": 0,
+                        "6s": 1,
+                        "sr": 175
+                    },
+                    {
+                        "batsman": {
+                            "id": "3f9ced2d-d71a-4478-93db-d7260c7145ee",
+                            "name": "Donovan Ferreira"
+                        },
+                        "dismissal-text": "not out",
+                        "r": 38,
+                        "b": 11,
+                        "4s": 2,
+                        "6s": 4,
+                        "sr": 345.45
+                    }
+                ],
+                "bowling": [
+                    {
+                        "bowler": {
+                            "id": "2a8d8640-2213-4cf6-ac7e-309d8b733e96",
+                            "name": "Mohammed Siraj"
+                        },
+                        "o": 4,
+                        "m": 0,
+                        "r": 42,
+                        "w": 1,
+                        "nb": 0,
+                        "wd": 5,
+                        "eco": 10.5
+                    },
+                    {
+                        "bowler": {
+                            "id": "a81da20a-e420-476a-baf6-204fc219dbdd",
+                            "name": "Kagiso Rabada"
+                        },
+                        "o": 4,
+                        "m": 0,
+                        "r": 35,
+                        "w": 2,
+                        "nb": 0,
+                        "wd": 0,
+                        "eco": 8.8
+                    },
+                    {
+                        "bowler": {
+                            "id": "99eb6b5c-379f-46da-bab7-dc8fd31ba435",
+                            "name": "Prasidh Krishna"
+                        },
+                        "o": 4,
+                        "m": 0,
+                        "r": 42,
+                        "w": 1,
+                        "nb": 0,
+                        "wd": 0,
+                        "eco": 10.5
+                    },
+                    {
+                        "bowler": {
+                            "id": "309d3ffd-3d06-460d-9427-c559a604d471",
+                            "name": "Washington Sundar"
+                        },
+                        "o": 2,
+                        "m": 0,
+                        "r": 23,
+                        "w": 0,
+                        "nb": 0,
+                        "wd": 0,
+                        "eco": 11.5
+                    },
+                    {
+                        "bowler": {
+                            "id": "f8e6accd-6b73-4869-93a6-d45519a361f0",
+                            "name": "Jason Holder"
+                        },
+                        "o": 4,
+                        "m": 0,
+                        "r": 27,
+                        "w": 2,
+                        "nb": 0,
+                        "wd": 1,
+                        "eco": 6.8
+                    },
+                    {
+                        "bowler": {
+                            "id": "f0687183-ad9a-44f7-9cbf-4f7eb0cbfb5a",
+                            "name": "Rashid Khan"
+                        },
+                        "o": 2,
+                        "m": 0,
+                        "r": 45,
+                        "w": 0,
+                        "nb": 0,
+                        "wd": 0,
+                        "eco": 22.5
+                    }
+                ],
+                "catching": [
+                    {
+                        "catcher": {
+                            "id": "99eb6b5c-379f-46da-bab7-dc8fd31ba435",
+                            "name": "Prasidh Krishna"
+                        },
+                        "stumped": 0,
+                        "runout": 0,
+                        "catch": 2,
+                        "cb": 0,
+                        "lbw": 0,
+                        "bowled": 0
+                    },
+                    {
+                        "catcher": {
+                            "id": "7263e990-a9e9-4829-8adf-760d18d1315c",
+                            "name": "Shubman Gill"
+                        },
+                        "stumped": 0,
+                        "runout": 0,
+                        "catch": 1,
+                        "cb": 0,
+                        "lbw": 0,
+                        "bowled": 0
+                    },
+                    {
+                        "catcher": {
+                            "id": "a81da20a-e420-476a-baf6-204fc219dbdd",
+                            "name": "Kagiso Rabada"
+                        },
+                        "stumped": 0,
+                        "runout": 0,
+                        "catch": 1,
+                        "cb": 0,
+                        "lbw": 0,
+                        "bowled": 0
+                    },
+                    {
+                        "catcher": {
+                            "id": "7567e305-1b40-4eee-9290-e2fcb8804496",
+                            "name": "Jos Buttler"
+                        },
+                        "stumped": 0,
+                        "runout": 0,
+                        "catch": 2,
+                        "cb": 0,
+                        "lbw": 0,
+                        "bowled": 0
+                    }
+                ],
+                "extras": {},
+                "totals": {},
+                "inning": "rajasthan royals Inning 1"
+            },
+            {
+                "batting": [
+                    {
+                        "batsman": {
+                            "id": "79f582a1-f5ab-4d30-8f5f-b05d4143608c",
+                            "name": "Sai Sudharsan"
+                        },
+                        "dismissal": "hitwicket",
+                        "bowler": {
+                            "id": "a0093df7-878e-43b7-a073-8db294d9760c",
+                            "name": "Brijesh Sharma"
+                        },
+                        "dismissal-text": "hit wkt b Brijesh Sharma",
+                        "r": 58,
+                        "b": 32,
+                        "4s": 8,
+                        "6s": 1,
+                        "sr": 181.25
+                    },
+                    {
+                        "batsman": {
+                            "id": "7263e990-a9e9-4829-8adf-760d18d1315c",
+                            "name": "Shubman Gill"
+                        },
+                        "dismissal": "lbw",
+                        "bowler": {
+                            "id": "19758cd7-4cce-47d8-b1fe-5975609de802",
+                            "name": "Jofra Archer"
+                        },
+                        "dismissal-text": "lbw b Jofra Archer",
+                        "r": 104,
+                        "b": 53,
+                        "4s": 15,
+                        "6s": 3,
+                        "sr": 196.23
+                    },
+                    {
+                        "batsman": {
+                            "id": "7567e305-1b40-4eee-9290-e2fcb8804496",
+                            "name": "Jos Buttler"
+                        },
+                        "dismissal-text": "not out",
+                        "r": 9,
+                        "b": 9,
+                        "4s": 0,
+                        "6s": 0,
+                        "sr": 100
+                    },
+                    {
+                        "batsman": {
+                            "id": "309d3ffd-3d06-460d-9427-c559a604d471",
+                            "name": "Washington Sundar"
+                        },
+                        "dismissal": "catch",
+                        "bowler": {
+                            "id": "3545d689-5166-440e-9eaf-1409e554a547",
+                            "name": "Nandre Burger"
+                        },
+                        "catcher": {
+                            "id": "3f9ced2d-d71a-4478-93db-d7260c7145ee",
+                            "name": "Donovan Ferreira"
+                        },
+                        "dismissal-text": "c Donovan Ferreira b Nandre Burger",
+                        "r": 16,
+                        "b": 9,
+                        "4s": 2,
+                        "6s": 1,
+                        "sr": 177.78
+                    },
+                    {
+                        "batsman": {
+                            "id": "085d49b0-d5e5-4fc5-955b-39758a134545",
+                            "name": "Rahul Tewatia"
+                        },
+                        "dismissal-text": "not out",
+                        "r": 17,
+                        "b": 9,
+                        "4s": 2,
+                        "6s": 1,
+                        "sr": 188.89
+                    }
+                ],
+                "bowling": [
+                    {
+                        "bowler": {
+                            "id": "19758cd7-4cce-47d8-b1fe-5975609de802",
+                            "name": "Jofra Archer"
+                        },
+                        "o": 4,
+                        "m": 0,
+                        "r": 45,
+                        "w": 1,
+                        "nb": 0,
+                        "wd": 1,
+                        "eco": 11.2
+                    },
+                    {
+                        "bowler": {
+                            "id": "3545d689-5166-440e-9eaf-1409e554a547",
+                            "name": "Nandre Burger"
+                        },
+                        "o": 4,
+                        "m": 0,
+                        "r": 35,
+                        "w": 1,
+                        "nb": 0,
+                        "wd": 7,
+                        "eco": 8.8
+                    },
+                    {
+                        "bowler": {
+                            "id": "a0093df7-878e-43b7-a073-8db294d9760c",
+                            "name": "Brijesh Sharma"
+                        },
+                        "o": 3.4,
+                        "m": 0,
+                        "r": 44,
+                        "w": 1,
+                        "nb": 0,
+                        "wd": 3,
+                        "eco": 12
+                    },
+                    {
+                        "bowler": {
+                            "id": "f3876b65-0643-49df-9255-4a06dd3fa051",
+                            "name": "Tushar Deshpande"
+                        },
+                        "o": 3,
+                        "m": 0,
+                        "r": 34,
+                        "w": 0,
+                        "nb": 0,
+                        "wd": 0,
+                        "eco": 11.3
+                    },
+                    {
+                        "bowler": {
+                            "id": "cdacd831-24fc-4aa3-94c5-0882bfaec018",
+                            "name": "Yash Raj Punja"
+                        },
+                        "o": 2,
+                        "m": 0,
+                        "r": 29,
+                        "w": 0,
+                        "nb": 0,
+                        "wd": 0,
+                        "eco": 14.5
+                    },
+                    {
+                        "bowler": {
+                            "id": "81b446e1-bfea-45a7-a15e-062b8157a323",
+                            "name": "Ravindra Jadeja",
+                            "altnames": [
+                                "Ravindrasinh Anirudhsinh Jadeja",
+                                "Jadeja"
+                            ]
+                        },
+                        "o": 2,
+                        "m": 0,
+                        "r": 28,
+                        "w": 0,
+                        "nb": 0,
+                        "wd": 0,
+                        "eco": 14
+                    }
+                ],
+                "catching": [
+                    {
+                        "catcher": {
+                            "id": "3f9ced2d-d71a-4478-93db-d7260c7145ee",
+                            "name": "Donovan Ferreira"
+                        },
+                        "stumped": 0,
+                        "runout": 0,
+                        "catch": 1,
+                        "cb": 0,
+                        "lbw": 0,
+                        "bowled": 0
+                    },
+                    {
+                        "stumped": 0,
+                        "runout": 0,
+                        "catch": 0,
+                        "cb": 0,
+                        "lbw": 0,
+                        "bowled": 0,
+                        "catcher": {
+                            "id": "a0093df7-878e-43b7-a073-8db294d9760c",
+                            "name": "Brijesh Sharma"
+                        }
+                    },
+                    {
+                        "stumped": 0,
+                        "runout": 0,
+                        "catch": 0,
+                        "cb": 0,
+                        "lbw": 1,
+                        "bowled": 0,
+                        "catcher": {
+                            "id": "19758cd7-4cce-47d8-b1fe-5975609de802",
+                            "name": "Jofra Archer"
+                        }
+                    }
+                ],
+                "extras": {},
+                "totals": {},
+                "inning": "Gujarat Titans,Rajasthan Royals Inning 1"
+            }
+        ],
+        "matchStarted": true,
+        "matchEnded": true
+    },
+    "status": "success",
+    "info": {
+        "hitsToday": 20,
+        "hitsUsed": 10,
+        "hitsLimit": 100,
+        "credits": 0,
+        "server": 1,
+        "queryTime": 33.4559,
+        "s": 0,
+        "cache": 0
+    }
+}
